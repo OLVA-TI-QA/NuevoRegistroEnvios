@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_40 agentes</name>
+   <tag></tag>
+   <elementGuidId>7fd9c0b6-38d0-4f9d-baff-ee5007a91846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarTienda']/div[2]/small[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionarTienda > div.hover-icon2 > small:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>34834ac7-75a1-4d3c-ad16-032ff6bb564e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+40 agentes</value>
+      <webElementGuid>34d2759b-e60d-42f1-bbef-15dd60cc7ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarTienda&quot;)/div[@class=&quot;hover-icon2&quot;]/small[2]</value>
+      <webElementGuid>5e73254e-73e3-4f20-b39f-3512ca9b9ca7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarTienda']/div[2]/small[2]</value>
+      <webElementGuid>0190b8c0-c6bc-4a64-bcd2-c54ce348feaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de tu casa/oficina'])[1]/following::small[3]</value>
+      <webElementGuid>1fcb01ce-ed82-4e41-8ef2-b74f28388632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::small[1]</value>
+      <webElementGuid>5f74db46-bdf2-468c-82b4-ae834ff8d517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::small[1]</value>
+      <webElementGuid>12b865f5-1993-49c4-a97d-5b0bb61e6806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+40 agentes']/parent::*</value>
+      <webElementGuid>232bb377-d092-41e4-a300-57ab0f51655f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/small[2]</value>
+      <webElementGuid>1d6bab1a-7f9a-4db9-864e-e322b5f5ce81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = '+40 agentes' or . = '+40 agentes')]</value>
+      <webElementGuid>0d5017ad-406d-4007-adf2-5c24bb6e85f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

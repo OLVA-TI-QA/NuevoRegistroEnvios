@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tamao del envoEl peso mximo de un sobre_775055</name>
+   <tag></tag>
+   <elementGuidId>4fe608f8-85ca-4018-8590-829530fd6d41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.center-horizontal-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>caa4f5bc-7607-4581-b526-77cee98d0df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row center-horizontal-responsive</value>
+      <webElementGuid>1ebbbafc-e7a7-4ab0-8cb5-d9e50b04cf9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR</value>
+      <webElementGuid>751d06a7-03ba-45cc-905b-c777b4da4913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]</value>
+      <webElementGuid>d6253daf-3c6b-43ea-9113-5c9fbc2fe22b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div</value>
+      <webElementGuid>8d52e023-f8e9-46f1-9d3f-ae52c28353a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[3]</value>
+      <webElementGuid>368e2299-cff7-49ee-8991-aa589266a7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[3]</value>
+      <webElementGuid>feb66746-228f-43ef-899c-dbcfe49f1138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>9d9c8f8b-a389-4de2-b209-335bb2fc8ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR' or . = 'Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR')]</value>
+      <webElementGuid>d5a226cb-73da-46f9-bc14-4929cb73aecd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

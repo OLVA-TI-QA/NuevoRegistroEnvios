@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA LINCE - AV. ARENALES 1775LINCE - A_ffc3ea</name>
+   <tag></tag>
+   <elementGuidId>d999b7b5-1b84-4721-a50e-11bf2587deeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.hover.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7def0423-de7e-4029-ab3c-4f0baeacd820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 hover selected</value>
+      <webElementGuid>e4628104-c40f-4bbb-be44-88734372de59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>61f81e0e-6afe-4742-9099-afa2b483c682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-tipo-entrega[1]/div[@class=&quot;col-md-12 row justify-content-center mt-1&quot;]/div[@class=&quot;col-md-12 row mt-2&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 hover selected&quot;]</value>
+      <webElementGuid>5de1322b-b470-460b-9a70-3db82bdde130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>8d3bfceb-28a6-4c95-88c8-7253fabebfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>2b1b0d7c-70d0-428b-a07c-6dfd10fd4c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>4532cc2d-2814-416d-801c-048f6b840346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00' or . = 'OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>dbaba4f2-1b11-4cbc-bbab-0ea502b8800b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

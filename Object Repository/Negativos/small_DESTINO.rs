@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_DESTINO</name>
+   <tag></tag>
+   <elementGuidId>22d66d2c-6abb-45c5-840b-81e2d0b516c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div/small[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino > div.border-origen > small:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>b9431c46-faf8-49ca-89c4-0c20acfa0253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DESTINO</value>
+      <webElementGuid>1ff6ac6c-fb2f-4fef-bae3-54b28c7e52cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]/small[2]</value>
+      <webElementGuid>78211ba7-c420-444a-9faa-6fec97ad28db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div/small[2]</value>
+      <webElementGuid>b68c349a-82e5-4de2-a76c-466c31789d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE DESTINO'])[1]/following::small[1]</value>
+      <webElementGuid>e43a0df6-9ed0-4126-afe9-d97efe506b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::small[2]</value>
+      <webElementGuid>8090d5b7-35ed-4cd8-a4bd-09747817b034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forma de pago'])[1]/preceding::small[1]</value>
+      <webElementGuid>db25dbc9-b83c-4da9-9168-c79301032e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ofrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras.'])[1]/preceding::small[1]</value>
+      <webElementGuid>da2afda9-a84c-4cbf-877b-3c3ce007bdae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DESTINO']/parent::*</value>
+      <webElementGuid>8c6a9930-6b86-4dc9-8cd4-b14012692a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/small[2]</value>
+      <webElementGuid>f1f8107e-a707-4b88-93a2-53d2c984c11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'DESTINO' or . = 'DESTINO')]</value>
+      <webElementGuid>f8c20873-6fec-459d-93e4-e899c30dbf5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

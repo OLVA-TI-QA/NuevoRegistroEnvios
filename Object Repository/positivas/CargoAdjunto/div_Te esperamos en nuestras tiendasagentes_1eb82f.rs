@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Te esperamos en nuestras tiendasagentes_1eb82f</name>
+   <tag></tag>
+   <elementGuidId>112c17c7-bf99-4ae7-9ec4-3149e596f394</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dbe6aa8-c16d-4c17-bbdc-9d99f9a4f4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-3</value>
+      <webElementGuid>25b37cfc-4eac-4eda-881f-31fbe7a32200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos. </value>
+      <webElementGuid>1dc7e3e5-06d6-4bf4-8674-026a5b2f65bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-pago-respuesta[1]/div[@class=&quot;shadow border-card contenedor-div border-respuesta-responsive&quot;]/div[@class=&quot;mt-3&quot;]</value>
+      <webElementGuid>96c07092-c406-466f-a23c-206b62be4500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[4]</value>
+      <webElementGuid>93749e03-5b4c-416d-bc0b-133f10f9a436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡REGISTRO EXITOSO!'])[1]/following::div[2]</value>
+      <webElementGuid>139fa214-a616-4b54-a57b-79fd341d9533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar Rótulo'])[1]/preceding::div[1]</value>
+      <webElementGuid>6368ed4f-b95a-4241-a8c9-a135b819718f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver tiendas/agentes'])[1]/preceding::div[1]</value>
+      <webElementGuid>125f50dd-0602-485a-8dfe-bebfdc125bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos.']/parent::*</value>
+      <webElementGuid>9ab15a66-c682-43f4-a4c0-63225ccb141c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>8cd20c76-c2e0-4191-bf7a-1dbf3479166d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos. ' or . = 'Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos. ')]</value>
+      <webElementGuid>474b8ba7-6d7a-44ed-96c2-706ebc635498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

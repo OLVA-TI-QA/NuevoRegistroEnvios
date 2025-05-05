@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LIMA - LIMA - LIMA</name>
+   <tag></tag>
+   <elementGuidId>539a8e54-938e-490c-a9ce-fa3c39022ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opcion.codUbigeo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11e32200-8f10-4c43-8ee2-1f77dd4ef3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>cdceba2f-4794-45a7-8675-96e7237ca0a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen hover</value>
+      <webElementGuid>e8215898-656d-4208-9ff8-be17c249204e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LIMA - LIMA - LIMA </value>
+      <webElementGuid>61795c93-7838-4ecc-83cc-39bd3e660822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opcion.codUbigeo&quot;)</value>
+      <webElementGuid>fde0f805-9e41-4acd-910c-5a6041a9cf18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='opcion.codUbigeo']</value>
+      <webElementGuid>aca212f6-2076-41e2-b522-81f441030b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteList']/div</value>
+      <webElementGuid>b4bc25d3-3324-4558-9f0a-ca7031a9fb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECCIONE EL DESTINO DE SU ENVÍO'])[1]/following::div[2]</value>
+      <webElementGuid>29f44f61-0ffc-47dc-abd8-a0cc08309725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops, consolas, etc'])[2]/following::div[5]</value>
+      <webElementGuid>3c0a3dea-aa4f-4fc7-ac6a-f2a49dd5b7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIRECCIÓN EXACTA'])[1]/preceding::div[1]</value>
+      <webElementGuid>2ec6f9da-28fd-4c23-b35b-61b87b44511f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REFERENCIA'])[1]/preceding::div[3]</value>
+      <webElementGuid>3aecd3bc-c9c6-44e1-8638-39295f2e281c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIMA - LIMA - LIMA']/parent::*</value>
+      <webElementGuid>e417a3b3-91a2-436d-b956-21e7f3b2d9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div/div</value>
+      <webElementGuid>ccad3b89-5b19-4126-878a-c11578957300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' LIMA - LIMA - LIMA ' or . = ' LIMA - LIMA - LIMA ')]</value>
+      <webElementGuid>20919784-5142-443c-b858-367e804eb7af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

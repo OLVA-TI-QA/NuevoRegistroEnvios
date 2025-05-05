@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Seleccionar tipo de comprobante</name>
+   <tag></tag>
+   <elementGuidId>e8f462ee-4aee-42bc-a295-b1bdddc2bfdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.error_comprobante</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[3]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea5bf8c9-5b02-48d2-9393-c84ea7ffd126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error_comprobante</value>
+      <webElementGuid>7a06364d-9e71-484a-b2dc-6ff2ea07aa2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccionar tipo de comprobante</value>
+      <webElementGuid>ccc1d5ab-d591-49c6-ab66-f3b1840250d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;col-md-12 mt-3 d-flex align-items-center responsive-container&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center button-group&quot;]/div[@class=&quot;margin-top-responsive&quot;]/div[1]/span[@class=&quot;error_comprobante&quot;]</value>
+      <webElementGuid>1cfd0f6c-2f9d-4eee-af22-66781b0c4957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[3]/div/div/div/span</value>
+      <webElementGuid>44cc1913-e7a0-4e5b-9aad-e04dc0c67310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACTURA'])[1]/following::span[1]</value>
+      <webElementGuid>5ce837ff-6b9d-41f8-9277-ae5d43293392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOLETA'])[1]/following::span[1]</value>
+      <webElementGuid>aca30c62-d970-4009-b310-27e4ddcfd57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NÚMERO DOCUMENTO'])[1]/preceding::span[1]</value>
+      <webElementGuid>86220489-b91d-44ae-bea6-53f00e425200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOMBRES Y APELLIDOS'])[1]/preceding::span[1]</value>
+      <webElementGuid>f97f821f-ed7c-4666-9fd4-47cb191ce51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seleccionar tipo de comprobante']/parent::*</value>
+      <webElementGuid>4b51fa13-6a5b-4705-9a98-bb863794c8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>8a758456-bc5c-4aa8-bea0-73748f26b142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Seleccionar tipo de comprobante' or . = 'Seleccionar tipo de comprobante')]</value>
+      <webElementGuid>00eeccc8-a2af-436f-8a28-ef61e005f1e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zona sin coberturaLa direccin ingresada_98e8b8</name>
+   <tag></tag>
+   <elementGuidId>7d592142-799f-4650-9f08-7e0a4f3c5707</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-direccion-peligrosa/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>adfdbf73-01f0-4bea-8b17-cf5d76cad293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>d2d3cec8-12c6-4c68-b402-14b047a8d6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda. </value>
+      <webElementGuid>681f2d1b-411f-4059-9b98-4a3b9741e3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-direccion-peligrosa[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>9c5520a3-1450-407f-914c-4e5abb11c4d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-direccion-peligrosa/div/div/div</value>
+      <webElementGuid>48cf8660-ccb2-48dd-974d-212a399465c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[4]</value>
+      <webElementGuid>8126fb2c-cc1d-4563-91d3-4dde2a98a6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[4]</value>
+      <webElementGuid>181b693c-47b0-4cf1-a1e1-3c1b4d3026cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar dirección'])[1]/preceding::div[4]</value>
+      <webElementGuid>89bd760a-2bb6-4d78-8629-5f322db0ab9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-direccion-peligrosa/div/div/div</value>
+      <webElementGuid>694350cd-c990-4884-9b06-d5e8b471adf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda. ' or . = 'Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda. ')]</value>
+      <webElementGuid>095e79b4-f7d4-47db-b841-3625b7527d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

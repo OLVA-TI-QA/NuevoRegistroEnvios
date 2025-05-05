@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LIMA - LIMA - SAN ISIDRO</name>
+   <tag></tag>
+   <elementGuidId>0b1f46f5-5acb-4d5b-849d-06a68e7a3f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>354c2e86-22f1-4ab7-8937-71a7775c0655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>d23f1312-e2e6-415b-aabf-563f4d8804c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino hover</value>
+      <webElementGuid>79d58149-0836-4f0e-9e01-af06f7656d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LIMA - LIMA - SAN ISIDRO </value>
+      <webElementGuid>6eae4203-d575-4f56-aea1-d71446b231ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>80a90226-f8c5-4df9-aecb-2c125d3c4a00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[3]</value>
+      <webElementGuid>e1534814-547f-442c-bf33-c8670d60fdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[3]</value>
+      <webElementGuid>e7d5a930-8725-4a79-bed3-78cd889e621c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANCAVELICA - HUAYTARA - SAN ISIDRO'])[1]/following::div[1]</value>
+      <webElementGuid>8defe7e4-f971-422e-aa31-7ff8ad480fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - CHACHAPOYAS - SAN ISIDRO DE MAINO'])[1]/following::div[2]</value>
+      <webElementGuid>3c85b297-ef5a-42b6-a831-6c0d5ebe8049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'autocompleteOrigen', '&quot;', ')/div[@id=', '&quot;', 'opcion.codUbigeo', '&quot;', ']')])[1]/preceding::div[5]</value>
+      <webElementGuid>f5c2f894-4e3b-4925-9d71-7bdc0a2f8f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIMA - LIMA - SAN ISIDRO']/parent::*</value>
+      <webElementGuid>de2c9cb1-ff5e-4ece-8dbd-bab6547392cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>bc32f54a-0788-4af8-be64-6ca1b2a718d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' LIMA - LIMA - SAN ISIDRO ' or . = ' LIMA - LIMA - SAN ISIDRO ')]</value>
+      <webElementGuid>e1f7ecf4-febc-4a2b-8282-661ac48ffadb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

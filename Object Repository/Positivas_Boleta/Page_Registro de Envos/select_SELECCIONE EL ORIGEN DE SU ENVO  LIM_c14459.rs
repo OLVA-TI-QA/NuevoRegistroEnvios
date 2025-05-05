@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECCIONE EL ORIGEN DE SU ENVO  LIM_c14459</name>
+   <tag></tag>
+   <elementGuidId>9d1c4c6c-3888-43e6-892d-bbb368a4424a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>34faac8f-dec8-4870-8141-54c70f637245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7b05b35a-ef37-461d-9827-a866080d69e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>cd824439-ed0e-4551-8e5c-ce3b2021d54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SELECCIONE EL ORIGEN DE SU ENVÍO  LIMA  PUCALLPA (CALLERIA)  ICA  HUANCAYO  JAUJA  TRUJILLO  CHEPEN  PACASMAYO  CHICLAYO  FERREÑAFE  LURIN  CHILCA  MALA  PIURA  TACNA  AREQUIPA  CUSCO </value>
+      <webElementGuid>aae8156a-ae78-418c-bfab-99bfec800d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-2 row d-flex align-items-center&quot;]/div[@class=&quot;col-md-7&quot;]/select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>b2c4723e-65dc-4f51-9118-48e0395b94af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div/select</value>
+      <webElementGuid>fe413738-ccd2-4609-a7ab-66fd6334cea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona tu ubicación para ver las tiendas y agentes cercanos donde puedes dejar tus envíos.'])[1]/following::select[1]</value>
+      <webElementGuid>359a9073-0256-4fed-b99b-bd8f01c324ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección de origen'])[1]/following::select[1]</value>
+      <webElementGuid>a551052d-24a4-403a-a063-05c4510fb0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubica nuestras tiendas/agentes'])[1]/preceding::select[1]</value>
+      <webElementGuid>bba8610b-996e-4c26-9421-152d571711e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas/Agentes Olva'])[1]/preceding::select[1]</value>
+      <webElementGuid>4477165d-b4d8-4045-b29f-aa8ef9717ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>aae8cfca-b9b4-409e-ab2b-0319d2304212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' SELECCIONE EL ORIGEN DE SU ENVÍO  LIMA  PUCALLPA (CALLERIA)  ICA  HUANCAYO  JAUJA  TRUJILLO  CHEPEN  PACASMAYO  CHICLAYO  FERREÑAFE  LURIN  CHILCA  MALA  PIURA  TACNA  AREQUIPA  CUSCO ' or . = ' SELECCIONE EL ORIGEN DE SU ENVÍO  LIMA  PUCALLPA (CALLERIA)  ICA  HUANCAYO  JAUJA  TRUJILLO  CHEPEN  PACASMAYO  CHICLAYO  FERREÑAFE  LURIN  CHILCA  MALA  PIURA  TACNA  AREQUIPA  CUSCO ')]</value>
+      <webElementGuid>88cd6179-65e7-46fb-a23c-3bfcff7bbf7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

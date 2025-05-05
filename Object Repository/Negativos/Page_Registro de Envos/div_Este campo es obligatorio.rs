@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Este campo es obligatorio</name>
+   <tag></tag>
+   <elementGuidId>8e55ea98-0ce7-4cd1-a132-7e0f05738803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6c5210f-1cb2-4ca3-8f81-1ac60dc4afdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>0b107195-0dd5-4c0a-ad43-6b8e6b21227b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Este campo es obligatorio. </value>
+      <webElementGuid>e5477996-d7cb-447b-94ec-c0218eec9d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-ingresar-dimensiones-modal[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;input-container col-md-12&quot;]/div[@class=&quot;col-md-12 row ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;col-md-6 row rowm&quot;]/div[@class=&quot;col-md-12 mt-2&quot;]/div[@class=&quot;input-container col-md-12&quot;]/div[@class=&quot;error&quot;]</value>
+      <webElementGuid>cb661585-bcb3-4ca8-9763-18bfb05a2e80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>63359113-c5eb-4bec-a57c-b5b5745701bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANCHO (cm)'])[1]/following::div[1]</value>
+      <webElementGuid>05807d93-3ee9-472b-a8f8-6837e4adeb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cálcula el peso de tu envío ingresando las siguientes medidas'])[1]/following::div[5]</value>
+      <webElementGuid>c7bdd806-d9ef-42a0-9731-4aecee52aed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LARGO (cm)'])[1]/preceding::div[1]</value>
+      <webElementGuid>eb4b1ff7-e29c-4b58-b045-734a5b468350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio.'])[2]/preceding::div[1]</value>
+      <webElementGuid>1bcf8507-a4ae-4b78-9a41-363fbcb44803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Este campo es obligatorio.']/parent::*</value>
+      <webElementGuid>fc55c27a-158a-4c00-be54-03339807393d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>08e08738-7873-4ad3-b45d-f97e3a1906f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Este campo es obligatorio. ' or . = ' Este campo es obligatorio. ')]</value>
+      <webElementGuid>4ea2123a-c88d-4a95-8d88-839ec6fc182f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[6]/div/div</value>
+      <webElementGuid>57d06e36-d70f-4f5f-8428-2559dc650a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/following::div[1]</value>
+      <webElementGuid>aeeb4650-995e-4b94-8152-741eb5cad835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El valor es entre 1 y 10000.'])[1]/following::div[3]</value>
+      <webElementGuid>b5dd5bd3-b24d-4321-9620-c65fe47f82b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mercancias peligrosas'])[1]/preceding::div[2]</value>
+      <webElementGuid>767d6b72-0b86-45e7-a81d-c6f702a6f79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>97e5d446-8f7b-443a-865f-6fac32b809de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div/div</value>
+      <webElementGuid>1ee7ed3c-eadc-4825-b52b-98fd1134e1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOMBRES Y APELLIDOS'])[1]/following::div[1]</value>
+      <webElementGuid>6d8cd0ba-815a-48ee-ad6e-061441b4f0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NÚMERO DOCUMENTO'])[1]/following::div[3]</value>
+      <webElementGuid>2aff94e1-dbcb-4e6a-b519-396a0cfbce6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMAIL'])[1]/preceding::div[1]</value>
+      <webElementGuid>1a64822a-487a-4074-84d4-17a2b0d8b1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El formato de correo es invalido'])[1]/preceding::div[1]</value>
+      <webElementGuid>87aa6cdb-c452-47a3-b21d-b2983d0511a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>bea57a12-486a-4d61-9ad9-178d1484c96b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Mximo 1 Kg</name>
+   <tag></tag>
+   <elementGuidId>6ad57cc7-d4e4-40c1-9d07-3e69d649c52a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contenedorSobreEnvio']/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contenedorSobreEnvio > small.font-13</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>41cce8b1-6988-4831-bcf7-a3f949370b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-13</value>
+      <webElementGuid>ba3c6351-8ea0-4e7a-8543-00e34a839590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Máximo 1 Kg</value>
+      <webElementGuid>8dd9060c-6bd9-4f7a-b22e-4fb7707f5f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contenedorSobreEnvio&quot;)/small[@class=&quot;font-13&quot;]</value>
+      <webElementGuid>7924c17a-4556-4d81-906d-606fba800327</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contenedorSobreEnvio']/small</value>
+      <webElementGuid>c8dce98b-54fb-4259-b95c-0d0377f11cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El peso máximo de un sobre es de un 1Kg.'])[1]/following::small[1]</value>
+      <webElementGuid>079d9f24-2d31-4801-a7c2-2b7275726c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño del envío'])[1]/following::small[2]</value>
+      <webElementGuid>2663bc2c-661f-41a3-bf27-580e3b8fc350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[1]/preceding::small[1]</value>
+      <webElementGuid>8197e39a-ff06-4162-b172-53ddd24b3ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Máximo 1']/parent::*</value>
+      <webElementGuid>98877f15-f476-42c7-a591-d6f87a8373cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/small</value>
+      <webElementGuid>ef4cae21-58fb-4742-b905-c576b75dcdca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Máximo 1 Kg' or . = 'Máximo 1 Kg')]</value>
+      <webElementGuid>c010bc01-7d0d-42c5-8c5f-aff76f3332fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

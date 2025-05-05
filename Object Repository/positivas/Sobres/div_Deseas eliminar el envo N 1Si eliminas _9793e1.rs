@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deseas eliminar el envo N 1Si eliminas _9793e1</name>
+   <tag></tag>
+   <elementGuidId>e2ecfb56-63ab-496a-a581-cc6fe1de039c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/app-eliminar-envio/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>47206298-a2e8-4db4-8e9c-da6973691355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>af4483d9-8b6a-4037-8cdc-6b0c200b2b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ¿Deseas eliminar el envío N° 1Si eliminas el envío se perderán todos los datos ingresados </value>
+      <webElementGuid>62f8a721-6f12-4994-a372-a85c8733a840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/app-eliminar-envio[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>29717d46-d0e7-4893-b2c5-ef02ccf1c6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/app-eliminar-envio/div/div/div</value>
+      <webElementGuid>08675d15-4534-4d4f-a938-e509f5613b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IR A PAGAR'])[1]/following::div[4]</value>
+      <webElementGuid>515f771e-55dd-48bb-91a0-f8d7c4649836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[4]</value>
+      <webElementGuid>1fc93543-e0f4-46fd-acb5-14caf8ccfb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-eliminar-envio/div/div/div</value>
+      <webElementGuid>2b5c0a23-9f3d-4bb4-b030-19cfe04acdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ¿Deseas eliminar el envío N° 1Si eliminas el envío se perderán todos los datos ingresados ' or . = ' ¿Deseas eliminar el envío N° 1Si eliminas el envío se perderán todos los datos ingresados ')]</value>
+      <webElementGuid>d4ade01b-21ff-492b-9035-e9213b44a358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

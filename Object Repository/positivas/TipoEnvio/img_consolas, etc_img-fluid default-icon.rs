@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_consolas, etc_img-fluid default-icon</name>
+   <tag></tag>
+   <elementGuidId>f915f5d9-cc62-4084-9dd7-a42f4f43f194</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.div-peso-paquete-seleccionado.justify-content-center.align-items-center > div.justify-content-center.align-items-center.icon-container > img.img-fluid.default-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[6]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>254eb459-b838-41cf-9784-a1c54dd0229a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon_paquete_yellow.png</value>
+      <webElementGuid>b494623c-d796-4304-b153-ca4f6a672dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>80</value>
+      <webElementGuid>37267072-2344-400d-b0bd-74e8c5dfac44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>80</value>
+      <webElementGuid>da20a098-1806-4924-acda-e296194c9384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid default-icon</value>
+      <webElementGuid>50c4516d-7c59-4727-9e7f-5dbf5d4b9a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-3 scroll-container display-responsive-paq&quot;]/div[@class=&quot;m-peso-dim div-width-responsive&quot;]/div[@class=&quot;div-peso-paquete-seleccionado justify-content-center align-items-center&quot;]/div[@class=&quot;justify-content-center align-items-center icon-container&quot;]/img[@class=&quot;img-fluid default-icon&quot;]</value>
+      <webElementGuid>53e5cf32-0743-437d-ac22-3b35b2af7b06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[6]/div/div/img</value>
+      <webElementGuid>22062442-aa8f-45bc-971f-845e82ff0016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/img</value>
+      <webElementGuid>97af2451-68ca-4e92-9ef9-5500f43e323c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/icon_paquete_yellow.png']</value>
+      <webElementGuid>ba9f7d85-6908-4f4c-beb8-eb708d3884fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

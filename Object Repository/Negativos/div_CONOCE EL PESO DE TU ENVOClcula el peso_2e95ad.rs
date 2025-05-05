@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CONOCE EL PESO DE TU ENVOClcula el peso_2e95ad</name>
+   <tag></tag>
+   <elementGuidId>c878af4f-7649-4c1e-bd13-2747dfe2195e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-overlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d0cc6ae-7cb1-4944-80e2-d46304c6d154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-overlay</value>
+      <webElementGuid>367bcc73-f537-45de-9573-b113ca9e17d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONOCE EL PESO DE TU ENVÍOCálcula el peso de tu envío ingresando las siguientes medidasANCHO (cm)LARGO (cm)ALTO (cm) Ninguna dimensión puede superar 1 metro Medidas mínimas 10cm x 10cm x 14cm CALCULAR</value>
+      <webElementGuid>3deaaed3-dfb5-4ef0-8418-f1b02ce8a569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-ingresar-dimensiones-modal[1]/div[@class=&quot;modal-overlay&quot;]</value>
+      <webElementGuid>641f1ca6-f129-4302-96ba-5a03c62f658a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div</value>
+      <webElementGuid>dbea97aa-ae31-4b0d-a89b-0409b0a5f959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[2]</value>
+      <webElementGuid>dcbf6708-2c19-4edc-8442-de34d95ec0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[2]</value>
+      <webElementGuid>60e53466-cb56-46a8-bfaa-691170666648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-ingresar-dimensiones-modal/div</value>
+      <webElementGuid>7b959142-cfa9-4ab9-8d65-bad8fa94a465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CONOCE EL PESO DE TU ENVÍOCálcula el peso de tu envío ingresando las siguientes medidasANCHO (cm)LARGO (cm)ALTO (cm) Ninguna dimensión puede superar 1 metro Medidas mínimas 10cm x 10cm x 14cm CALCULAR' or . = 'CONOCE EL PESO DE TU ENVÍOCálcula el peso de tu envío ingresando las siguientes medidasANCHO (cm)LARGO (cm)ALTO (cm) Ninguna dimensión puede superar 1 metro Medidas mínimas 10cm x 10cm x 14cm CALCULAR')]</value>
+      <webElementGuid>9aa121c9-aeb7-4fef-bede-06e1049bfff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

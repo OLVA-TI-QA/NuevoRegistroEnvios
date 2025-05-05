@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Retorno de CargoCantidad de Folios  FOL_6b76c7</name>
+   <tag></tag>
+   <elementGuidId>f1948686-095c-4a0c-a80a-5068d8a67f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/app-cargo-adjunto/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-container.p-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d983db67-992f-4fc1-9ba9-674ca6d32cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-container p-3</value>
+      <webElementGuid>c76bce39-484f-4132-85d9-faa1f88ac0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar</value>
+      <webElementGuid>4360e0d7-1087-448f-8440-38c82fa864b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-que-envias[1]/app-cargo-adjunto[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container p-3&quot;]</value>
+      <webElementGuid>d5cc538d-bfa3-43f5-9341-bb4e83dd802e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/app-cargo-adjunto/div/div</value>
+      <webElementGuid>c08b5dce-3d0e-4299-97d7-4e50feeb0f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[2]</value>
+      <webElementGuid>a8212edd-9ac2-43d3-9a7d-c080cf0fa33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[2]</value>
+      <webElementGuid>98e15c5d-28e3-409c-a1e0-6abc936b1fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-cargo-adjunto/div/div</value>
+      <webElementGuid>35f4ed81-0bfa-4b70-9ea1-0bc68eaa67d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar' or . = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar')]</value>
+      <webElementGuid>bcc21717-ee82-4d25-9c76-72e4f5af5a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div</value>
+      <webElementGuid>f79435bc-49ed-4e67-8559-0d5db7bf04c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[3]</value>
+      <webElementGuid>265b5dc9-6924-4253-b767-0fccc0d59192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[3]</value>
+      <webElementGuid>b8152542-b585-41df-a6d1-ed5195343a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGOSELECCIONE TIENDA ATE - AV JAVIER PRADO ESTE NRO 8680 URBANIZACION URB MAYORAZGO   ATE - AV CARRETERA CENTRAL 7.5 KM S/N   ATE - CA 1 DE MAYO MZ 11 LTE 10 URB SAN GREGORIO   ATE - AV LA ESTRELLA S/N URB SANTA CLARA ((CENTRO COMERCIAL REAL PLAZA ) AL FRENTE DE TAI LOY)  ATE - AV LOS QUECHUAS S/N URBANIZACION SALAMANCA   ATE - Avenida Nicolás Ayllón, Ate, Perú(AV. CARRETERA CENTRAL 14.8 KM. GLORIA GRANDE LIMA - LIMA - ATE)  ATE - AV LOS QUECHUAS NRO 1485 URB SALAMANCA  CancelarAceptar' or . = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGOSELECCIONE TIENDA ATE - AV JAVIER PRADO ESTE NRO 8680 URBANIZACION URB MAYORAZGO   ATE - AV CARRETERA CENTRAL 7.5 KM S/N   ATE - CA 1 DE MAYO MZ 11 LTE 10 URB SAN GREGORIO   ATE - AV LA ESTRELLA S/N URB SANTA CLARA ((CENTRO COMERCIAL REAL PLAZA ) AL FRENTE DE TAI LOY)  ATE - AV LOS QUECHUAS S/N URBANIZACION SALAMANCA   ATE - Avenida Nicolás Ayllón, Ate, Perú(AV. CARRETERA CENTRAL 14.8 KM. GLORIA GRANDE LIMA - LIMA - ATE)  ATE - AV LOS QUECHUAS NRO 1485 URB SALAMANCA  CancelarAceptar')]</value>
+      <webElementGuid>e25abb75-0052-41f6-a687-212b6bad9f6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

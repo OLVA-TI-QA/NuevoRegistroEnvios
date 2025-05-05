@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AMAZONAS - BAGUA - ARAMANGO</name>
+   <tag></tag>
+   <elementGuidId>c0d47ac4-9017-4d50-99a2-b4fe8df1e2b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>018024ef-e7a6-4e2c-aba5-29e1800bece8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMAZONAS - BAGUA - ARAMANGO</value>
+      <webElementGuid>8a67caaa-738f-4015-a727-6a1c731bb809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[3]/div[1]/table[@class=&quot;shipments-table mt-1&quot;]/tbody[1]/tr[1]/td[5]</value>
+      <webElementGuid>d568e397-4412-4285-ba43-52482243ff48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>9c28c406-bcfc-42eb-a025-cdcb9387b8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Envío a Domicilio'])[1]/following::td[1]</value>
+      <webElementGuid>6954eb35-0d6c-4181-b211-6e96c7b0835e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clave de seguridad'])[1]/preceding::td[2]</value>
+      <webElementGuid>ee265925-5a08-42b8-a3fb-c5df0130df3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear una clave de 4 dígitos para recojo en tienda'])[1]/preceding::td[2]</value>
+      <webElementGuid>3977ae18-2100-425b-93f9-ca32fcada5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AMAZONAS - BAGUA - ARAMANGO']/parent::*</value>
+      <webElementGuid>9edd6365-c4b8-408a-b224-6758a67666cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>14e8f70e-2c30-43ac-98e7-34cb0915192b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'AMAZONAS - BAGUA - ARAMANGO' or . = 'AMAZONAS - BAGUA - ARAMANGO')]</value>
+      <webElementGuid>d04dbccb-c8cb-45c2-9641-c7c791c5f716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

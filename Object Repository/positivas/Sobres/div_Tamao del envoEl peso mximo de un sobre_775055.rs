@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tamao del envoEl peso mximo de un sobre_775055</name>
+   <tag></tag>
+   <elementGuidId>7e631b67-eb97-4051-b171-099e22e4152d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-3.margin-top-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a8428b8-cb04-4044-a2e8-2185ac6ec1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-3 margin-top-responsive</value>
+      <webElementGuid>a67d5818-9fc0-4050-9c6f-418b0b8ce8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR</value>
+      <webElementGuid>c5099683-5c9a-46b6-9e75-55260187c508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]</value>
+      <webElementGuid>72b3ffdf-f029-4f55-a3a4-400c05543158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      <webElementGuid>6d03358a-78c0-44e0-aab8-f4dce33abfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[1]</value>
+      <webElementGuid>9b9fdf52-c424-4fad-8387-53dd3427a70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[1]</value>
+      <webElementGuid>2a149fe1-edd3-4d02-9a83-a58403f14f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>721b3974-49e6-4028-97c0-abb6d66a6fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR' or . = 'Tamaño del envíoEl peso máximo de un sobre es de un 1Kg. Máximo 1 KgEjemContrato, certificados, impresiones, etc. Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR')]</value>
+      <webElementGuid>78ff466e-b69a-4515-abfd-2bae00809b4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

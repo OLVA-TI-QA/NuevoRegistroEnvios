@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mximo 1 KgEjemContrato, certificados, i_8f85cf</name>
+   <tag></tag>
+   <elementGuidId>f3ce64c0-d15b-41a2-8e9c-6cd6066c40a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contenedorSobreEnvio']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contenedorSobreEnvio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00ccf950-3ea4-4b3b-81cf-7951f67d67c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>contenedorSobreEnvio</value>
+      <webElementGuid>02bf8bd3-96ac-46d9-978c-3ac9d2821b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3 justify-content-center align-items-center div-sobre</value>
+      <webElementGuid>0c19d5aa-fd77-4cc6-acff-3cf6ec480139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>7989e446-67aa-4897-9b6e-39b5ea027493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Máximo 1 KgEjemContrato, certificados, impresiones, etc.</value>
+      <webElementGuid>603daba3-3f48-43a6-994a-feebbd83e700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contenedorSobreEnvio&quot;)</value>
+      <webElementGuid>8d444d46-d318-4b4b-8a65-ae801e1639b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='contenedorSobreEnvio']</value>
+      <webElementGuid>b5ab44ff-3c64-43a5-8ce8-0e8794678c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>800bfb39-49d7-45a6-93ca-923e1005b0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='El peso máximo de un sobre es de un 1Kg.'])[1]/following::div[2]</value>
+      <webElementGuid>e003e11f-4656-49cc-b679-660ceb3db275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño del envío'])[1]/following::div[3]</value>
+      <webElementGuid>ee509675-a652-47cc-be1c-b61d33456dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>ec737503-ea52-44c9-b4c5-048ec158cf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'contenedorSobreEnvio' and (text() = 'Máximo 1 KgEjemContrato, certificados, impresiones, etc.' or . = 'Máximo 1 KgEjemContrato, certificados, impresiones, etc.')]</value>
+      <webElementGuid>4654239e-73cd-41bf-a079-ad54a4936c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin envaCompleta los datos de_8fb21f</name>
+   <tag></tag>
+   <elementGuidId>419f93dd-6378-4306-bfe8-59713eabd414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo c&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de505499-b04c-4c51-b7e9-83f0ec0eb9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-2</value>
+      <webElementGuid>d081eaed-977d-44f8-b101-df2e296ce402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARVOLVERCONTINUAR</value>
+      <webElementGuid>28d65f0e-c081-45c4-90d0-df3303597911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]</value>
+      <webElementGuid>8bbad485-41c4-49b9-8fc7-3d7ca770444d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      <webElementGuid>27462566-a184-47b3-b4cd-9f4a2e7d5c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[2]</value>
+      <webElementGuid>c2336ff7-7e44-4e8f-8a7e-3abcad24307e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[5]</value>
+      <webElementGuid>e59e1b1b-fe69-4bbd-bab8-2c597be01354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>e8ecf5a3-2774-40d8-92ed-a9b3ea2ddd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARVOLVERCONTINUAR' or . = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARVOLVERCONTINUAR')]</value>
+      <webElementGuid>8bec60d2-f1f4-47a2-9602-25a7f8a334ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

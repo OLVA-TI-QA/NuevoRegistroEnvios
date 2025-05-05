@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_mercancias peligrosas</name>
+   <tag></tag>
+   <elementGuidId>2e6b865e-f0b2-4423-91b8-3e0b6bec197a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/main/app-formulario-envio/div[2]/div[1]/div/div/div[8]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#linkMercanciaPeligrosa > small.font-11</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>794f4805-76c2-47b1-af07-c98f0be324b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-11</value>
+      <webElementGuid>c7ab193f-37c9-4037-a5f6-3a19b2992712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> mercancias peligrosas </value>
+      <webElementGuid>e3c5eb1d-f46f-46cf-8915-b78258e12de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkMercanciaPeligrosa&quot;)/small[@class=&quot;font-11&quot;]</value>
+      <webElementGuid>9dae1548-38ca-493d-a633-e98e67b1d869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      <webElementGuid>3d31a1e5-60ef-4166-af06-f5e497ddcaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/following::small[2]</value>
+      <webElementGuid>f223bc7a-9771-4c4a-9cb9-c7223933785a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='la declaración jurada y declaro bajo juramento'])[1]/preceding::small[1]</value>
+      <webElementGuid>43552e58-50a4-43dd-b099-e096f45e03ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mercancias peligrosas']/parent::*</value>
+      <webElementGuid>fd2215fd-1f22-40a7-b79f-f79de58d62e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/small</value>
+      <webElementGuid>d7b6653f-11df-4202-bb7f-d99ec2080c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' mercancias peligrosas ' or . = ' mercancias peligrosas ')]</value>
+      <webElementGuid>f78e5455-2115-4300-8468-6bd102280603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

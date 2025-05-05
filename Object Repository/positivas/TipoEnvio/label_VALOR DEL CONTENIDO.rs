@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_VALOR DEL CONTENIDO</name>
+   <tag></tag>
+   <elementGuidId>f30b26e8-c7da-490c-a248-cae941d1cad1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>87498a2f-fc48-43a1-9d75-8fc93eb39692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputValorContenido</value>
+      <webElementGuid>5af8a2c8-30b7-49eb-939b-9ed6dd81020e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-input</value>
+      <webElementGuid>493d2f68-4ddc-4b88-b904-c05ffe319a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VALOR DEL CONTENIDO</value>
+      <webElementGuid>0e989a46-f1ae-41e2-879f-2f2f356a5dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12 row relative-position-show&quot;]/div[@class=&quot;col-md-6 col-sm-12 mt-personalized-2&quot;]/div[@class=&quot;input-container col-md-12&quot;]/label[@class=&quot;label-input&quot;]</value>
+      <webElementGuid>4d7d4496-3a26-40ce-ae78-ec1e5d74e2fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div[2]/div/label</value>
+      <webElementGuid>867a2f73-86aa-4314-90ce-de339ab37e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione un tipo de artículo'])[1]/following::label[1]</value>
+      <webElementGuid>84d41253-0a55-48e4-a39d-893c2450c45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBRE'])[1]/following::label[1]</value>
+      <webElementGuid>e42a88b8-7e45-4008-a78f-ee3a135a6582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/preceding::label[1]</value>
+      <webElementGuid>375ae83c-945e-462a-9fd6-e9eaaba91ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VALOR DEL CONTENIDO']/parent::*</value>
+      <webElementGuid>288e4b0b-d658-4c8d-aed2-eb2e491177e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>8accd715-4791-4b7f-9900-5799bb4a4908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'VALOR DEL CONTENIDO' or . = 'VALOR DEL CONTENIDO')]</value>
+      <webElementGuid>670a94b5-f3e5-4261-8963-ce60c611b8a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[4]/div[2]/div/label</value>
+      <webElementGuid>5f265dd5-e42d-4553-b170-e602ce6d02fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAQUETE'])[1]/following::label[1]</value>
+      <webElementGuid>304f6691-70ea-43e0-bad2-3b9e049067f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forma de pago'])[1]/preceding::label[2]</value>
+      <webElementGuid>548e5e2d-58e4-46fd-9a16-4db3d1881ddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

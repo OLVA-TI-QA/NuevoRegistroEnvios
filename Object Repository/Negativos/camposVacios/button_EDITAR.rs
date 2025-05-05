@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EDITAR</name>
+   <tag></tag>
+   <elementGuidId>a9a43ffd-46a4-4e92-b973-3a8c277c6bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.top-sobre > div:nth-of-type(2) > button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[5]/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>59bd0be5-4874-4ad1-a3e7-92d2e2b65c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDITAR</value>
+      <webElementGuid>af3feb7a-1ac9-4298-a261-5caf2cfe822d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-que-envias[1]/div[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row employ&quot;]/div[@class=&quot;top-sobre&quot;]/div[2]/button[1]</value>
+      <webElementGuid>26d2ea69-1dd5-4745-8793-172b0ea70609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[5]/div[2]/div[2]/button</value>
+      <webElementGuid>94cf22e2-3a2a-4dbb-ac13-93313cee74ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quiero retorno de cargo'])[1]/following::button[1]</value>
+      <webElementGuid>530be3c4-d602-4304-865a-ddaf46834a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forma de pago'])[1]/preceding::button[1]</value>
+      <webElementGuid>af864ec3-23f5-4f87-b046-f0f77ab4c5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagar en línea.'])[1]/preceding::button[1]</value>
+      <webElementGuid>d54b0a7d-ecca-4a38-b110-8ec43fb21729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EDITAR']/parent::*</value>
+      <webElementGuid>192db6b9-5853-4ae2-b2b0-f087e451d5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>4d2f2e5e-12e4-4d70-965e-10ccaf6fcb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'EDITAR' or . = 'EDITAR')]</value>
+      <webElementGuid>e2ca5a7c-03e0-4574-9075-83c43342be70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

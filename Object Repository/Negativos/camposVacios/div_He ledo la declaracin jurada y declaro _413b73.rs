@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_He ledo la declaracin jurada y declaro _413b73</name>
+   <tag></tag>
+   <elementGuidId>6d2ca626-33fe-443c-b7c8-6de55c686463</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.input-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[8]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaf39bdd-4149-4715-a240-d94e0beb51cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center input-container</value>
+      <webElementGuid>ac7cbaf4-fdd1-4fec-bc16-f2ba94587cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. </value>
+      <webElementGuid>bd22a621-bba5-4c42-8ba6-113b3a9e5d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;col-md-12 mt-1 relative-position-show&quot;]/div[@class=&quot;d-flex align-items-center input-container&quot;]</value>
+      <webElementGuid>95147569-fa18-4e65-bc9e-df682c7313a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[8]/div</value>
+      <webElementGuid>815e0ed6-66cb-45f6-b300-422165ef3b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mercancias peligrosas'])[1]/following::div[2]</value>
+      <webElementGuid>c9d92d15-b150-438a-a523-ae5c8fff23c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>e1dffac6-3104-4ef6-93b5-0db71899fd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. ' or . = 'He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. ')]</value>
+      <webElementGuid>0f3f627c-cb48-4376-b18f-bb7738f4c1bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

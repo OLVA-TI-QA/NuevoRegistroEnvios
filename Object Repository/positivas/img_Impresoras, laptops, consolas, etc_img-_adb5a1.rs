@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Impresoras, laptops, consolas, etc_img-_adb5a1</name>
+   <tag></tag>
+   <elementGuidId>cde8f30e-1ba5-4a5c-9f44-140297a85341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaTiendaSmall > div.justify-content-center.align-items-center.icon-container.me-4 > img.img-fluid.hover-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaTiendaSmall']/div/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>435ba9e0-0415-43c8-b9eb-ebd3090dca1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon_tienda_white.png</value>
+      <webElementGuid>de7fa9ab-1063-4c58-af0f-15d68426114c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>d2b42be5-ba17-4be1-8373-f92226ab5fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>ff51d45a-f4e3-4fa8-8d4f-0c50105c882a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid hover-icon</value>
+      <webElementGuid>a71de2a7-8268-4841-8280-073a664b3dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaTiendaSmall&quot;)/div[@class=&quot;justify-content-center align-items-center icon-container me-4&quot;]/img[@class=&quot;img-fluid hover-icon&quot;]</value>
+      <webElementGuid>7a428966-6528-4156-8180-a73727fabad2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaTiendaSmall']/div/img[2]</value>
+      <webElementGuid>d300ab12-5a61-4ed5-b601-3a899b752008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img[2]</value>
+      <webElementGuid>99006dac-472a-49fb-9a20-0528982feb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/icon_tienda_white.png']</value>
+      <webElementGuid>62ce0b87-edb9-4061-b533-1eeff0176b9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

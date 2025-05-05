@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_IR A PAGAR</name>
+   <tag></tag>
+   <elementGuidId>279dc8d9-41d0-4df0-9d88-2aa2728de9b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='avanzarMediosDePago'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.contenedor.pt-1.px-0.pb-3 > #avanzarMediosDePago</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>979abe0d-9178-4d50-a2db-3381e36aa568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>avanzarMediosDePago</value>
+      <webElementGuid>f6d04f22-dff7-46db-bc5e-af8349438ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boton px-3 custom-btn</value>
+      <webElementGuid>67eed9eb-c2f3-4c43-9d85-b74e74ba608c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IR A PAGAR</value>
+      <webElementGuid>98e83f2c-fa2d-4feb-98a9-d375c704e268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div px-3 m-listar-contenedor-responsive mb-listar-responsive&quot;]/div[@class=&quot;contenedor pt-1 px-0 pb-3&quot;]/button[@id=&quot;avanzarMediosDePago&quot;]</value>
+      <webElementGuid>0b9035d4-eca3-4507-ac16-9401ae1676ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='avanzarMediosDePago'])[2]</value>
+      <webElementGuid>152864fe-2043-476f-8c15-46f7de4e9085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[4]/button[2]</value>
+      <webElementGuid>3a3cd7ab-c8de-48e4-ad26-1f19c4162557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::button[1]</value>
+      <webElementGuid>1c48a7f2-f8fb-46cd-baaf-20b5ab870cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 24.50'])[2]/following::button[2]</value>
+      <webElementGuid>da90d125-dfa5-4a0d-b296-f6d7c4b9b427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>f4279175-205d-461e-b754-8a6c26d1c562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'avanzarMediosDePago' and (text() = 'IR A PAGAR' or . = 'IR A PAGAR')]</value>
+      <webElementGuid>98932aab-8a3d-4af9-8c5c-41db15f5b8ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 7.30'])[2]/following::button[2]</value>
+      <webElementGuid>e8c5914c-b1f5-414b-b832-8a58a1f8cf6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::button[1]</value>
+      <webElementGuid>09e7e3a5-2509-4673-abdc-54e2e595eee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>e6667e92-3340-4b20-b970-ba279c33e418</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

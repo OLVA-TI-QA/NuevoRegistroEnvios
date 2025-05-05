@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_de tu casaoficina</name>
+   <tag></tag>
+   <elementGuidId>8a46da0a-725f-406c-b36d-9a9c9d10e452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarDomicilio']/div[2]/small[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>7516dcf3-6de3-4cab-ab7a-b5e32a3c67ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>de tu casa/oficina</value>
+      <webElementGuid>d39f7829-bbcf-493a-bfea-4e7fc3d06853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarDomicilio&quot;)/div[@class=&quot;hover-icon2&quot;]/small[2]</value>
+      <webElementGuid>3d325beb-0095-40a0-9b08-e4906a66f096</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarDomicilio']/div[2]/small[2]</value>
+      <webElementGuid>d550182f-72d5-40e7-b9a7-2ac71ac471e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recibe tus envios en la puerta'])[1]/following::small[1]</value>
+      <webElementGuid>54457614-7a35-4575-bb83-28f1a74708fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::small[4]</value>
+      <webElementGuid>c9e636ef-34a3-4fbb-93c0-f924a2fe95fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='de tu casa/oficina']/parent::*</value>
+      <webElementGuid>27b3340f-3bfd-4173-9217-4056b3368209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small[2]</value>
+      <webElementGuid>6a9f3601-d77b-4162-9a9d-508ab0250ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'de tu casa/oficina' or . = 'de tu casa/oficina')]</value>
+      <webElementGuid>d5e957b3-e757-4477-8652-a6532dd454f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

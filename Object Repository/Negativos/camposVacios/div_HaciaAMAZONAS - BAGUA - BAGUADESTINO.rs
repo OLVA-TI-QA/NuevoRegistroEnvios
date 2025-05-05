@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HaciaAMAZONAS - BAGUA - BAGUADESTINO</name>
+   <tag></tag>
+   <elementGuidId>3e56b051-966f-446c-918b-bf058a04e8c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9afc825-f863-4267-bc04-0f673a4bb464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionaDestino</value>
+      <webElementGuid>35800b80-fda4-4338-9fe0-6810c59797d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6 d-flex only-responsive</value>
+      <webElementGuid>f4944fba-5cfd-4ddd-9042-9bb5f0383510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hacia:AMAZONAS - BAGUA - BAGUADESTINO</value>
+      <webElementGuid>5b6af620-2a86-4ae7-8849-093a6b5c6ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)</value>
+      <webElementGuid>79e5e63f-3a95-4c7d-a699-d81968f6436a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']</value>
+      <webElementGuid>19a6f4a7-cf36-4dff-9f97-6310dbb55361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-quien-recibe/div/div[4]/div[2]</value>
+      <webElementGuid>dd5e64a3-8f41-4287-8b4d-a80397d25448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::div[1]</value>
+      <webElementGuid>0650ec49-321f-4210-b420-27645a816d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA'])[1]/following::div[1]</value>
+      <webElementGuid>926950f7-df5a-4451-9fbd-583147c3cf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-quien-recibe/div/div[4]/div[2]</value>
+      <webElementGuid>5ce1301e-63bf-4c9a-837c-6c277a7c0246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionaDestino' and (text() = 'Hacia:AMAZONAS - BAGUA - BAGUADESTINO' or . = 'Hacia:AMAZONAS - BAGUA - BAGUADESTINO')]</value>
+      <webElementGuid>0f95b2d4-21e1-415f-898c-9a46f8d6d63d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

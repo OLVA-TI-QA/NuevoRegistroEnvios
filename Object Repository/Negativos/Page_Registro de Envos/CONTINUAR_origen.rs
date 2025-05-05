@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CONTINUAR_origen</name>
+   <tag></tag>
+   <elementGuidId>56e0af54-0bd7-45b6-90f2-6a0f813432c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;avanzarToSelectOrigen&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.boton.px-3.custom-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dcafe632-9e04-4743-b450-c6233fc638e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boton px-3 custom-btn</value>
+      <webElementGuid>7d8b8be5-050a-480a-9a13-d37438a06090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUAR</value>
+      <webElementGuid>fb345630-e1f9-4e68-a495-b6397bed8ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;contenedor mt-12 p-75&quot;]/button[@class=&quot;boton px-3 custom-btn&quot;]</value>
+      <webElementGuid>8afe5b30-86e1-49fa-9c96-d11ae9269b16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[7]/button[2]</value>
+      <webElementGuid>b86cdaf3-b38e-499b-9267-1b0062bc4156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::button[1]</value>
+      <webElementGuid>54171de2-f328-4009-b003-b4ba603860e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CELULAR'])[1]/following::button[2]</value>
+      <webElementGuid>646c72db-0838-4ddf-a053-a1ec11930529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección de origen'])[1]/preceding::button[1]</value>
+      <webElementGuid>af2cb7eb-7a1b-47e9-8efc-0d9fb5b0632a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button[2]</value>
+      <webElementGuid>4a57659e-201f-449c-8899-1921462b3c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
+      <webElementGuid>fdbc6790-43cb-49b9-9d93-e3ab17c6d12f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

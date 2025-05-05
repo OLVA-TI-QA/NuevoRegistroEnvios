@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA SAN BORJA - AV. AVIACION 3532SAN B_7ce636</name>
+   <tag></tag>
+   <elementGuidId>cf34d8b1-3035-4d23-a93a-a97cfd11ad4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d57b945f-70dc-4721-ad8f-7391cbb27163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 hover</value>
+      <webElementGuid>8ea60fa8-af79-4761-aaf9-242d528061df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA SAN BORJA - AV. AVIACION 3532SAN BORJA - AV AVIACION NRO 3532 AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>25841379-b8c7-499d-b6ff-ccabdb0c584c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 row justify-content-center&quot;]/div[@class=&quot;col-md-12 row mt-2&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 hover&quot;]</value>
+      <webElementGuid>fd3c8e50-8475-4e58-8599-934c2cdf48a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      <webElementGuid>48ccbc52-6aee-4f7f-934f-d86c4ff79da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>c61be391-e80d-407e-afde-9128c874a760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>517224e6-2751-4a2c-b1c7-63c4696f37ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OLVA SAN BORJA - AV. AVIACION 3532SAN BORJA - AV AVIACION NRO 3532 AbiertoLunes - Viernes 08:00 - 18:00' or . = 'OLVA SAN BORJA - AV. AVIACION 3532SAN BORJA - AV AVIACION NRO 3532 AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>589e3b45-ebd6-46cb-b6be-fb81e781f52c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

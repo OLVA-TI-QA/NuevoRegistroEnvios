@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ejemplo 100 hojas bond  300 gramos300 h_3c7061</name>
+   <tag></tag>
+   <elementGuidId>06abb4d3-e594-467f-9a00-9a2cff145cbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-7.mx-5.row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>547ed86e-f777-4d66-a1fe-2126f608d32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-7 mx-5 row</value>
+      <webElementGuid>bae53507-5e94-4538-9c0f-616a60b162a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg</value>
+      <webElementGuid>f4c34cbf-5ed6-4c48-944d-00ef09cf8ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-que-envias[1]/div[@class=&quot;ng-dirty ng-invalid ng-touched&quot;]/div[@class=&quot;col-md-12 row mt-2 employ&quot;]/div[@class=&quot;col-md-7 mx-5 row&quot;]</value>
+      <webElementGuid>a6c627fd-fdfb-4bc6-b024-6c3602c2546d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[4]/div[2]</value>
+      <webElementGuid>d0ac242d-3a5a-42e5-87b9-76343c0e2325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contrato, certificados, impresiones, etc.'])[1]/following::div[1]</value>
+      <webElementGuid>fab40fcc-2e38-4998-8532-5052ce9a4ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[1]/following::div[1]</value>
+      <webElementGuid>ddc78739-fc91-4b92-9085-af39d64b41c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quiero retorno de cargo'])[1]/preceding::div[3]</value>
+      <webElementGuid>5e8f5a17-eb8e-4041-97d5-d7a89a760d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forma de pago'])[1]/preceding::div[6]</value>
+      <webElementGuid>c6338742-51cd-48be-be24-eabc5a148d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ejemplo']/parent::*</value>
+      <webElementGuid>f7ddac7f-6875-4c36-aef5-c9bea23fe35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-que-envias/div/div[4]/div[2]</value>
+      <webElementGuid>758c8b91-b56e-4ff4-90a8-82a9be7cfd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg' or . = ' Ejemplo 100 hojas bond = 300 gramos300 hojas bond = 500 gramos600 hojas bond = 1 Kg')]</value>
+      <webElementGuid>73394641-72fc-47d9-9f97-376e3a2e42fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

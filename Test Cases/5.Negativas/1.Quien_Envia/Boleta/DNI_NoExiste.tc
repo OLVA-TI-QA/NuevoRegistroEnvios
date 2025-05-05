@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DNI_NoExiste</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d1853a9-a2a4-4245-81ca-8e87c8ec2a28</testCaseGuid>
+</TestCaseEntity>

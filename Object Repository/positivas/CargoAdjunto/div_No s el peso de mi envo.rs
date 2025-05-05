@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No s el peso de mi envo</name>
+   <tag></tag>
+   <elementGuidId>f3dcda29-b6c8-404c-9f8f-43056a9b3c1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mar-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42a5277b-eb31-42fc-a75c-5cedc055c5b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mar-top</value>
+      <webElementGuid>c3136c43-4a1c-4d05-bf90-f8e49cf15199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No sé el peso de mi envío</value>
+      <webElementGuid>2b28536a-bd4f-4a36-b5c8-faa12eddf9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]/div[@class=&quot;mar-top&quot;]</value>
+      <webElementGuid>c30cc162-7152-4486-9a99-3137cc68e6a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[4]</value>
+      <webElementGuid>2d362885-b0ae-478c-964d-005205f43dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='consolas, etc'])[1]/following::div[2]</value>
+      <webElementGuid>7e2b8a7d-1fc1-4415-b2ea-ffd1884e03d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops,'])[1]/following::div[2]</value>
+      <webElementGuid>eba9980f-5d8e-4f06-b7cb-7d506810a43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quiero retorno de cargo'])[1]/preceding::div[2]</value>
+      <webElementGuid>56674a99-3d13-4f2b-8e91-28caabd8a503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]</value>
+      <webElementGuid>7e741d41-a4db-4aa5-964c-9cc7bfba2d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No sé el peso de mi envío' or . = 'No sé el peso de mi envío')]</value>
+      <webElementGuid>d9c5dd94-a4ea-4833-bcae-78d7fbe2c777</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

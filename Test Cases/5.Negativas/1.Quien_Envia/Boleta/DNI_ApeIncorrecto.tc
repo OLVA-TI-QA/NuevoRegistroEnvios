@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DNI_ApeIncorrecto</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7e330cc-2b2e-4fb6-a7a9-af80b2f6da73</testCaseGuid>
+</TestCaseEntity>

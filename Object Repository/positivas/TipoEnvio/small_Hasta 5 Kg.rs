@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Hasta 5 Kg</name>
+   <tag></tag>
+   <elementGuidId>9697dd27-76f4-46e0-8a1e-06d4f3cce8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pesoCincoKilos > small.font-13</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoCincoKilos']/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>4ad1fb36-aa1d-43f3-b0ce-d93742ad10c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-13</value>
+      <webElementGuid>fb24d23f-3542-4772-8b7b-fa275607a0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta 5 Kg</value>
+      <webElementGuid>755d6b64-c76f-4a33-ac76-311e3614f6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoCincoKilos&quot;)/small[@class=&quot;font-13&quot;]</value>
+      <webElementGuid>9225b010-b82c-4fa9-9eee-f2a9229f0642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pesoCincoKilos']/small</value>
+      <webElementGuid>5f2a164c-2f5b-47ea-a294-5c3a67dc3636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lámparas, etc'])[2]/following::small[1]</value>
+      <webElementGuid>bcf0fdac-d7c3-4ab5-816b-3c8090d3e4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peluches, almohadas,'])[2]/following::small[2]</value>
+      <webElementGuid>e52c7135-1a9a-46cc-adaa-8f41e44d416b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[6]/preceding::small[1]</value>
+      <webElementGuid>bb996a53-3066-4162-88fe-42a310b12dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hasta 5']/parent::*</value>
+      <webElementGuid>e0a1f638-6b6f-4c3a-a62b-4046e3009265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/small</value>
+      <webElementGuid>5724acad-64a7-43d9-8faf-4961536300ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Hasta 5 Kg' or . = 'Hasta 5 Kg')]</value>
+      <webElementGuid>28149ed8-e14f-4c22-86a0-7f99d3fa7331</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

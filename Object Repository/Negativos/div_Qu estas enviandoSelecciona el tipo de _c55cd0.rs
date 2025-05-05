@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qu estas enviandoSelecciona el tipo de _c55cd0</name>
+   <tag></tag>
+   <elementGuidId>81fdf7a0-a4d3-4f5f-ac04-bd9c5799e0cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-invalid.ng-dirty.ng-touched</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc8bc663-10e4-41cc-ae3e-8c3fe3c076d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-invalid ng-dirty ng-touched</value>
+      <webElementGuid>ee00bee7-caac-427a-88fc-26184761d59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>fb40a3ea-0422-4bfc-a10c-53bc24f8f666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  ACCESORIOS Y EQUIPOS ELECTRONICOS  ACCESORIOS PARA FIESTAS  ARTÍCULOS DE LIMPIEZA  ARTÍCULOS PUBLICITARIOS  BISUTERIA  CAJA  TARJETAS PERSONALES  MUEBLES Y DECOHOGAR  FERRETERÍA Y CONSTRUCCIÓN  ALIMENTACION Y BEBIDAS  COSMETICOS  ELECTROHOGAR  JUGUETES  MATERIAL MEDICO  MEDICINAS  REPUESTOS  ROPA Y ACCESORIOS  VALIJA-DOCUMENTOS  UTILES DE ESCRITORIO  UTILES DE OFICINA VALOR DEL CONTENIDO El valor es entre 1 y 10000. ESPECIFICAR ARTÍCULO Este campo es obligatorio. Mi envío no contiene  mercancias peligrosas  Acepte si su envio no contiene mercancía peligrosa. He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. VOLVERCONTINUAR</value>
+      <webElementGuid>33d6c7c3-f844-4a55-9ec6-b7f4e3c9c387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-dirty ng-touched&quot;]</value>
+      <webElementGuid>901be919-7cdb-4e48-a3bb-14b8b7d839f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      <webElementGuid>bce63532-5504-4803-93f3-fa742ba4e828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[4]</value>
+      <webElementGuid>0fc25bd7-406d-400c-953e-c62f93056f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[7]</value>
+      <webElementGuid>cb823ca0-cda6-4164-80c5-24623501e986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>e8aea49d-3574-487d-9024-3ff066a15226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  ACCESORIOS Y EQUIPOS ELECTRONICOS  ACCESORIOS PARA FIESTAS  ARTÍCULOS DE LIMPIEZA  ARTÍCULOS PUBLICITARIOS  BISUTERIA  CAJA  TARJETAS PERSONALES  MUEBLES Y DECOHOGAR  FERRETERÍA Y CONSTRUCCIÓN  ALIMENTACION Y BEBIDAS  COSMETICOS  ELECTROHOGAR  JUGUETES  MATERIAL MEDICO  MEDICINAS  REPUESTOS  ROPA Y ACCESORIOS  VALIJA-DOCUMENTOS  UTILES DE ESCRITORIO  UTILES DE OFICINA VALOR DEL CONTENIDO El valor es entre 1 y 10000. ESPECIFICAR ARTÍCULO Este campo es obligatorio. Mi envío no contiene  mercancias peligrosas  Acepte si su envio no contiene mercancía peligrosa. He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. VOLVERCONTINUAR' or . = '¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  ACCESORIOS Y EQUIPOS ELECTRONICOS  ACCESORIOS PARA FIESTAS  ARTÍCULOS DE LIMPIEZA  ARTÍCULOS PUBLICITARIOS  BISUTERIA  CAJA  TARJETAS PERSONALES  MUEBLES Y DECOHOGAR  FERRETERÍA Y CONSTRUCCIÓN  ALIMENTACION Y BEBIDAS  COSMETICOS  ELECTROHOGAR  JUGUETES  MATERIAL MEDICO  MEDICINAS  REPUESTOS  ROPA Y ACCESORIOS  VALIJA-DOCUMENTOS  UTILES DE ESCRITORIO  UTILES DE OFICINA VALOR DEL CONTENIDO El valor es entre 1 y 10000. ESPECIFICAR ARTÍCULO Este campo es obligatorio. Mi envío no contiene  mercancias peligrosas  Acepte si su envio no contiene mercancía peligrosa. He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíos Si está conforme con los términos, debe aceptarlos. VOLVERCONTINUAR')]</value>
+      <webElementGuid>8a1d0021-88c4-4467-a938-f17cda2596cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

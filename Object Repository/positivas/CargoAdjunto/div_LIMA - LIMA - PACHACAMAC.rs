@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LIMA - LIMA - PACHACAMAC</name>
+   <tag></tag>
+   <elementGuidId>3f59831e-f4d8-4420-ba35-ccac823e6a7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opcion_150123']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opcion_150123</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>124cce9b-f76a-4dbb-865d-a3318eaecd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen hover</value>
+      <webElementGuid>7bfa80af-64be-4e3a-b18c-42dbd19c269a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion_150123</value>
+      <webElementGuid>718aa78b-9bb0-4f86-a42f-541cee93f140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LIMA - LIMA - PACHACAMAC </value>
+      <webElementGuid>88313642-6240-4cb3-918b-b5b153e495d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opcion_150123&quot;)</value>
+      <webElementGuid>08887d12-eaa5-446e-b5f8-d6b3b991c9f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='opcion_150123']</value>
+      <webElementGuid>02b59a84-7f54-410e-98a0-7b614cf3efbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteList']/div</value>
+      <webElementGuid>2a2efd07-23a6-4077-b64a-0a9f5d7e71e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::div[2]</value>
+      <webElementGuid>976230e1-326c-452f-83ed-9031c6680893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops, consolas, etc'])[2]/following::div[5]</value>
+      <webElementGuid>505c98b1-2ac0-409b-9e95-ced3ea1f87c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el destino correctamente.'])[1]/preceding::div[1]</value>
+      <webElementGuid>2094cfe9-42f1-4d95-ae12-bca2addbc604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIRECCIÓN EXACTA'])[1]/preceding::div[2]</value>
+      <webElementGuid>fcb135a1-56e5-4fdf-ae05-d3f2bdbe9381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIMA - LIMA - PACHACAMAC']/parent::*</value>
+      <webElementGuid>aad5dda7-3d31-49f0-b714-15b72ffd0631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>475ce139-cea2-46ad-bea1-f2cb79b564b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion_150123' and (text() = ' LIMA - LIMA - PACHACAMAC ' or . = ' LIMA - LIMA - PACHACAMAC ')]</value>
+      <webElementGuid>2bdb6e58-d39f-4966-ae07-b93b5fe142f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

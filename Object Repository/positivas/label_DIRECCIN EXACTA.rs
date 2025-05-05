@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_DIRECCIN EXACTA</name>
+   <tag></tag>
+   <elementGuidId>c357ab7d-ac34-45b8-abb7-b41ed577cb26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-container.col-md-12.mt-4 > label.label-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>34a01923-f883-44be-93d7-67f8cc719d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputDireccionDestino</value>
+      <webElementGuid>ad8823e1-5363-4df2-9d3d-22c8869b5765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-input</value>
+      <webElementGuid>c67f2f03-3590-4103-a8eb-dde77c533f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DIRECCIÓN EXACTA</value>
+      <webElementGuid>c538a11a-eff0-483a-8c91-4dab6fe7c073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-cargo-adjunto[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container p-3&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-1&quot;]/div[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;input-container col-md-12 mt-4&quot;]/label[@class=&quot;label-input&quot;]</value>
+      <webElementGuid>9114bf9c-0742-4697-a0c3-2deac5fc55b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div/div[2]/label</value>
+      <webElementGuid>2a71178c-1b38-48da-90f5-7973464f770f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::label[1]</value>
+      <webElementGuid>cee00318-a477-4aa3-adda-e7495302a15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops, consolas, etc'])[2]/following::label[2]</value>
+      <webElementGuid>b020443b-5e71-4dff-8d65-fec5001092f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REFERENCIA'])[1]/preceding::label[1]</value>
+      <webElementGuid>be62538e-659a-489e-a62b-3928c3f05efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::label[2]</value>
+      <webElementGuid>946570bb-3b41-4e2e-899a-172e0eb67393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DIRECCIÓN EXACTA']/parent::*</value>
+      <webElementGuid>72693320-5fb4-4bc5-954a-361580340b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>9a2e5a2d-6a83-4f61-a658-45487a56a4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'DIRECCIÓN EXACTA' or . = 'DIRECCIÓN EXACTA')]</value>
+      <webElementGuid>a416420e-35af-417f-b703-959b3289ba40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

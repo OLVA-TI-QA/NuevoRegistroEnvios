@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_SI LLEGA A TUS MANOS ES, OLVA</name>
+   <tag></tag>
+   <elementGuidId>a293fac5-b7a9-45a9-a103-25edf2802773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.mt-9.text-color-orange.font-bold.italic</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-principal/div/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;SI LLEGA A TUS MANOS ES, OLVA&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bcbe9bdd-d62c-4aed-8d95-b3e46d3eb345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-9 text-color-orange font-bold italic</value>
+      <webElementGuid>30819502-ede6-4473-bfae-6b55e8812de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SI LLEGA A TUS MANOS ES, OLVA</value>
+      <webElementGuid>cc5eb449-e8d5-4291-a3ba-ed39f637f93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-principal[1]/div[@class=&quot;d-flex align-items-center justify-content-center vh-100&quot;]/div[@class=&quot;text-center pb-5&quot;]/h2[@class=&quot;mt-9 text-color-orange font-bold italic&quot;]</value>
+      <webElementGuid>affa5f14-08e6-4c43-a417-0feccee840f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-principal/div/div[2]/h2</value>
+      <webElementGuid>797d949e-e325-40bb-9dd0-ac146c98fce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SI LLEGA A TUS MANOS ES,']/parent::*</value>
+      <webElementGuid>fd36e20b-ab90-4ad6-944c-a9dc37923888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>39092b1f-3109-483d-bbe4-d7846571be4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'SI LLEGA A TUS MANOS ES, OLVA' or . = 'SI LLEGA A TUS MANOS ES, OLVA')]</value>
+      <webElementGuid>e03f57c7-05b3-422a-93b5-4f595e4a09c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

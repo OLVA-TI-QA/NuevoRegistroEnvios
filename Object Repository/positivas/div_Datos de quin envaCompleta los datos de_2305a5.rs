@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin envaCompleta los datos de_2305a5</name>
+   <tag></tag>
+   <elementGuidId>a472cfec-9ce6-47fa-b37b-7088eb54350b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-untouched.ng-dirty.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3370e266-4a61-4d54-8ce0-25055a247693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-untouched ng-dirty ng-valid</value>
+      <webElementGuid>e1884a9e-6ebd-4b4c-974c-a59c7544b865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>9907f570-99ab-41b4-ad83-fef2b0908681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién envíaCompleta los datos de origen.Tipo comprobante :BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNOCELULAREMAILVOLVERGUARDAR</value>
+      <webElementGuid>ac10c02e-cc23-41d1-b6f1-1950afe0e40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-untouched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>c1a4660b-80d6-4d91-9051-621066e555fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      <webElementGuid>ecad24ba-bd00-4409-b270-ab9cf8a9500e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[4]</value>
+      <webElementGuid>be8946a6-9c8c-421a-b4c1-4c975e63c246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[7]</value>
+      <webElementGuid>a23fbb71-4457-40de-912c-f99ee4613f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>67fe3e47-5453-49e5-8260-c57153401df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién envíaCompleta los datos de origen.Tipo comprobante :BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNOCELULAREMAILVOLVERGUARDAR' or . = 'Datos de quién envíaCompleta los datos de origen.Tipo comprobante :BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNOCELULAREMAILVOLVERGUARDAR')]</value>
+      <webElementGuid>966e982f-c6ea-4d0f-9ff2-b5d9daf7b102</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

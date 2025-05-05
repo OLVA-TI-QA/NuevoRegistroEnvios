@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Qu deseas realizar hoy_img-fluid dimens_972478</name>
+   <tag></tag>
+   <elementGuidId>9cce45ac-54ef-4e32-a11a-d30eb0702632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonEnvio']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.dimension-icon1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>34942f3e-ce87-4222-bb60-ddd9f6648c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon_send_white.png</value>
+      <webElementGuid>2487a2df-e3b9-4d75-90af-01f030feede9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid dimension-icon1</value>
+      <webElementGuid>b461864a-c126-4fa7-873f-1e7b27f09aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonEnvio&quot;)/div[@class=&quot;icon mb-2&quot;]/img[@class=&quot;img-fluid dimension-icon1&quot;]</value>
+      <webElementGuid>3845a0ed-79cf-4100-a1a0-a2dfb7b50a28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonEnvio']/div/img</value>
+      <webElementGuid>2834027d-fc29-4235-9d7b-7d176b58b16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>80c39a20-fb6d-44bb-95a6-17c9a7498cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/icon_send_white.png']</value>
+      <webElementGuid>0409b6fe-47f5-46e2-9588-a9c2dfcaf41a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Zona sin coberturaLa direccin ingresada_afa254</name>
+   <tag></tag>
+   <elementGuidId>2c577d86-28b7-4ebd-bd5a-86045d990fcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-direccion-peligrosa/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fc63a8f8-1d3f-4637-ba33-1b9b58e730f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-container</value>
+      <webElementGuid>f74c65ce-7e44-4c65-aaa4-5b1f19eb837a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda.  Editar dirección Cambiar tipo de entrega</value>
+      <webElementGuid>60e8d7ad-2765-4f6b-a24c-a345307d96fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-direccion-peligrosa[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]</value>
+      <webElementGuid>fb5114bb-84f2-4661-bece-abd7331b164c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-direccion-peligrosa/div/div</value>
+      <webElementGuid>c3697842-1bd7-4c07-9d92-fa56adcc89a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[3]</value>
+      <webElementGuid>1e21d1ce-72f2-42d7-8661-cf09059a2ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[3]</value>
+      <webElementGuid>8deec218-f70b-42e7-8381-5850b7e1ac44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-direccion-peligrosa/div/div</value>
+      <webElementGuid>93578504-525b-4998-af08-27a9232621bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda.  Editar dirección Cambiar tipo de entrega' or . = 'Zona sin coberturaLa dirección ingresada corresponde a una zona sin cobertura. Te recomendamos modificar la dirección o seleccionar la opción de recojo en tienda.  Editar dirección Cambiar tipo de entrega')]</value>
+      <webElementGuid>6f99b6cc-08bf-4e04-818a-72ac9e9ae1b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

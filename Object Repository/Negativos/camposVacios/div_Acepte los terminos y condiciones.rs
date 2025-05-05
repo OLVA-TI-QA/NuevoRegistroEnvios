@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Acepte los terminos y condiciones</name>
+   <tag></tag>
+   <elementGuidId>62c6d8fc-7098-4fe9-b335-da0e1d4738bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#div_terminos_condiciones</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_terminos_condiciones']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4543e42-63f6-47ee-b816-f480ea867d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div_terminos_condiciones</value>
+      <webElementGuid>1b7f2a1c-db5e-4c42-b606-27a9f5785572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Acepte los terminos y condiciones. </value>
+      <webElementGuid>f042e711-5eee-439d-bbd3-a47313f3ca5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_terminos_condiciones&quot;)</value>
+      <webElementGuid>4712d95a-74b7-4d0b-bf94-80aca81e6e63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='div_terminos_condiciones']</value>
+      <webElementGuid>7ee6f7ed-2af8-4628-ad9a-7b319055e643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div[2]</value>
+      <webElementGuid>de5e798a-7a9b-4e3e-b902-16974b37ff10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='términos de uso y politica de privacidad'])[1]/following::div[1]</value>
+      <webElementGuid>3a5779b1-f004-45ae-ab2d-31fdbb023140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::div[1]</value>
+      <webElementGuid>7585f2fc-571c-47df-8190-c9a4377fcbd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::div[1]</value>
+      <webElementGuid>aa960902-3dcd-4761-8eb4-c749b23d15da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Acepte los terminos y condiciones.']/parent::*</value>
+      <webElementGuid>cff73d71-689d-4aec-9d16-97732533fbd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]</value>
+      <webElementGuid>7758dc22-f222-4eff-bd4d-053339865200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'div_terminos_condiciones' and (text() = ' Acepte los terminos y condiciones. ' or . = ' Acepte los terminos y condiciones. ')]</value>
+      <webElementGuid>5c4c0958-220d-4ae7-b5d5-4ba0a9b0a973</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

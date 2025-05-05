@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Retorno de CargoCantidad de Folios  FOL_6b76c7_1</name>
+   <tag></tag>
+   <elementGuidId>dad84cce-5fab-40e3-9f2f-d5e4567bfcc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b7e9c32-85f6-4215-9903-4aefa27f4e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-overlay</value>
+      <webElementGuid>a31d37f9-cd6b-46a3-a4c2-daa158d4a5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar</value>
+      <webElementGuid>0d7d00a2-d44b-49d6-90ed-b6e18eee07f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-cargo-adjunto[1]/div[@class=&quot;modal-overlay&quot;]</value>
+      <webElementGuid>9134ad35-85e7-4ab8-909b-5478844eb379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div</value>
+      <webElementGuid>86eb6a08-c8b8-45bd-8ad9-7c7e46602b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[2]</value>
+      <webElementGuid>38cc38e1-8d29-4301-8e6c-94b33bb0af40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[2]</value>
+      <webElementGuid>a8ad74c0-b005-4d86-b51a-9ddbf3d430d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-cargo-adjunto/div</value>
+      <webElementGuid>9fbbd705-37c8-4ad7-853a-8981e51860fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar' or . = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGODIRECCIÓN EXACTAREFERENCIACancelarAceptar')]</value>
+      <webElementGuid>e00c6506-4b78-4245-b3e0-f56b0654afe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

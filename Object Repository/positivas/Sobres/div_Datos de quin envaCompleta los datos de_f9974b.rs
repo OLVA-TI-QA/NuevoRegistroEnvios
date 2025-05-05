@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin envaCompleta los datos de_f9974b</name>
+   <tag></tag>
+   <elementGuidId>63cd605c-4749-4461-adc9-1505bfb4045c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f9eae71-fbf4-4cd0-8e18-3bddf3158492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-2</value>
+      <webElementGuid>e01349d5-b36d-4a82-9b1c-16a914e34ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  RUC NÚMERO DOCUMENTORAZÓN SOCIALEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR</value>
+      <webElementGuid>7a3b357e-c776-48d3-87ca-f426aee8c342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]</value>
+      <webElementGuid>77abb337-e201-4e8d-87d3-76cb7d25550f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      <webElementGuid>a5de18b3-ee6a-462f-a38e-830351ec2b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[2]</value>
+      <webElementGuid>75b8c380-ea3a-44f0-8c97-e58ead69579f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[5]</value>
+      <webElementGuid>01f78c12-3fe4-4191-b672-f01a4e0c58d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>01a78fb7-4f14-469e-a2c1-d9709a1a90ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  RUC NÚMERO DOCUMENTORAZÓN SOCIALEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR' or . = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  RUC NÚMERO DOCUMENTORAZÓN SOCIALEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR')]</value>
+      <webElementGuid>4cb621f7-e9cc-454b-94a1-e392c45b97d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

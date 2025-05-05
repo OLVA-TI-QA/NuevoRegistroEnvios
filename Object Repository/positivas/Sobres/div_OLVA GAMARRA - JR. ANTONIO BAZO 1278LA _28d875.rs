@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA GAMARRA - JR. ANTONIO BAZO 1278LA _28d875</name>
+   <tag></tag>
+   <elementGuidId>a338f501-bf81-4c7f-b74d-f3aa7c8de0f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db80ad2d-a40c-4f69-9ab1-aad4957be786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 hover</value>
+      <webElementGuid>b88c2078-31c0-43ba-8ab6-d174eed0b298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA GAMARRA - JR. ANTONIO BAZO 1278LA VICTORIA - JR ANTONIO BAZO NRO 1280 AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>39d32202-fd13-4cf2-a501-2123861d9731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 row justify-content-center&quot;]/div[@class=&quot;col-md-12 row mt-2&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 hover&quot;]</value>
+      <webElementGuid>6483d455-18ea-4f13-93f0-6da8a007d65f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      <webElementGuid>892b449e-c19d-4495-9f08-a9566071d6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>db58c089-81de-448f-93f3-5d5b9305e5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>2a4570bf-31e1-4a8a-adb6-98bdd7f32c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OLVA GAMARRA - JR. ANTONIO BAZO 1278LA VICTORIA - JR ANTONIO BAZO NRO 1280 AbiertoLunes - Viernes 08:00 - 18:00' or . = 'OLVA GAMARRA - JR. ANTONIO BAZO 1278LA VICTORIA - JR ANTONIO BAZO NRO 1280 AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>4881ffaa-433c-41c5-bec8-f68cb15dbf04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

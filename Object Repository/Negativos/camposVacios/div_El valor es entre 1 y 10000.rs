@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El valor es entre 1 y 10000</name>
+   <tag></tag>
+   <elementGuidId>cc528d69-2e86-4500-90b0-8b8a47101a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51d1ffc5-c6d1-45ce-899a-c45cb2df8248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>78f40df3-3fc0-4111-9d04-1cf79e0db1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> El valor es entre 1 y 10000. </value>
+      <webElementGuid>0ffd4157-0a17-4455-a81e-bd8ffdebced3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-que-envias[1]/div[@class=&quot;ng-dirty ng-invalid ng-touched&quot;]/div[@class=&quot;col-md-12 mt-3 row&quot;]/div[@class=&quot;col-md-3 col-sm-12 mt-personalized-1 pe-0 p-valor&quot;]/div[@class=&quot;input-container col-md-12 padding-responsive-0&quot;]/div[@class=&quot;error&quot;]</value>
+      <webElementGuid>91786aed-8a53-4ed4-8c56-4070158563d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>ba2deec5-45f1-432a-96eb-4dff0fc8a2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALOR DEL CONTENIDO'])[1]/following::div[1]</value>
+      <webElementGuid>e96fefd6-97d4-42f3-b0f3-0aa8290af571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBRE'])[1]/following::div[5]</value>
+      <webElementGuid>4ffd3e0c-5a8d-4809-9b4d-147403439808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/preceding::div[1]</value>
+      <webElementGuid>228aeb44-7071-4b95-b3bd-c25789173a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño del envío'])[1]/preceding::div[3]</value>
+      <webElementGuid>4c5a9cd0-4e8e-4813-b1c7-7aa218131d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El valor es entre 1 y 10000.']/parent::*</value>
+      <webElementGuid>30b987ab-d464-48a2-8571-cb2a6b13ea75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div/div</value>
+      <webElementGuid>a75a3a61-ee14-4c94-9053-05fdb874b015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' El valor es entre 1 y 10000. ' or . = ' El valor es entre 1 y 10000. ')]</value>
+      <webElementGuid>1c4ff57e-5fca-42c6-b39c-a08857837fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona un articulo.'])[1]/following::div[3]</value>
+      <webElementGuid>a6b3a173-52c8-4b6a-b3ec-fac37f7fd90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio.'])[1]/preceding::div[1]</value>
+      <webElementGuid>5697bfda-7c03-42f1-b6d3-27511a9e0ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div[2]/div/div</value>
+      <webElementGuid>c5d09851-74d6-4375-a831-c5e28d855692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div</value>
+      <webElementGuid>268f3d8f-e2df-4af9-86eb-881d5417e41f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

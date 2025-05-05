@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin envaCompleta los datos de_49ed04</name>
+   <tag></tag>
+   <elementGuidId>0a24f745-076b-4a5a-8e6d-7075daf9106c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5527fec5-7bb4-4dcb-bf41-68b175520d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>4a343459-de20-4333-a966-872326cb6c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>16a6c38b-46cb-44bd-b3e7-d660f987c6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR</value>
+      <webElementGuid>b79109ea-a137-4f1c-9fc5-8221bbc32aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>0233596b-c256-4da8-882a-84b423cbaf7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      <webElementGuid>1764f786-0573-4a4d-8c30-877f9ebf7ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[4]</value>
+      <webElementGuid>b74adde3-6c41-46fb-8d6d-eee99474a42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[7]</value>
+      <webElementGuid>ca87f4a9-ff89-4b1e-88e0-5cdf23247980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>b992e0ee-dbef-4e21-975e-6c2f14e464d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR' or . = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR')]</value>
+      <webElementGuid>c14667fc-5789-4a9f-bc66-3f982caaa509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

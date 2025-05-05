@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_COLEGIO  DE BIOLOGOS DEL PERU</name>
+   <tag></tag>
+   <elementGuidId>26691392-27fd-4226-a358-baa47fe1aba9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ec03e0b5-fae8-47e1-85e0-d671d2ad2cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>. COLEGIO  DE BIOLOGOS DEL PERU .</value>
+      <webElementGuid>5657d008-f7f3-4e60-8b41-9fd425cedf2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[3]/div[1]/table[@class=&quot;shipments-table mt-1&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>a89fccb0-d20a-4d2f-9946-ea4012f8f6c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>f72385e2-3c1b-4123-b480-94510aaadef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESTINO'])[1]/following::td[3]</value>
+      <webElementGuid>dc2f2648-c610-4496-9dbb-369cb617937e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIPO DE ENTREGA'])[1]/following::td[3]</value>
+      <webElementGuid>70253e31-69a6-4a2d-8807-96f5bce93f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Envío a Domicilio'])[1]/preceding::td[1]</value>
+      <webElementGuid>666dd1f5-2a57-47a4-b9b7-7b6a2f600a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - BAGUA'])[1]/preceding::td[2]</value>
+      <webElementGuid>adcc76f7-76f7-4e11-9b0e-55559012dcfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>b2a70ade-c73f-4e25-a2c9-d53cfe5043d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '. COLEGIO  DE BIOLOGOS DEL PERU .' or . = '. COLEGIO  DE BIOLOGOS DEL PERU .')]</value>
+      <webElementGuid>bb2a8239-03c2-40d7-b8dd-2e42061b6bd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

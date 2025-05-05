@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_billeteras electrnicas</name>
+   <tag></tag>
+   <elementGuidId>722ce714-89f2-43fb-91b7-7aca2638464c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonPagarNiubiz']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d383efeb-1eac-427c-a8af-79201d9ac75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-pago</value>
+      <webElementGuid>f57a0cbc-5e05-4bb7-9078-45181386a5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>billeteras electrónicas.</value>
+      <webElementGuid>32efefad-868e-4b9c-aaa5-47c693d669db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonPagarNiubiz&quot;)/div[@class=&quot;justify-content-center align-items-center icon-container&quot;]/div[@class=&quot;row ms-2&quot;]/div[@class=&quot;font-pago&quot;]</value>
+      <webElementGuid>fb13deac-dc18-412b-82ec-0cc0b11d49aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonPagarNiubiz']/div/div/div[2]</value>
+      <webElementGuid>7b860bec-e5b6-41fd-9175-6c597ce8120c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjeta de crédito/débito,'])[1]/following::div[1]</value>
+      <webElementGuid>72e41fcd-744d-4311-8a2c-c97c4fe2845b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elige la opción de tu preferencia y recuerda que todos nuestros medios de pago son seguros.'])[1]/following::div[7]</value>
+      <webElementGuid>501fe93c-ecce-4019-b763-02cc1f446580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago en banca móvil,'])[1]/preceding::div[1]</value>
+      <webElementGuid>672e9232-bfc3-4f16-a15c-0364e63a4e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bancos y banca por internet.'])[1]/preceding::div[2]</value>
+      <webElementGuid>9ed6a885-c2df-4c2f-800d-196a4fb764c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='billeteras electrónicas.']/parent::*</value>
+      <webElementGuid>7485af39-9c4e-4206-ad91-a3b9c42b9ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>ab8a0c6c-ced2-4032-8bf3-774038bacaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'billeteras electrónicas.' or . = 'billeteras electrónicas.')]</value>
+      <webElementGuid>c20fe032-7d81-42ee-a9de-51e9bc341d79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

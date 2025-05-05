@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Si eliminas el envo se perdern todos _64c75c</name>
+   <tag></tag>
+   <elementGuidId>207ff852-d3b3-446f-85c9-3de8ccee4cce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/app-eliminar-envio/div/div/div/div[3]/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>2af2e394-04ba-4370-8f4b-906c9b45789f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Si eliminas el envío se perderán todos los datos ingresados </value>
+      <webElementGuid>5a0976f6-5d02-4b41-835c-74ba218448e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/app-eliminar-envio[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mt-3&quot;]/small[1]</value>
+      <webElementGuid>2371efb0-8c90-4705-a419-699694bbf7da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/app-eliminar-envio/div/div/div/div[3]/small</value>
+      <webElementGuid>3fcff076-ff9a-4ea3-a660-4df23327dddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Deseas eliminar el envío N° 1'])[1]/following::small[1]</value>
+      <webElementGuid>6103ec5a-55be-4e83-8371-4287a310cbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IR A PAGAR'])[1]/following::small[2]</value>
+      <webElementGuid>63b3679e-53a0-44d0-bec9-5340975d7128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::small[1]</value>
+      <webElementGuid>e9447080-5a35-4a80-a73a-57cf8f76ab0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eliminar envío'])[1]/preceding::small[1]</value>
+      <webElementGuid>9026abd0-5b92-4349-9aa4-a030e6e88600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Si eliminas el envío se perderán todos los datos ingresados']/parent::*</value>
+      <webElementGuid>09df38b7-2c3f-4ccc-ba23-4b351c69e63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/small</value>
+      <webElementGuid>fd51afd1-5b1d-4090-b4a2-e42b87ad18e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Si eliminas el envío se perderán todos los datos ingresados ' or . = 'Si eliminas el envío se perderán todos los datos ingresados ')]</value>
+      <webElementGuid>510d648e-69e9-4deb-85d8-54f1bf5562a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

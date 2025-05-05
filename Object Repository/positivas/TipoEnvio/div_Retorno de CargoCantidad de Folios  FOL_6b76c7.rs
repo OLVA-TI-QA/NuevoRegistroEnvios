@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Retorno de CargoCantidad de Folios  FOL_6b76c7</name>
+   <tag></tag>
+   <elementGuidId>c7083e53-e894-466a-b9a6-6b4dcfaa23f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cb0de49-d61e-49e4-ab8f-92f9846f6103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-overlay</value>
+      <webElementGuid>065f6267-074e-4ef5-b376-8823f7abdfa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGOSELECCIONE TIENDA LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775  CancelarAceptar</value>
+      <webElementGuid>84758b08-8dbe-4b4d-89e4-270b6fe6e96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-cargo-adjunto[1]/div[@class=&quot;modal-overlay&quot;]</value>
+      <webElementGuid>5a47bf7f-63fd-475f-ae0a-c28789a118ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div</value>
+      <webElementGuid>736ef57e-0b51-44cf-b470-ff015c667dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[2]</value>
+      <webElementGuid>3516963f-9a72-4cbc-bcc1-7cf58ad91282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[2]</value>
+      <webElementGuid>b8890b4a-9365-4441-81e0-c227a106a2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-cargo-adjunto/div</value>
+      <webElementGuid>9d9833aa-d8db-4032-87f8-d459f1362d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGOSELECCIONE TIENDA LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775  CancelarAceptar' or . = 'Retorno de CargoCantidad de Folios:  FOLIOS  1 FOLIO  2 FOLIOS  3 FOLIOS ¿A dónde retornamos el cargo?ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etcRECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etcINGRESE EL DESTINO DEL CARGOSELECCIONE TIENDA LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775  CancelarAceptar')]</value>
+      <webElementGuid>fbdaf0ee-a73d-4d8e-a07d-5e9cc206ab6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hasta 4 KgEjemPeluches, almohadas,lmpar_700831</name>
+   <tag></tag>
+   <elementGuidId>9dda5a66-a987-4b20-aaff-14753d4a9f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoCuatroKilos']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pesoCuatroKilos</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b9f23ed-a903-4dca-adf4-8959a6604a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pesoCuatroKilos</value>
+      <webElementGuid>54b6b477-92a9-4fc4-b831-8ee3b3474ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-responsive align-items-center div-width-responsive margin-top-responsive div-peso-paquete-seleccionado</value>
+      <webElementGuid>cbc9a60f-3e2e-46d7-9d0a-d39c510fc0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>2d7e3630-1406-4c37-9e65-681bde6dfa5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta 4 KgEjemPeluches, almohadas,lámparas, etcEjemEjemplo: Peluches, almohadas,lámparas, etc</value>
+      <webElementGuid>01e9f639-e5ff-4c26-b89d-b33cb9e2f7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoCuatroKilos&quot;)</value>
+      <webElementGuid>67734130-942f-4e84-ac5f-06580c1663ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pesoCuatroKilos']</value>
+      <webElementGuid>6776963d-e341-4017-ae6f-56f88e4448ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]</value>
+      <webElementGuid>43bea87b-dd3c-4466-874b-38c709a63363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='parlantes, etc'])[1]/following::div[1]</value>
+      <webElementGuid>4e717c7a-6d16-45d2-9af2-1ae31a169e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mochila, pelota,'])[1]/following::div[1]</value>
+      <webElementGuid>790f53ee-078f-46b1-b635-0ef2f7568fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>dbf2b069-5e68-4f2d-afc6-9f07601ec43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pesoCuatroKilos' and (text() = 'Hasta 4 KgEjemPeluches, almohadas,lámparas, etcEjemEjemplo: Peluches, almohadas,lámparas, etc' or . = 'Hasta 4 KgEjemPeluches, almohadas,lámparas, etcEjemEjemplo: Peluches, almohadas,lámparas, etc')]</value>
+      <webElementGuid>3649f03e-5bc1-43c8-a8e0-d7914f8ef487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

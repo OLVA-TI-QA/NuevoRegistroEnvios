@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ANCHO (cm)</name>
+   <tag></tag>
+   <elementGuidId>e089a2e9-aff8-486d-81ed-48532dc2bd96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div/div/div[2]/div/div/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.mt-2 > div.input-container.col-md-12 > label.label-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f08c32bc-f3e7-489e-bac0-2f4bc5cd9bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputAncho</value>
+      <webElementGuid>d3b60120-71d8-4502-bcb5-373fde0912d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-input</value>
+      <webElementGuid>36d589f5-3a73-4382-b4cd-3f4697776e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANCHO (cm)</value>
+      <webElementGuid>85a4d022-b58b-420c-8f42-3906d9736a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-ingresar-dimensiones-modal[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;input-container col-md-12&quot;]/div[@class=&quot;col-md-12 row ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;col-md-6 row rowm&quot;]/div[@class=&quot;col-md-12 mt-2&quot;]/div[@class=&quot;input-container col-md-12&quot;]/label[@class=&quot;label-input&quot;]</value>
+      <webElementGuid>4a796009-20fd-4091-9538-1d2c78e060f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-ingresar-dimensiones-modal/div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>eb558680-0a64-4d99-b7c8-298e4cfaab88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cálcula el peso de tu envío ingresando las siguientes medidas'])[1]/following::label[1]</value>
+      <webElementGuid>ad9005eb-c5db-4c97-8510-3f869ae71253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONOCE EL PESO DE TU ENVÍO'])[1]/following::label[1]</value>
+      <webElementGuid>ffc7ec3c-f7c4-40e7-98d5-ca79db52ecf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Este campo es obligatorio.'])[1]/preceding::label[1]</value>
+      <webElementGuid>07c50ed1-2744-45d7-916a-5ea3f783e7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LARGO (cm)'])[1]/preceding::label[1]</value>
+      <webElementGuid>b3e2d878-4fcb-4845-adcb-5c0e7fbd571c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ANCHO (cm)']/parent::*</value>
+      <webElementGuid>fc15d5b7-4e06-418b-9e22-f1a4c315b98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div/label</value>
+      <webElementGuid>c5ba5e4d-2dd4-4660-9ad0-4e22fbdbee03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'ANCHO (cm)' or . = 'ANCHO (cm)')]</value>
+      <webElementGuid>cdd28059-b7b2-4abe-b675-fa5652695cb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

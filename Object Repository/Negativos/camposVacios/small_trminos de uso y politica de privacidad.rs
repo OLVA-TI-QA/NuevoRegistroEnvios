@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_trminos de uso y politica de privacidad</name>
+   <tag></tag>
+   <elementGuidId>840905db-a48f-4481-ab48-9a5cde3cf57f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkMercanciaPeligrosa > small.font-11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>7c1203ba-a5eb-4181-87d3-2a3c12840ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-11</value>
+      <webElementGuid>30da1f3b-0724-465b-a08b-96a74b3e8918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> términos de uso y politica de privacidad </value>
+      <webElementGuid>c415f3c4-47d2-4639-b331-e8ceed0cfde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkMercanciaPeligrosa&quot;)/small[@class=&quot;font-11&quot;]</value>
+      <webElementGuid>a4965602-5fc1-4bf2-b9ad-c1db81363f28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      <webElementGuid>73a21621-efae-4d2a-af4e-b2dc91cb20c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::small[1]</value>
+      <webElementGuid>aec17983-dbe3-4726-b76d-7fdfcb32a93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::small[1]</value>
+      <webElementGuid>ea21a504-fd51-47a1-9354-4efd373b9c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='términos de uso y politica de privacidad']/parent::*</value>
+      <webElementGuid>65c08f00-0c38-4081-a8a5-7c95d8f9c41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/small/small</value>
+      <webElementGuid>e40887c0-f1fc-41b4-953a-da13c5111f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' términos de uso y politica de privacidad ' or . = ' términos de uso y politica de privacidad ')]</value>
+      <webElementGuid>7efb3c6d-810c-48c8-9feb-f38f1e98e8e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

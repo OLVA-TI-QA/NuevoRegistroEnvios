@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pago en en banca mvil,bancos y banca po_e36115</name>
+   <tag></tag>
+   <elementGuidId>145da195-f723-4059-8828-e314be890a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonPagarPagoEfectivo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonPagarPagoEfectivo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3fb77f2d-1943-4c1c-8eb4-b39f519fd395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buttonPagarPagoEfectivo</value>
+      <webElementGuid>d1e90125-5c13-4a19-9b45-554c5166c620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-methods justify-content-center align-items-center div-tipo-pago-small margin-top-responsive</value>
+      <webElementGuid>9518d6f1-82f5-48c4-a0ca-49cca95a1f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pago en en banca móvil,bancos y banca por internet.</value>
+      <webElementGuid>2b416342-d6af-4c92-8d69-3ae2b61bbaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonPagarPagoEfectivo&quot;)</value>
+      <webElementGuid>229f21f3-30a8-4a2b-8298-aa479da61be9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='buttonPagarPagoEfectivo']</value>
+      <webElementGuid>b18ab697-3c5c-4457-b5d7-ce7b077fb82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>63ae5ab2-322f-49d0-a3dd-72ae08fd4697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='billeteras electrónicas.'])[1]/following::div[1]</value>
+      <webElementGuid>91118b3a-ed4a-4c40-982c-396b23e17452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjeta de crédito/débito,'])[1]/following::div[2]</value>
+      <webElementGuid>da6f602f-1f0a-46b0-ac62-69dc446b4818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>7e728a9e-3d83-409b-9daf-384139cf3840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'buttonPagarPagoEfectivo' and (text() = 'Pago en en banca móvil,bancos y banca por internet.' or . = 'Pago en en banca móvil,bancos y banca por internet.')]</value>
+      <webElementGuid>e5ccbebd-bd23-4202-a99c-1cd2b85272f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

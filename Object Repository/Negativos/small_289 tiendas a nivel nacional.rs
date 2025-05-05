@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_289 tiendas a nivel nacional</name>
+   <tag></tag>
+   <elementGuidId>5954a310-4a7e-4801-aa62-66bf195a6eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarTienda']/div[2]/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionarTienda > div.hover-icon2 > small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>a0e951d4-a261-46ba-8fe6-ac909116d10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+289 tiendas a nivel nacional</value>
+      <webElementGuid>4423e399-b81b-4c7a-95b6-b151382225c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarTienda&quot;)/div[@class=&quot;hover-icon2&quot;]/small[1]</value>
+      <webElementGuid>27e03169-0a15-4de4-9c06-b696128b7503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarTienda']/div[2]/small</value>
+      <webElementGuid>1a101e26-17a7-4045-a5e2-a7e9b59adad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de tu casa/oficina'])[1]/following::small[2]</value>
+      <webElementGuid>05129efe-5c52-4fc7-979b-91910b24e963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::small[2]</value>
+      <webElementGuid>fbc62831-ebe7-4530-ae36-c84f4b4d3777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::small[2]</value>
+      <webElementGuid>99e697ce-c306-405d-836c-14ba3f03ba7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+289 tiendas a nivel nacional']/parent::*</value>
+      <webElementGuid>2eab99fb-adcc-4993-ad53-b13357e10c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/small</value>
+      <webElementGuid>a9ffb949-87b7-4f09-864b-9a425e00161d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = '+289 tiendas a nivel nacional' or . = '+289 tiendas a nivel nacional')]</value>
+      <webElementGuid>3202fac9-8e59-4229-bdc3-ab5fe4482aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

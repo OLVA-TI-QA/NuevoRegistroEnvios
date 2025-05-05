@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CargandoOKNoCancel</name>
+   <tag></tag>
+   <elementGuidId>060b2fde-b7d3-4d0a-93ef-e8f5d910a033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IR A PAGAR'])[1]/following::div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swal2-container.swal2-center.swal2-backdrop-show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e2d4549-c800-48a4-b11c-5087ca2d9158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-container swal2-center swal2-backdrop-show</value>
+      <webElementGuid>47b33ed2-090b-4ef0-a406-6025d51fb87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-swal2-theme</name>
+      <type>Main</type>
+      <value>light</value>
+      <webElementGuid>648aaa74-c9d1-4dad-b9d2-7f4014579d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×CargandoOKNoCancel</value>
+      <webElementGuid>ca252457-198d-4df2-b381-6cd5c0694172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;mat-typography swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]</value>
+      <webElementGuid>24951b7b-cb33-475b-bec7-b0f14e66e455</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IR A PAGAR'])[1]/following::div[8]</value>
+      <webElementGuid>f190243d-0831-44f2-9371-8103e6c1c536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[8]</value>
+      <webElementGuid>8a7bdae9-be6e-4231-908c-3b8ea0d50eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>78063040-c0ef-403e-a50d-a3b9d1f2efc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×CargandoOKNoCancel' or . = '×CargandoOKNoCancel')]</value>
+      <webElementGuid>c76486b6-ad4b-42b2-8de4-61cb10922243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

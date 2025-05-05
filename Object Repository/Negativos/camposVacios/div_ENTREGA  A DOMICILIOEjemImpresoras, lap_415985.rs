@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ENTREGA  A DOMICILIOEjemImpresoras, lap_415985</name>
+   <tag></tag>
+   <elementGuidId>37f0edcb-df0a-44b7-8545-55092a9c4460</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionarDomicilioSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarDomicilioSmall']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a8c3130-2ee6-4cf5-9833-a9c0984c1894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionarDomicilioSmall</value>
+      <webElementGuid>034ddb39-efde-4973-90e8-435042b958c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center align-items-center div-tipo-cargo-small</value>
+      <webElementGuid>5cc2d620-bbee-4a78-bdb9-8ee3b75321da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etc</value>
+      <webElementGuid>a3b55aae-a193-4e8d-9a65-a0703d501876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarDomicilioSmall&quot;)</value>
+      <webElementGuid>8cca068c-a79e-470f-8024-31ad78a1536c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarDomicilioSmall']</value>
+      <webElementGuid>18d5d783-27ab-4343-86a3-a2ba0ff54c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[4]/div</value>
+      <webElementGuid>ec0be2f9-12bb-46f2-82e2-399051d8e825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿A dónde retornamos el cargo?'])[1]/following::div[2]</value>
+      <webElementGuid>0dc3fa2c-754c-416a-acce-175a1e2e100c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de Folios:'])[1]/following::div[3]</value>
+      <webElementGuid>c2ebe1de-3980-4659-9b69-1c68d7b1da07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-cargo-adjunto/div/div/div[4]/div</value>
+      <webElementGuid>c49118bd-2eab-4e91-bcec-aecef9ba26f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionarDomicilioSmall' and (text() = 'ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etc' or . = 'ENTREGA  A DOMICILIOEjemImpresoras, laptops, consolas, etc')]</value>
+      <webElementGuid>ecf9b1a8-b2e0-4c9a-8e94-68b20d0799b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

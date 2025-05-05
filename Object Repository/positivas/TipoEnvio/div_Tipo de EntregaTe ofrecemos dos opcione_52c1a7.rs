@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tipo de EntregaTe ofrecemos dos opcione_52c1a7</name>
+   <tag></tag>
+   <elementGuidId>e042a6d5-2a4d-4758-9709-da990e3fccec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-3.margin-top-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36c8d39e-6179-4f67-bc6c-eccdc29256f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-3 margin-top-responsive</value>
+      <webElementGuid>a0ceeac9-47a6-4f4d-bdb4-a7f6aed64b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de EntregaTe ofrecemos dos opciones de entrega: pueden recoger tu envío en nuestras tiendas/agentes, o enviarlo a la dirección que elijas. ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficinaRECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentesVOLVERCONTINUAR</value>
+      <webElementGuid>044c0d0d-6da7-45c4-afa6-d0cb49e624da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]</value>
+      <webElementGuid>b01ffef2-ddf4-4a11-af17-c7efc8ff993b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      <webElementGuid>51f38fb9-3f88-4788-9a66-73b7c26cf4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[1]</value>
+      <webElementGuid>87579129-8a31-45f6-a023-c0911811acff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[1]</value>
+      <webElementGuid>b2f22256-889e-43d2-9525-c7ffd432a7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>95eb484c-a9d3-4298-aa48-a1e93ae7b699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tipo de EntregaTe ofrecemos dos opciones de entrega: pueden recoger tu envío en nuestras tiendas/agentes, o enviarlo a la dirección que elijas. ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficinaRECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentesVOLVERCONTINUAR' or . = 'Tipo de EntregaTe ofrecemos dos opciones de entrega: pueden recoger tu envío en nuestras tiendas/agentes, o enviarlo a la dirección que elijas. ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficinaRECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentesVOLVERCONTINUAR')]</value>
+      <webElementGuid>b1c773a0-38d1-4464-b1bf-f03989737f0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

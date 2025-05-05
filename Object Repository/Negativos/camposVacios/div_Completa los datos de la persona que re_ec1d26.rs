@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Completa los datos de la persona que re_ec1d26</name>
+   <tag></tag>
+   <elementGuidId>3ab208cf-6e33-4464-95da-8caa22bf4ad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-touched.ng-dirty.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-quien-recibe/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>849663e0-2700-4530-bd69-4f3fde951128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>d6aa7be8-ce4e-41eb-b814-ce2b4d6bb3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-touched ng-dirty ng-invalid</value>
+      <webElementGuid>d79f045c-00d0-43cf-8f40-b00f058ad45f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULAR Ingrese correctamente 9 dígitos. NOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR</value>
+      <webElementGuid>29a73409-63b7-4058-8f5d-68b9a0ed070d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive padding-quien-envia&quot;]/div[@class=&quot;col-md-12 p-2&quot;]/app-quien-recibe[1]/div[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]</value>
+      <webElementGuid>d6a2de86-da59-4796-819a-590bc69f3c4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-quien-recibe/div</value>
+      <webElementGuid>8057ad8a-de8b-4c5e-bbd3-4fdfae003b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[1]/following::div[2]</value>
+      <webElementGuid>4a8d9d25-f0e1-43eb-9ed7-c444a2f635fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué estas enviando?'])[1]/following::div[3]</value>
+      <webElementGuid>3b07fc6d-c009-4659-b582-4353c663acd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-quien-recibe/div</value>
+      <webElementGuid>b6d30d32-14bc-4d36-96c9-5b45452a3d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULAR Ingrese correctamente 9 dígitos. NOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR' or . = 'Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULAR Ingrese correctamente 9 dígitos. NOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR')]</value>
+      <webElementGuid>2cc573b4-a005-44c0-8cca-b7cb37b58a6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

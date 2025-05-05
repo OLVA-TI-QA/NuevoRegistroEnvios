@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Completa los datos de la persona que re_6238b1</name>
+   <tag></tag>
+   <elementGuidId>8cfe5ff2-12da-4285-8b84-e379b0d3717f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.p-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9973bb8b-96d5-45f1-8619-e1bb7560abd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 p-2</value>
+      <webElementGuid>e158b36d-2136-4caf-a5f7-02676bef4274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULARNOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR</value>
+      <webElementGuid>c44d6fcf-08ea-43bb-8362-0d1d3adf2de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive padding-quien-envia&quot;]/div[@class=&quot;col-md-12 p-2&quot;]</value>
+      <webElementGuid>89f22505-417a-443e-9f96-5b76851bc937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>442f2eb8-b00d-4c9f-8a53-f1d33121a49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[1]/following::div[1]</value>
+      <webElementGuid>75d62cd7-5b98-4fcd-a0f2-e8f0daba0210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué estas enviando?'])[1]/following::div[2]</value>
+      <webElementGuid>3f5b9d8f-e2c3-4910-a7f8-e2894ac13fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>a8de6911-bd87-43b6-9cf5-42ef0fe01581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULARNOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR' or . = 'Completa los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTOCELULARNOMBRE(S)APELLIDO PATERNOAPELLIDO MATERNODesde:LIMAORIGENHacia:INGRESE DESTINODESTINOForma de pagoOfrecemos dos formas de pago para cada envío registrado, selecciona la que prefieras. Pagar en linea.Pagar con tarjetas, billeteras digitales, bancos y banca por internet.Pago en destino.  MUY PRONTORealizan el pago al recoger el envío, este pago corresponde únicamente al costo del envío.VOLVERCONTINUAR')]</value>
+      <webElementGuid>294563a1-e9ca-47cd-ac44-7bb8ea498988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

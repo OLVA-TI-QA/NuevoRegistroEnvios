@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tarjeta de crditodbito,billeteras electrnicas</name>
+   <tag></tag>
+   <elementGuidId>d59431de-194d-42a1-ac1b-b830a3c82a65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonPagarNiubiz']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonPagarNiubiz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5577c837-171f-4170-9c55-0aab1819963a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buttonPagarNiubiz</value>
+      <webElementGuid>98b34f3b-cf19-4ed5-8aa8-0eb1d03f1313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-methods justify-content-center align-items-center div-tipo-pago-small-purple selected</value>
+      <webElementGuid>2cf4f4d4-d653-4214-a7dc-feada822beaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tarjeta de crédito/débito,billeteras electrónicas.</value>
+      <webElementGuid>30d73f6d-9d53-4622-a67d-1a245c1a7b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonPagarNiubiz&quot;)</value>
+      <webElementGuid>b483f422-6290-45b9-8f6b-b03633dc3f05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='buttonPagarNiubiz']</value>
+      <webElementGuid>41d1d1e5-18d0-49a2-9ced-299d9b281912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>27230217-c8d7-4d9c-8c35-1be5a380efd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elige la opción de tu preferencia y recuerda que todos nuestros medios de pago son seguros.'])[1]/following::div[3]</value>
+      <webElementGuid>783eba92-5d7e-464c-8559-ce43e884b42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elige tu medio de pago preferido'])[1]/following::div[3]</value>
+      <webElementGuid>70c0f27d-9cf5-40c9-ac63-cc10398b7b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>677c9dd1-d5ea-4bef-89d9-22e36e40f0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'buttonPagarNiubiz' and (text() = 'Tarjeta de crédito/débito,billeteras electrónicas.' or . = 'Tarjeta de crédito/débito,billeteras electrónicas.')]</value>
+      <webElementGuid>e9af40ae-b3a9-4b02-9656-d2ebdb10582c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

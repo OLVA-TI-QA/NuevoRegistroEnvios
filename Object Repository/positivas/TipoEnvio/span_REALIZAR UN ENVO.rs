@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_REALIZAR UN ENVO</name>
+   <tag></tag>
+   <elementGuidId>37879ac0-c5b0-41ac-9fac-f80250eb1119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonEnvio']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-white.font-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10fabb09-e21b-402b-b6b7-041948621e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white font-bold</value>
+      <webElementGuid>0245600c-47b4-4622-b5c9-def25bb44da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REALIZAR UN ENVÍO</value>
+      <webElementGuid>dc2e6adb-95f2-4a82-8535-9f44423cd31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonEnvio&quot;)/span[@class=&quot;text-white font-bold&quot;]</value>
+      <webElementGuid>3003e088-af4c-494e-9964-c64dad4e40c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonEnvio']/span</value>
+      <webElementGuid>ed936056-bb8c-40f5-9ea2-95bfd7a74558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué deseas realizar hoy?'])[1]/following::span[1]</value>
+      <webElementGuid>b8ed14c5-a368-4367-b72a-01a6b33506a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REALIZAR']/parent::*</value>
+      <webElementGuid>2cdd67bb-b7ac-421f-a072-19941bed759a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>4eaa6307-2bfd-42bb-83c4-ae2035399f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'REALIZAR UN ENVÍO' or . = 'REALIZAR UN ENVÍO')]</value>
+      <webElementGuid>b3e90a20-d0d7-41b1-962d-9e94accdced9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

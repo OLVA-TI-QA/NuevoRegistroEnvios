@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_compras por internet_input-status</name>
+   <tag></tag>
+   <elementGuidId>3b567573-a2ac-4ac3-9838-ebdb59e7ca17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.col-6-1.sep.landscape-col.landscape-col-6-1.expiration > section > label.input > div.input-status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='default']/div[5]/div/section/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5739a1b-442f-4f1a-96bf-aa8e06dd0250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-status</value>
+      <webElementGuid>de209914-b4fc-46bd-abe9-af93a5d96c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;default&quot;)/div[@class=&quot;form-group row landscape-row&quot;]/div[@class=&quot;col col-6-1 sep landscape-col landscape-col-6-1 expiration&quot;]/section[1]/label[@class=&quot;input&quot;]/div[@class=&quot;input-status&quot;]</value>
+      <webElementGuid>a8da650b-00e6-40b4-a3ae-a63973fa1c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/positivas/CargoAdjunto/iframe_Cancel_visaNetJS</value>
+      <webElementGuid>703f3eee-5b2c-4680-9338-ce750c9896ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='default']/div[5]/div/section/label/div</value>
+      <webElementGuid>09a7b54a-f8af-4200-9ee8-af1b7a3674ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[5]/div/section/label/div</value>
+      <webElementGuid>0d8ec61e-19b2-459c-b7e5-4227589c7c1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

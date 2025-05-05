@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CE_NoExiste</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d0c4d32-65b0-4ceb-997e-5d559e478068</testCaseGuid>
+</TestCaseEntity>

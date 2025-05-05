@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ingrese la clave de seguridad</name>
+   <tag></tag>
+   <elementGuidId>26e31812-c597-4235-a2b9-5fe36fbf4510</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.position-clave</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d16d8df3-835a-4968-8430-8e9f409b4991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>position-clave</value>
+      <webElementGuid>d2dec616-063f-4c87-b503-52728a7276c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ingrese la clave de seguridad. </value>
+      <webElementGuid>d7ab90e6-a5ed-429f-877f-7264c4a4738c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;security-key px-3&quot;]/div[@class=&quot;position-clave&quot;]</value>
+      <webElementGuid>48c1ebaf-bb4e-400c-8d99-4007451e15d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[4]/div[2]</value>
+      <webElementGuid>a1d22a72-c029-40af-9a0d-91ca84b6c2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear una clave de 4 dígitos para recojo en tienda'])[1]/following::div[2]</value>
+      <webElementGuid>d689e7fe-8d5e-4e00-aa9d-94ca2115026f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clave de seguridad'])[1]/following::div[2]</value>
+      <webElementGuid>c7772832-950f-44a9-af06-9d1e254a36cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Recuerda!'])[1]/preceding::div[1]</value>
+      <webElementGuid>7d3767c3-9f8e-4e8c-ac84-86431cf77edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Envía la clave de seguridad a quien recogerá el envío.'])[1]/preceding::div[1]</value>
+      <webElementGuid>1b2fd2a5-312a-4d7d-8174-da800cc7b9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese la clave de seguridad.']/parent::*</value>
+      <webElementGuid>eb94bf5d-b651-4bfd-b4bf-1bf3939d93c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[4]/div[2]</value>
+      <webElementGuid>d9dd154f-374e-4725-b4e5-5bb490e43cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Ingrese la clave de seguridad. ' or . = ' Ingrese la clave de seguridad. ')]</value>
+      <webElementGuid>6d056cee-a643-4664-b960-43717d6cba78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Peluches, almohadas,</name>
+   <tag></tag>
+   <elementGuidId>16dcdbc3-bbc2-43ad-9e0d-e027539fe71b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoCuatroKilos']/div[2]/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pesoCuatroKilos > div.extra-info > div > small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>bd54192f-868b-4e51-a163-bc3282e4a8b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Peluches, almohadas,</value>
+      <webElementGuid>9901c0fc-3307-436e-b4e6-85fba12b087e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoCuatroKilos&quot;)/div[@class=&quot;extra-info&quot;]/div[1]/small[1]</value>
+      <webElementGuid>3885af49-29ee-4fb2-bf4a-aa38aa550bb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pesoCuatroKilos']/div[2]/div/small</value>
+      <webElementGuid>a213ba3a-811d-4af7-80e2-bc6281b77cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[5]/following::small[1]</value>
+      <webElementGuid>4361240e-7b53-4a5b-b03d-1696581fb6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kg'])[4]/following::small[2]</value>
+      <webElementGuid>3edb5b91-5520-4c23-8f4a-825ea74b69fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lámparas, etc'])[1]/preceding::small[1]</value>
+      <webElementGuid>3c8824bc-25f7-473f-8724-58460d3710d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Peluches, almohadas,']/parent::*</value>
+      <webElementGuid>d49105b6-cd9b-4c96-a73c-45523552a4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/small</value>
+      <webElementGuid>966565ca-b520-43d0-ba3c-59f2c654fa27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Peluches, almohadas,' or . = 'Peluches, almohadas,')]</value>
+      <webElementGuid>0da7868b-ca38-4aa3-9ca9-b6ebeb342b09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

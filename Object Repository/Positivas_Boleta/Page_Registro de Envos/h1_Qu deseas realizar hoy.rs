@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Qu deseas realizar hoy</name>
+   <tag></tag>
+   <elementGuidId>71903d62-caf5-48f5-aefc-ac6ae9d43128</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.text-color-orange.font-regular.mb-7.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-principal/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;¿Qué deseas realizar hoy?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>fe9dfe24-e2fe-4570-93ed-08740c5c05fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-color-orange font-regular mb-7 mt-3</value>
+      <webElementGuid>b38784d6-c349-438d-aea0-43f0cef46cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Qué deseas realizar hoy?</value>
+      <webElementGuid>b596233d-6cc8-4003-9f92-b442cbd5451d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-principal[1]/div[@class=&quot;d-flex align-items-center justify-content-center vh-100&quot;]/div[@class=&quot;text-center pb-5&quot;]/h1[@class=&quot;text-color-orange font-regular mb-7 mt-3&quot;]</value>
+      <webElementGuid>ed1f0ca7-c5ac-40fa-ad4f-e83b59d9dfa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-principal/div/div[2]/h1</value>
+      <webElementGuid>79074065-2d82-4178-9a3c-4bd56575d628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¿Qué deseas realizar hoy?']/parent::*</value>
+      <webElementGuid>9932f997-19f5-48a2-b14e-cffcb5080012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>3775958e-3f5f-4642-a7b9-df9ff309f4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '¿Qué deseas realizar hoy?' or . = '¿Qué deseas realizar hoy?')]</value>
+      <webElementGuid>a33c0b09-9a57-4861-b047-2d3e5cef9376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_bancos y banca por internet</name>
+   <tag></tag>
+   <elementGuidId>0756b433-586d-4a05-8763-2287d34e03ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonPagarPagoEfectivo']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28afc6a1-bd40-452a-901b-6a086e4f9d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-pago</value>
+      <webElementGuid>7a90dc2a-85f7-418d-9714-0af74f4f5d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bancos y banca por internet.</value>
+      <webElementGuid>ff334415-c8af-4eff-bb9c-8e4bd04eaed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonPagarPagoEfectivo&quot;)/div[@class=&quot;justify-content-center align-items-center icon-container&quot;]/div[@class=&quot;row ms-2&quot;]/div[@class=&quot;font-pago&quot;]</value>
+      <webElementGuid>5d985aea-a4d3-4917-8385-61091e65cb80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonPagarPagoEfectivo']/div/div/div[2]</value>
+      <webElementGuid>edb04519-1130-41e2-8aa9-3256d74a98ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pago en banca móvil,'])[1]/following::div[1]</value>
+      <webElementGuid>19fa03c8-6f33-4a4b-8830-7a5bc1b6e0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='billeteras electrónicas.'])[1]/following::div[5]</value>
+      <webElementGuid>cab0cfed-a404-46b9-af3a-500602b8c07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumen de tu registro'])[1]/preceding::div[1]</value>
+      <webElementGuid>f8cf5bf2-bd8f-4410-bed5-2aae2059fb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 16.98'])[1]/preceding::div[1]</value>
+      <webElementGuid>889342c4-81a0-40d7-aeb7-5861b16cc703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='bancos y banca por internet.']/parent::*</value>
+      <webElementGuid>c91a2009-32a8-48a2-8766-fe7696ec978c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>c047789a-a946-493f-b94e-402d84d2f8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'bancos y banca por internet.' or . = 'bancos y banca por internet.')]</value>
+      <webElementGuid>aca4e8a5-142a-406a-86ae-2dcbffbbd1c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

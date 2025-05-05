@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hasta 1 Kg</name>
+   <tag></tag>
+   <elementGuidId>a046c147-fdeb-4921-905a-8c5d7a5886df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.div-peso-paquete-seleccionado.justify-content-center.align-items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d08d11df-68b2-47c5-92bb-04b4a3c93c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-peso-paquete-seleccionado justify-content-center align-items-center</value>
+      <webElementGuid>f688ab44-fcdd-4139-8fb1-65b3c3813c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta 1 Kg</value>
+      <webElementGuid>c1ef089b-236b-4233-b39d-43d579639b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-3 scroll-container display-responsive-paq&quot;]/div[@class=&quot;m-peso-dim div-width-responsive&quot;]/div[@class=&quot;div-peso-paquete-seleccionado justify-content-center align-items-center&quot;]</value>
+      <webElementGuid>8566e0a0-32e9-4313-8156-864fc93f52e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[6]/div</value>
+      <webElementGuid>1c48c895-4c0f-4476-a508-14d9f10c4bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='consolas, etc'])[1]/following::div[2]</value>
+      <webElementGuid>d4ee5a0b-09cc-4958-9f35-af9486213813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops,'])[1]/following::div[2]</value>
+      <webElementGuid>6f163961-54fe-42c8-a8a9-f2c7313821ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div</value>
+      <webElementGuid>6aa060e1-d275-4c38-bcac-0a1b66e01ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hasta 1 Kg' or . = 'Hasta 1 Kg')]</value>
+      <webElementGuid>b9d45c61-c670-4367-b3b1-9a25c4ceaf52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

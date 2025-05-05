@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Direccin de origenSelecciona tu ubicaci_7e924b</name>
+   <tag></tag>
+   <elementGuidId>2be20267-de77-4662-ac33-591afc04b5b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-3.margin-top-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0eb2662-f34a-4ae3-bcd3-da4ddbd6f4ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-3 margin-top-responsive</value>
+      <webElementGuid>c26bb05a-8055-49ea-b5fb-f8ff2c2ab44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dirección de origenSelecciona tu ubicación para ver las tiendas y agentes cercanos donde puedes dejar tus envíos.  SELECCIONE EL ORIGEN DE SU ENVÍO Ubica nuestras tiendas/agentesTiendas/Agentes Olva0 resultados obtenidos+− Leaflet | © OpenStreetMap contributorsTiendas/Agentes Olva0 resultados obtenidosVOLVERCONTINUAR</value>
+      <webElementGuid>40d986be-6524-4eb2-b0a7-de77539a714d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]</value>
+      <webElementGuid>214583c9-a8fb-4898-aaa1-4ff632865064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]</value>
+      <webElementGuid>3224abe1-3cca-4030-9d35-30f306023df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[1]</value>
+      <webElementGuid>ee4e0109-62d6-4258-91b7-60544b533479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[1]</value>
+      <webElementGuid>dd265fc8-000d-4e15-bc90-a7c8334fc2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>a024a18f-e482-40c0-8cb0-41783c18175f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dirección de origenSelecciona tu ubicación para ver las tiendas y agentes cercanos donde puedes dejar tus envíos.  SELECCIONE EL ORIGEN DE SU ENVÍO Ubica nuestras tiendas/agentesTiendas/Agentes Olva0 resultados obtenidos+− Leaflet | © OpenStreetMap contributorsTiendas/Agentes Olva0 resultados obtenidosVOLVERCONTINUAR' or . = 'Dirección de origenSelecciona tu ubicación para ver las tiendas y agentes cercanos donde puedes dejar tus envíos.  SELECCIONE EL ORIGEN DE SU ENVÍO Ubica nuestras tiendas/agentesTiendas/Agentes Olva0 resultados obtenidos+− Leaflet | © OpenStreetMap contributorsTiendas/Agentes Olva0 resultados obtenidosVOLVERCONTINUAR')]</value>
+      <webElementGuid>31c25848-e818-4388-8d98-fbac25357fed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

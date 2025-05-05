@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin recibeCompleta los datos _df3b2e</name>
+   <tag></tag>
+   <elementGuidId>46442b51-3c53-4cda-9b52-da9db433a66b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-touched.ng-dirty.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0282795-6db6-43d9-a8f0-f2aaceffe10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-touched ng-dirty ng-invalid</value>
+      <webElementGuid>90e5e4ea-c316-445c-b9d9-f2390f7b49b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>262c3c4a-6274-4701-a547-2a9e2ad0828d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién recibeCompleta los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTONOMBRES(S) Este campo es obligatorio. APELLIDO PATERNO Este campo es obligatorio. APELLIDO MATERNO Este campo es obligatorio. CELULAR Ingrese correctamente 9 dígitos. VOLVERCONTINUAR</value>
+      <webElementGuid>23dbdebb-76c1-47d4-a18c-402791b13baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-touched ng-dirty ng-invalid&quot;]</value>
+      <webElementGuid>bede870f-7c50-48f9-8cfd-a1a08171b3a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      <webElementGuid>bd743758-b5f2-4339-bf03-224a1211b2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[4]</value>
+      <webElementGuid>cb554bb9-7553-4990-9f0d-679dc920e0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[7]</value>
+      <webElementGuid>e03960fa-0585-4fba-b668-95fa2f794769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>0d1305cc-bf71-4931-9322-c2379df64d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién recibeCompleta los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTONOMBRES(S) Este campo es obligatorio. APELLIDO PATERNO Este campo es obligatorio. APELLIDO MATERNO Este campo es obligatorio. CELULAR Ingrese correctamente 9 dígitos. VOLVERCONTINUAR' or . = 'Datos de quién recibeCompleta los datos de la persona que recibirá tu envío. TIPO DE DOCUMENTO  DNI  RUC  C.E. NÚMERO DOCUMENTONOMBRES(S) Este campo es obligatorio. APELLIDO PATERNO Este campo es obligatorio. APELLIDO MATERNO Este campo es obligatorio. CELULAR Ingrese correctamente 9 dígitos. VOLVERCONTINUAR')]</value>
+      <webElementGuid>ceb17664-f10c-48a3-bc41-97cb72333018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

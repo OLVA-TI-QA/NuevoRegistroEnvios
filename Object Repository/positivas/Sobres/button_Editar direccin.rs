@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Editar direccin</name>
+   <tag></tag>
+   <elementGuidId>8e6b0f6e-c3fb-4ecc-9a7c-b92d326e35dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#editarDireccionPeligrosa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='editarDireccionPeligrosa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56859353-bf1f-4cea-a2f5-135be4a03618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>editarDireccionPeligrosa</value>
+      <webElementGuid>00b16685-04af-4a27-a748-a6a76712c614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>back-white mr-editar-direccion</value>
+      <webElementGuid>3af54f0b-2605-4e34-8836-28e295c95d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Editar dirección</value>
+      <webElementGuid>b15c87b4-f723-4702-baab-345c9642ed59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editarDireccionPeligrosa&quot;)</value>
+      <webElementGuid>495719ca-1e80-4596-b29d-c0fa57a67223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='editarDireccionPeligrosa']</value>
+      <webElementGuid>2ad302aa-d781-44f4-b4ee-1f8cfbc597c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-direccion-peligrosa/div/div/div[2]/button</value>
+      <webElementGuid>032d5aeb-14a2-474d-b19b-9fcc9fab76ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zona sin cobertura'])[1]/following::button[1]</value>
+      <webElementGuid>f0578129-f1be-4518-87d5-524a48ea35d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::button[1]</value>
+      <webElementGuid>dc4fe194-c6ba-4a32-acae-1290abf9e18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar tipo de entrega'])[1]/preceding::button[1]</value>
+      <webElementGuid>b6bf173c-5fc2-4520-8391-8f40812fd138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'editarDireccionPeligrosa', '&quot;', ')')])[1]/preceding::button[2]</value>
+      <webElementGuid>cb236588-adbc-4f24-8c0b-837bdd3dc31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Editar dirección']/parent::*</value>
+      <webElementGuid>92936d4d-5ed6-4a68-8801-46e324388b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/button</value>
+      <webElementGuid>bb94e571-5607-4db5-b685-502bd228cfa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'editarDireccionPeligrosa' and (text() = ' Editar dirección' or . = ' Editar dirección')]</value>
+      <webElementGuid>f7d9e8a6-0ae4-4c87-8261-7f48419d180f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

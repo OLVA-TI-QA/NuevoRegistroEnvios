@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REGISTRO EXITOSO</name>
+   <tag></tag>
+   <elementGuidId>a4e11d17-1d43-4d22-845d-d0e98bcb7ccf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-pago-exitoso-pe/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65bd3096-f9ec-4f8f-96b6-b5ed78347b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2</value>
+      <webElementGuid>401fe050-a357-4263-aa6a-894cb27be1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¡REGISTRO EXITOSO!</value>
+      <webElementGuid>f6db7b2e-462d-4de7-ab64-55e061d21bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-pago-exitoso-pe[1]/div[@class=&quot;shadow border-card contenedor-div border-respuesta-responsive&quot;]/div[@class=&quot;mt-2&quot;]</value>
+      <webElementGuid>4a863256-6edf-44a2-961f-44c523a49e81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-pago-exitoso-pe/div[2]/div[2]</value>
+      <webElementGuid>9662ccf1-160d-4bf8-a972-f1d1d1118d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[3]</value>
+      <webElementGuid>57accc29-f0ce-49db-8e51-3a580a0fd70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[6]</value>
+      <webElementGuid>0f195efc-3366-4cde-a0e9-2eb4a622f143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos.'])[1]/preceding::div[2]</value>
+      <webElementGuid>aae9df36-cded-4e63-81a6-f7cf1a72ba34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡REGISTRO EXITOSO!']/parent::*</value>
+      <webElementGuid>5271a22c-0e25-4729-9548-971095baf9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>d01a6aaa-41e0-4716-a4fd-f22ee81c44ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¡REGISTRO EXITOSO!' or . = '¡REGISTRO EXITOSO!')]</value>
+      <webElementGuid>c887343c-4f46-4a47-9373-aa2ba3c81bbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

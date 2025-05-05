@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i</name>
+   <tag></tag>
+   <elementGuidId>e3cfbcee-b405-46b3-8f41-f03e4308e49d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.radio.state-success > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1ffa7a01-b93a-40ce-ac22-38e9d5d2f8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethods&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col col-11&quot;]/section[1]/label[@class=&quot;radio state-success&quot;]/i[1]</value>
+      <webElementGuid>2af1dc48-7041-42fc-8a8e-003c8cd920ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/positivas/iframe_Cancel_visaNetJS</value>
+      <webElementGuid>6cf5fcad-9576-4617-9f98-6d181ceefba1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
+      <webElementGuid>be0b5a42-f7cb-4690-bf87-b024b87ee5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/section/label/i</value>
+      <webElementGuid>2cb81ee1-4792-4a64-a3fc-b3582283414c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

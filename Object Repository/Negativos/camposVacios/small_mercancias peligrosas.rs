@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_mercancias peligrosas</name>
+   <tag></tag>
+   <elementGuidId>7bdac841-2692-4dfb-a21a-c66b36967e85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkMercanciaPeligrosa > small.font-11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>2d660a2a-6b13-48a5-9722-b21f5392ea5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-11</value>
+      <webElementGuid>66285d7f-9d6c-4aa1-b022-dfa15aebcfae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> mercancias peligrosas </value>
+      <webElementGuid>f1bab79f-16cb-46e1-b199-4544d7e36ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkMercanciaPeligrosa&quot;)/small[@class=&quot;font-11&quot;]</value>
+      <webElementGuid>e0e274ec-b503-4bc1-a7cf-b559286a6f3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      <webElementGuid>04df0036-2d3f-4e56-b94d-09bbab9bff61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/following::small[2]</value>
+      <webElementGuid>557b3260-4d3b-4956-91a3-07f8e1806bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='la declaración jurada y declaro bajo juramento'])[1]/preceding::small[1]</value>
+      <webElementGuid>69f9f8fd-cfde-4a9d-ad81-438e05da2272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mercancias peligrosas']/parent::*</value>
+      <webElementGuid>eca65faf-e04a-4359-8523-0646ae984e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/small</value>
+      <webElementGuid>f68ab3aa-b6c9-4f3f-90bd-f41e0a20fa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' mercancias peligrosas ' or . = ' mercancias peligrosas ')]</value>
+      <webElementGuid>1172119b-6fa9-4b41-bb30-fbb86e7394e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

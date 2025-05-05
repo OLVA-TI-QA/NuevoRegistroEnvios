@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No s el peso de mi envo</name>
+   <tag></tag>
+   <elementGuidId>da0b8f69-bd62-4e69-b5d6-cf2f038f7502</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonIngresarMedidas > span.btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buttonIngresarMedidas']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f029171-7e29-46a7-b8e1-545045724be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-text</value>
+      <webElementGuid>59aac5fe-6c71-451e-9044-41058f677ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No sé el peso de mi envío</value>
+      <webElementGuid>7f62b534-de96-47d1-9bc0-c852a0a4b748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonIngresarMedidas&quot;)/span[@class=&quot;btn-text&quot;]</value>
+      <webElementGuid>04af1ac1-c8f4-4f50-8f65-1e2abcf82f89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='buttonIngresarMedidas']/span</value>
+      <webElementGuid>61a27320-a174-4a24-8a95-dd4719863ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='consolas, etc'])[2]/following::span[1]</value>
+      <webElementGuid>699e832d-f8d5-416f-a300-4cec7fdf508b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops,'])[2]/following::span[1]</value>
+      <webElementGuid>758afa1a-7274-44b7-8a43-ff58e47b1f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quiero retorno de cargo'])[1]/preceding::span[2]</value>
+      <webElementGuid>bc60bbfe-e949-40b8-a9c8-0419f8a759c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TENER EN CUENTA'])[1]/preceding::span[2]</value>
+      <webElementGuid>d24a1bdd-3fac-4a87-b9f0-5b61370b9b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No sé el peso de mi envío']/parent::*</value>
+      <webElementGuid>9de22b9c-c2d8-4fe8-a1d6-01187b089f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>22be9cf1-0388-4cde-a04e-e5e4353225e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No sé el peso de mi envío' or . = 'No sé el peso de mi envío')]</value>
+      <webElementGuid>2d614ce1-7558-4dd9-8e65-a8b99ee41375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

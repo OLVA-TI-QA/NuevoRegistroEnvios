@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Validacin de ApellidoEscriba su primer _044736</name>
+   <tag></tag>
+   <elementGuidId>d1aab185-88b4-437e-9831-8809b0eff322</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-validacion-apellido-modal/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b153d58-0ba9-4347-9193-aad63dbc531f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-container</value>
+      <webElementGuid>dc17c2e3-c14c-4689-bb23-74b313a91fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Validación de ApellidoEscriba su primer apellido igual al del documento de identidadAPELLIDO PATERNOCancelarAceptar</value>
+      <webElementGuid>9a1af380-6f27-42eb-8559-8282ad84b7a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-validacion-apellido-modal[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]</value>
+      <webElementGuid>87e4712e-3f02-4c10-98bd-44faf35e3812</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-validacion-apellido-modal/div/div</value>
+      <webElementGuid>94c31b76-679b-4c3d-99a5-79a7ef853649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[3]</value>
+      <webElementGuid>be54d7f7-9751-4369-ac40-87676b3a34c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::div[3]</value>
+      <webElementGuid>d7e5cf4d-e269-455c-8ce0-0f568361dc03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-validacion-apellido-modal/div/div</value>
+      <webElementGuid>0666dd61-4adf-4763-b54b-77089f518bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Validación de ApellidoEscriba su primer apellido igual al del documento de identidadAPELLIDO PATERNOCancelarAceptar' or . = 'Validación de ApellidoEscriba su primer apellido igual al del documento de identidadAPELLIDO PATERNOCancelarAceptar')]</value>
+      <webElementGuid>f02f74be-5a4d-4a65-846b-197e2078d807</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

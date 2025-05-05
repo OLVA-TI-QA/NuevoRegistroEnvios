@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_El artculo supera los S 1,000 y no pu_3d2db1</name>
+   <tag></tag>
+   <elementGuidId>a6d43a60-1697-4674-b265-22e3f7218e6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-alerta-valorado/div/div/div/div[3]/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>c73017a2-8358-4325-a055-d801621aca39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El artículo supera los S/ 1,000 y no puede ser entregado en nuestras tiendas, verifica la información de tu envío o continua con la entrega a domicilio. </value>
+      <webElementGuid>b67315b4-9a20-45e8-a375-2d23e1571d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/app-alerta-valorado[1]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;mt-3&quot;]/small[1]</value>
+      <webElementGuid>814c8d2b-a59a-4985-87ad-69a0ad70fb18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-alerta-valorado/div/div/div/div[3]/small</value>
+      <webElementGuid>82a19205-e58e-4084-aea1-bd8155b5e771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en tienda no disponible'])[1]/following::small[1]</value>
+      <webElementGuid>46cdb5b0-f261-4f8a-ada3-feaf29e2c34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::small[2]</value>
+      <webElementGuid>b53d2902-640c-4941-9635-5d50c3b9d22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar envío'])[1]/preceding::small[1]</value>
+      <webElementGuid>29b212ce-644f-41bb-a363-92c28cf29251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::small[2]</value>
+      <webElementGuid>1e52f435-69ff-4dee-bc2d-af698f9227d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El artículo supera los S/ 1,000 y no puede ser entregado en nuestras tiendas, verifica la información de tu envío o continua con la entrega a domicilio.']/parent::*</value>
+      <webElementGuid>0def927a-f58a-4b36-8bed-4135a3a1a2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/small</value>
+      <webElementGuid>d90ca84d-56bb-4308-ab74-8d3b2b862f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'El artículo supera los S/ 1,000 y no puede ser entregado en nuestras tiendas, verifica la información de tu envío o continua con la entrega a domicilio. ' or . = 'El artículo supera los S/ 1,000 y no puede ser entregado en nuestras tiendas, verifica la información de tu envío o continua con la entrega a domicilio. ')]</value>
+      <webElementGuid>83422ddc-3c1d-48b1-951a-37ebfe69f64b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

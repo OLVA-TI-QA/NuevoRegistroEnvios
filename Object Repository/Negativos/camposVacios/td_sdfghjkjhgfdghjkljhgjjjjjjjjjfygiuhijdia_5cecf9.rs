@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_sdfghjkjhgfdghjkljhgjjjjjjjjjfygiuhijdia_5cecf9</name>
+   <tag></tag>
+   <elementGuidId>ca447ba8-bd58-44d3-9040-dde7e47136a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b54c3dc4-69c2-43a1-93ff-f45e52989fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sdfghjkjhgfdghjkljhgjjjjjjjjjfygiuhijdiawjdiwjnfiewnhfhnweufhnewfhwejhfncewhnfcihenicvnheiqvnuebnvuj</value>
+      <webElementGuid>795f5664-7fa6-4c21-8d85-475f21d6fa60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[3]/div[1]/table[@class=&quot;shipments-table mt-1&quot;]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>c293b449-b564-4716-8e40-607ff38f7759</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>e7524d8b-3bd8-45cc-8f24-2d82f7c1018b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESTINO'])[1]/following::td[3]</value>
+      <webElementGuid>79581015-8c4d-4273-94ed-88a120c26564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIPO DE ENTREGA'])[1]/following::td[3]</value>
+      <webElementGuid>78ceeb5a-e7b5-472e-892f-9f189cfbf8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en Tienda'])[1]/preceding::td[1]</value>
+      <webElementGuid>32381957-0675-4e56-87f5-41a65d38c141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - BAGUA'])[1]/preceding::td[2]</value>
+      <webElementGuid>84df903d-784f-4c67-9894-dc56e2ae798e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='sdfghjkjhgfdghjkljhgjjjjjjjjjfygiuhijdiawjdiwjnfiewnhfhnweufhnewfhwejhfncewhnfcihenicvnheiqvnuebnvuj']/parent::*</value>
+      <webElementGuid>9031deeb-09ee-4d3a-bacf-d5e07ca9b448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>844cf82b-d1b9-4fe2-b4a1-7e8edab82002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'sdfghjkjhgfdghjkljhgjjjjjjjjjfygiuhijdiawjdiwjnfiewnhfhnweufhnewfhwejhfncewhnfcihenicvnheiqvnuebnvuj' or . = 'sdfghjkjhgfdghjkljhgjjjjjjjjjfygiuhijdiawjdiwjnfiewnhfhnweufhnewfhwejhfncewhnfcihenicvnheiqvnuebnvuj')]</value>
+      <webElementGuid>8777809d-8a27-4105-a5f9-0f7ee0bad8b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

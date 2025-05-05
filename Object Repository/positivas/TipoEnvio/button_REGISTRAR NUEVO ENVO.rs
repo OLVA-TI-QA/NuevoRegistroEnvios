@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_REGISTRAR NUEVO ENVO</name>
+   <tag></tag>
+   <elementGuidId>ee822080-3527-4cbd-bd5f-63de97f518bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-5 > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc9aa715-1ca0-4401-909b-acbd9e7b097f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGISTRAR NUEVO ENVÍO</value>
+      <webElementGuid>b6461d7f-7f3b-4ad7-a9e4-f9a630b55f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-pago-respuesta[1]/div[@class=&quot;shadow border-card contenedor-div border-respuesta-responsive&quot;]/div[@class=&quot;mt-5&quot;]/button[1]</value>
+      <webElementGuid>3e1853c8-8b74-4c66-93cb-b1745da8f743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[7]/button</value>
+      <webElementGuid>3b49f095-7335-427c-b41f-8c5bc1d752d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuerda rotular correctamente tus envíos'])[1]/following::button[1]</value>
+      <webElementGuid>377e67dc-7da6-4a11-be75-cccbf864959c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver tiendas/agentes'])[1]/following::button[1]</value>
+      <webElementGuid>cb95d7b1-c645-445e-ba05-8c2c7c01353a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGISTRAR NUEVO ENVÍO']/parent::*</value>
+      <webElementGuid>d429a9ea-328b-4f7a-9a5c-ddfbbcee33bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>7711c17f-6208-41ce-a34d-f6d5608340c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'REGISTRAR NUEVO ENVÍO' or . = 'REGISTRAR NUEVO ENVÍO')]</value>
+      <webElementGuid>4b58a85a-1263-40d9-a7cf-3de57dcd8bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-pago-exitoso-pe/div[2]/div[7]/button</value>
+      <webElementGuid>f5c74fd3-938f-4a3e-8658-8417d0b45ac9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

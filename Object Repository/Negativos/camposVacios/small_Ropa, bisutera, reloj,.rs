@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Ropa, bisutera, reloj,</name>
+   <tag></tag>
+   <elementGuidId>3f647b97-00d6-4be3-870a-de2151e85492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.extra-info > div > small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoUnKilo']/div[2]/div/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>ff286175-a4c3-42d6-b6b8-c5bcf62b4bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ropa, bisutería, reloj,</value>
+      <webElementGuid>c2744085-768c-4b07-9d10-bbe9d0740409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoUnKilo&quot;)/div[@class=&quot;extra-info&quot;]/div[1]/small[1]</value>
+      <webElementGuid>82a7d20f-4cdc-4723-9777-a06a830835e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pesoUnKilo']/div[2]/div/small</value>
+      <webElementGuid>dd430a89-5976-4416-93ed-892962225175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[1]/following::small[1]</value>
+      <webElementGuid>295049ab-286c-4dbe-b742-78c0783c43c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kg'])[1]/following::small[2]</value>
+      <webElementGuid>98d695aa-2842-4294-9ac1-069ae81350ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lentes, etc.'])[1]/preceding::small[1]</value>
+      <webElementGuid>b4749533-cf4d-4595-a724-eb5943d530a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ropa, bisutería, reloj,']/parent::*</value>
+      <webElementGuid>3b42a4b5-0d01-445a-a709-e43b0df64bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/small</value>
+      <webElementGuid>945a4099-58e3-4643-85cb-4a6a24b64c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Ropa, bisutería, reloj,' or . = 'Ropa, bisutería, reloj,')]</value>
+      <webElementGuid>ac48f70c-ebdc-420f-934d-f8a4db3070c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

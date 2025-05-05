@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Datos de quin envaCompleta los datos de_21f3c5</name>
+   <tag></tag>
+   <elementGuidId>5886f69d-052f-4ce7-80b7-1e33887a1b53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-personalized-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6a36bd0-ef54-4ea0-8033-b60853ae9514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-personalized-2</value>
+      <webElementGuid>e1fe2672-9c9f-4db4-8e37-05747c5446d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR</value>
+      <webElementGuid>382a75c4-2392-4899-b8e5-d9c5be714430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]</value>
+      <webElementGuid>30d00662-c393-4ad5-b26d-bb16e73dfdb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div</value>
+      <webElementGuid>90e36750-fa5d-4570-8861-8d73e10b663a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[2]</value>
+      <webElementGuid>c7ba369f-1ee2-47bb-99c5-a233b2eb7d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[5]</value>
+      <webElementGuid>951a9645-fe15-4bb2-8324-79eb2368b6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>e537f60a-b39a-4990-b9b8-416e0cde89f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR' or . = 'Datos de quién envíaCompleta los datos de la persona que realiza el envío.Tipo comprobante:BOLETAFACTURA TIPO DE DOCUMENTO  DNI  CE NÚMERO DOCUMENTONOMBRES Y APELLIDOSEMAILCELULARTipo de ServicioDéjalo en Tienda/Agente.Acercate a nuestra tienda o agente más cercano para dejar tus envíos.Recojo de envíos.  MUY PRONTORecogemos tu envío en casa para que ahorres tiempo y esfuerzo.VOLVERCONTINUAR')]</value>
+      <webElementGuid>eb951505-e6b5-4c2d-9fb7-1a5826f32d68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

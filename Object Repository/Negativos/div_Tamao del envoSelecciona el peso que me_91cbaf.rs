@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tamao del envoSelecciona el peso que me_91cbaf</name>
+   <tag></tag>
+   <elementGuidId>08f704d4-76aa-4734-aa81-17b743a6806e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.center-horizontal-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e8f3776-1c85-4143-a937-d1f6b24cd9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row center-horizontal-responsive</value>
+      <webElementGuid>7c7a2e3a-51b5-4fe4-aa8f-664dd9777ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tamaño del envíoSelecciona el peso que mejor se ajuste a tu envío. Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.Hasta 2 KgEjemAudifonos, zapatillas,gorras, etcHasta 3 KgEjemMochila, pelota,parlantes, etcHasta 4 KgEjemPeluches, almohadas,lámparas, etcHasta 5 KgEjemImpresoras, laptops,consolas, etcNo sé el peso de mi envío Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR</value>
+      <webElementGuid>1447762a-dc12-4f82-9e29-5e42590ba727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]</value>
+      <webElementGuid>acd08954-9b61-4a9b-9b75-ff18feedf97b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div</value>
+      <webElementGuid>d531f049-b75d-4c2b-8af7-969f72c1a780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[3]</value>
+      <webElementGuid>82538916-a4de-491d-b133-2acef3a225b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[3]</value>
+      <webElementGuid>659a1a4f-7770-4a7c-a785-cf8e9aabed3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>ff12c1c1-1a47-41e7-b58f-d50de2beeb6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tamaño del envíoSelecciona el peso que mejor se ajuste a tu envío. Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.Hasta 2 KgEjemAudifonos, zapatillas,gorras, etcHasta 3 KgEjemMochila, pelota,parlantes, etcHasta 4 KgEjemPeluches, almohadas,lámparas, etcHasta 5 KgEjemImpresoras, laptops,consolas, etcNo sé el peso de mi envío Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR' or . = 'Tamaño del envíoSelecciona el peso que mejor se ajuste a tu envío. Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.Hasta 2 KgEjemAudifonos, zapatillas,gorras, etcHasta 3 KgEjemMochila, pelota,parlantes, etcHasta 4 KgEjemPeluches, almohadas,lámparas, etcHasta 5 KgEjemImpresoras, laptops,consolas, etcNo sé el peso de mi envío Quiero retorno de cargo TENER EN CUENTAEl costo del envío se basa en las dimensiones reales verificadas al recepcionar el paquete en nuestras tiendas.Se aplica peso volumen en caso los paquetes tengan mayor tamaño que peso.VOLVERCONTINUAR')]</value>
+      <webElementGuid>3015b8eb-2a99-4859-a25f-e73b20617c43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

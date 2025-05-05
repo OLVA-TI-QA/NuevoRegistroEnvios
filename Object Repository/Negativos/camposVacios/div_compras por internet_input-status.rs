@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_compras por internet_input-status</name>
+   <tag></tag>
+   <elementGuidId>55f58883-7f8c-441f-bedc-8538c22cc139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.col-6-1.sep.landscape-col.landscape-col-6-1.expiration > section > label.input > div.input-status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='default']/div[5]/div/section/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd314a39-1589-4053-a949-c077995f14da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-status</value>
+      <webElementGuid>eb6202ad-caa9-4dc2-b7fd-30c3c2cc3f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;default&quot;)/div[@class=&quot;form-group row landscape-row&quot;]/div[@class=&quot;col col-6-1 sep landscape-col landscape-col-6-1 expiration&quot;]/section[1]/label[@class=&quot;input&quot;]/div[@class=&quot;input-status&quot;]</value>
+      <webElementGuid>76d6f745-71b7-4b1c-bf95-55b0fbfae9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativos/camposVacios/iframe_Cancel_visaNetJS</value>
+      <webElementGuid>c9a7b706-2577-495c-b7ac-0b32e07f4352</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='default']/div[5]/div/section/label/div</value>
+      <webElementGuid>7d62691e-1a93-4fff-9870-7ef7f259dad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[5]/div/section/label/div</value>
+      <webElementGuid>66e20bad-a866-4dcd-bbe5-d628477bde49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

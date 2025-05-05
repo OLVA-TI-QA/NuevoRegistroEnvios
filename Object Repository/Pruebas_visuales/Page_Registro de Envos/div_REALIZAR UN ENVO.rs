@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REALIZAR UN ENVO</name>
+   <tag></tag>
+   <elementGuidId>11a7582f-5ea8-4438-b5a4-07ab6e82ff64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.option-card.px-4.pb-3.ptc-4.text-center.border.rounded-10.shadow-sm.back-color-orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-principal/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^REALIZAR UN ENVÍO$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83526158-a1c2-4839-8075-1d87c1680030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option-card px-4 pb-3 ptc-4 text-center border rounded-10 shadow-sm back-color-orange</value>
+      <webElementGuid>85cf7c6a-f131-448b-9feb-e42a9b883b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REALIZAR UN ENVÍO</value>
+      <webElementGuid>7d208606-ae6a-4c36-b36d-b70873e5670b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-principal[1]/div[@class=&quot;d-flex align-items-center justify-content-center vh-100&quot;]/div[@class=&quot;text-center pb-5&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-5 col-sm-5 col-xs-5 me-4 gutter-x&quot;]/div[@class=&quot;option-card px-4 pb-3 ptc-4 text-center border rounded-10 shadow-sm back-color-orange&quot;]</value>
+      <webElementGuid>e961290c-9b7f-41c9-82c2-f07302896fc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-principal/div/div[2]/div/div/div</value>
+      <webElementGuid>1fd73685-8021-4077-abdb-2dc8a20debe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué deseas realizar hoy?'])[1]/following::div[3]</value>
+      <webElementGuid>ce21b0d2-755c-4d25-8eab-126cc0690779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>ee89581f-c405-4756-968c-f9b370919a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'REALIZAR UN ENVÍO' or . = 'REALIZAR UN ENVÍO')]</value>
+      <webElementGuid>ce739a15-0118-4f81-9a3d-803a4c234e59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

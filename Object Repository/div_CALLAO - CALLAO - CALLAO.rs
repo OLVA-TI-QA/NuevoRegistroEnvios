@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CALLAO - CALLAO - CALLAO</name>
+   <tag></tag>
+   <elementGuidId>0ea4f70a-bb96-4914-a1a5-56e90cd3ba00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#opcion_070101</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opcion_070101']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f51041d4-5179-4eaf-a211-ae5df6672e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen hover</value>
+      <webElementGuid>9c8d12b1-38ec-4309-9b86-bc5bb95f4d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion_070101</value>
+      <webElementGuid>ecd24dda-639e-49f2-9b51-3b8a4d387a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CALLAO - CALLAO - CALLAO </value>
+      <webElementGuid>c85be4c8-a53e-43b6-8e85-aa6ec7a7a2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opcion_070101&quot;)</value>
+      <webElementGuid>ec68b43b-79a6-4b42-ba4b-c24331fbb6a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='opcion_070101']</value>
+      <webElementGuid>05aec5a8-f61a-471d-8dbe-30cea86b6507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteList']/div[2]</value>
+      <webElementGuid>18bdcb8e-dfb9-4afd-9351-418520669d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALLAO - CALLAO - BELLAVISTA'])[1]/following::div[1]</value>
+      <webElementGuid>a3120f38-c888-4474-9a11-fb2ed21b5244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::div[3]</value>
+      <webElementGuid>2ca273d4-fc49-41c2-af8a-fc9d3085a253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALLAO - CALLAO - CARMEN DE LA LEGUA REYNOSO'])[1]/preceding::div[1]</value>
+      <webElementGuid>89aa54e7-adda-46a2-b69e-9a6a6bd1cdb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALLAO - CALLAO - LA PERLA'])[1]/preceding::div[2]</value>
+      <webElementGuid>f1ae5f93-a3df-443b-89f3-a55de384758c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CALLAO - CALLAO - CALLAO']/parent::*</value>
+      <webElementGuid>433fb126-e723-4548-8425-2c8a22e6e8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]</value>
+      <webElementGuid>ee80bb94-0782-445c-973a-95be359a7e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion_070101' and (text() = ' CALLAO - CALLAO - CALLAO ' or . = ' CALLAO - CALLAO - CALLAO ')]</value>
+      <webElementGuid>a59c9b16-2e77-49ed-8d08-1bba0b3dd436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RECOJO EN  TIENDAAGENTEEjemImpresoras, _f96a59</name>
+   <tag></tag>
+   <elementGuidId>706c554a-92a1-40c5-84ff-341325c77201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaTiendaSmall']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaTiendaSmall</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d64afed4-9075-476b-a23e-693f69b3c8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionaTiendaSmall</value>
+      <webElementGuid>102d2a7f-1eeb-4d18-bac8-d45ef8aa9f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center align-items-center div-tipo-entrega-small margin-top-responsive</value>
+      <webElementGuid>f226c67a-0a4a-430c-b097-e8edeb43cb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>9230b8d9-9333-45b1-8251-567e0701d333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etc</value>
+      <webElementGuid>ac70a8ab-bf9b-4e56-89f9-b13fd80d4d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaTiendaSmall&quot;)</value>
+      <webElementGuid>78c35f38-64af-46b5-a667-2ff9219d8a24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaTiendaSmall']</value>
+      <webElementGuid>88ac475a-36d3-40c9-a568-d7589ff1e6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>84f2ba3d-87a2-494b-9b8e-ce4cc5a2ddd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops, consolas, etc'])[1]/following::div[1]</value>
+      <webElementGuid>4cb84a6f-b4b6-41e3-92d9-b358b2cbde6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[1]/following::div[1]</value>
+      <webElementGuid>c3251c29-a8e4-4021-b357-f566815c3a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>314ea87c-e5ee-4599-b004-282cbd3ca6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionaTiendaSmall' and (text() = 'RECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etc' or . = 'RECOJO EN  TIENDA/AGENTEEjemImpresoras, laptops, consolas, etc')]</value>
+      <webElementGuid>f253d01b-e030-4493-a19f-91f15c37e6e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

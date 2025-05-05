@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RECOJO EN  TIENDAAGENTE</name>
+   <tag></tag>
+   <elementGuidId>d883af9e-b521-4add-8f07-a3b1fbfec802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaTiendaSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaTiendaSmall']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>421c7397-f3de-4885-9188-42c97cdcd965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionaTiendaSmall</value>
+      <webElementGuid>d960afa9-6e0d-4ce9-ae8f-fdc4ced1878b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center align-items-center div-tipo-entrega-small margin-top-responsive opacity-50</value>
+      <webElementGuid>abd0fef5-6edd-47db-b7ad-dc09c006781a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>cec5161e-751c-43ed-9a70-eeeb2ee7f8a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECOJO EN  TIENDA/AGENTE</value>
+      <webElementGuid>0b0f0ffe-fee7-4d39-acda-c858373f0b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaTiendaSmall&quot;)</value>
+      <webElementGuid>dd6c8ce9-0d4d-43bb-af0a-0fadfaad0112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaTiendaSmall']</value>
+      <webElementGuid>0b61c566-e68f-4341-8c48-2e823606ac86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[2]</value>
+      <webElementGuid>fc522667-41ad-4e16-9172-5c0271a5e8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[1]/following::div[6]</value>
+      <webElementGuid>806ca1b8-70c1-4a59-a652-a0afd63dbff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECCIONE EL DESTINO DE SU ENVÍO'])[1]/preceding::div[2]</value>
+      <webElementGuid>f9449142-12c4-4051-a2e0-a1d3d9fdcb9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tipo-entrega/div[2]/div[2]</value>
+      <webElementGuid>05880b5e-79e4-4305-b551-97ea1c8fcde1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionaTiendaSmall' and (text() = 'RECOJO EN  TIENDA/AGENTE' or . = 'RECOJO EN  TIENDA/AGENTE')]</value>
+      <webElementGuid>62fbdeea-c677-4fe2-94a0-7914fa431d2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
