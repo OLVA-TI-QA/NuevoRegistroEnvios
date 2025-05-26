@@ -23,6 +23,12 @@ WebUI.navigateToUrl('https://dev-registro-envios-mat-design.olvacourier.com/')
 
 WebUI.maximizeWindow()
 
+WebUI.delay(2)
+
+WebUI.executeJavaScript('document.elementFromPoint(50, 50).click();', null)
+
+WebUI.delay(2)
+
 WebUI.verifyElementText(findTestObject('Object Repository/Positivas_Boleta/Page_Registro de Envos/h1_Qu deseas realizar hoy'), 
     '¿Qué deseas realizar hoy?')
 

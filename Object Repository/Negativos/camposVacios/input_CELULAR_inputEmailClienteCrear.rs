@@ -6,12 +6,12 @@
    <elementGuidId>af317323-d5c4-4c5a-8915-125fb10d27a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#inputEmailClienteCrear</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='inputEmailClienteCrear']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputEmailClienteCrear</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>91cdd09e-a89e-4faa-add6-3331b8ecd85e</webElementGuid>
+      <webElementGuid>c3c33d45-b7ce-4d45-af5f-f8ac9ebca023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>70eec7e8-a2e4-4805-8b18-29cfec9746ec</webElementGuid>
+      <webElementGuid>dab131eb-0502-4f04-a33b-29bd6475b34a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>8c1bbb04-ac58-4614-bd07-23c254025877</webElementGuid>
+      <webElementGuid>5bc1dbe5-e3e1-462b-b07e-5ed11872361a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inputEmailClienteCrear</value>
-      <webElementGuid>bc0c2858-2be3-4aa2-9301-1de12ea6762d</webElementGuid>
+      <webElementGuid>07e2d139-309c-486f-bf10-e7a50b818f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>inputEmailClienteCrear</value>
-      <webElementGuid>98e382d5-c0a2-41bf-8fe9-bef3bf4e56e6</webElementGuid>
+      <webElementGuid>8440278e-bedb-49c6-a429-97aaca88a0a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>material ng-pristine ng-invalid ng-touched</value>
-      <webElementGuid>02bd014e-dbdc-49b7-97a8-4da20fdeed6f</webElementGuid>
+      <value>material ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>b500ca52-3adb-45ea-96d0-0ef36b37eb81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>ng-reflect-maxlength</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>e032fa4a-0a83-4583-88e2-dfc861af8a9e</webElementGuid>
+      <webElementGuid>e9029b7c-ebdc-45be-a51f-90912abb5152</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>ng-reflect-name</name>
       <type>Main</type>
       <value>inputEmailClienteCrear</value>
-      <webElementGuid>3be966bc-4900-451b-bf4d-dacbf6c27598</webElementGuid>
+      <webElementGuid>6a5fc838-3679-4299-8f38-63cf1dc09189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputEmailClienteCrear&quot;)</value>
-      <webElementGuid>bccbb03c-da2e-4373-902a-e27adb16a191</webElementGuid>
+      <webElementGuid>9086d7ac-63c5-4e4f-a3ca-9c876f9c2896</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputEmailClienteCrear']</value>
-      <webElementGuid>7b0660f5-147a-495a-9d07-f76fd75c5c81</webElementGuid>
+      <webElementGuid>1f1e1bdb-c0b9-4aea-8bb0-7339acfe4c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[6]/div/div/input</value>
+      <webElementGuid>2a3f5a3d-cdcd-4bb9-8253-a8203b8fed5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/input</value>
+      <webElementGuid>4390258a-6018-457f-a2a8-167b4acbc772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'inputEmailClienteCrear']</value>
+      <webElementGuid>423b4ed5-f22b-41df-a415-348094971b78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,13 +135,5 @@
       <type>Main</type>
       <value>//div[7]/div/div/input</value>
       <webElementGuid>89a14970-ad27-4437-a3e9-34c99e229a58</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'inputEmailClienteCrear']</value>
-      <webElementGuid>703f6569-4377-4601-8be7-6e4dea04973d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

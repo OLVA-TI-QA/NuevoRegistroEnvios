@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='selectDestinoTienda']</value>
+         <value>//*[@id=&quot;selectDestinoTienda&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3776cc9e-fc15-42d2-8073-39cb6d57d534</webElementGuid>
+      <webElementGuid>7c790720-c075-4dc5-b5de-29082c3f0b51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>95ca1ceb-fe5c-4527-958c-7ea0d25afd70</webElementGuid>
+      <webElementGuid>5ea3c29d-1792-4b07-a0fe-d86b5c0bdca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>3a6f1cb1-d2ac-49b4-aab5-28a10c452e3b</webElementGuid>
+      <webElementGuid>fd215742-c9f1-47d2-a5ce-8bd86e53fef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>selectDestinoTienda</value>
-      <webElementGuid>6ea3fc11-5158-444e-9b03-15b4116f5057</webElementGuid>
+      <webElementGuid>613220ff-5c70-407d-bdf5-bce8e8d0f2f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>selectDestinoTienda</value>
-      <webElementGuid>ed1bc542-1000-4394-ada0-845ea0389a7d</webElementGuid>
+      <webElementGuid>a8be0fa8-518c-40c8-8cf6-e97fcc4fed36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>8f1b9cf5-fdff-4084-8e47-a32c5db56506</webElementGuid>
+      <webElementGuid>b10e1ce2-188e-4430-b10e-bcfed29b7783</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;selectDestinoTienda&quot;)</value>
-      <webElementGuid>37333ddc-1f43-407c-ab0f-daf97b6d7ceb</webElementGuid>
+      <webElementGuid>76b33de3-7b35-4a0f-bb2c-5274ca2baf15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='selectDestinoTienda']</value>
-      <webElementGuid>1db56741-96ea-41be-bf4b-92642428f870</webElementGuid>
+      <webElementGuid>baacf4d9-5b2d-479e-b226-d93f43894301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div/div/input</value>
-      <webElementGuid>eb79a2c7-a46a-42be-890d-0713228fc138</webElementGuid>
+      <webElementGuid>a651f587-a21e-4f44-9264-0799854bfc00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-cargo-adjunto/div/div/div[5]/div/div/input</value>
-      <webElementGuid>2f2eac65-a75d-4368-a06e-12775186c893</webElementGuid>
+      <webElementGuid>5a19bb1d-d459-4420-af26-748d54912b13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'selectDestinoTienda']</value>
-      <webElementGuid>5b866bcd-7045-4bf9-a4f7-0f4504330020</webElementGuid>
+      <webElementGuid>13881910-e3cf-4500-a3a2-e5e1f7bdb7ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

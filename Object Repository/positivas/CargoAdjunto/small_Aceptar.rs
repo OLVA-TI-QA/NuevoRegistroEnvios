@@ -7,7 +7,8 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='aceptarValidacionApellido']/small</value>
+         <value>//*[@id=&quot;aceptarCargoAdjunto&quot;]
+</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>9bd4de1a-3078-40f2-99f9-d9ba520b5e16</webElementGuid>
+      <webElementGuid>7e7be9df-6a3b-4d7b-807a-54d3e9bb95f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>aceptarCargoAdjunto</value>
-      <webElementGuid>cc98e13b-ba42-479d-8048-0a8da2e15e34</webElementGuid>
+      <webElementGuid>2cfd8e27-01f7-4680-b2bb-a4394f1aa1e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>span-accept</value>
-      <webElementGuid>3efd2fda-835d-4775-b646-0ab50058d804</webElementGuid>
+      <webElementGuid>68f2f344-d6d9-473d-821c-fb1e5c49670c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Aceptar</value>
-      <webElementGuid>dcfe5723-b7aa-4a7c-b594-3283748d948f</webElementGuid>
+      <webElementGuid>36f742cc-c8ce-4e7e-ab97-1f57f2f734a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aceptarValidacionApellido&quot;)/small[@class=&quot;span-accept&quot;]</value>
-      <webElementGuid>7b8085b7-62cf-4f27-887d-6ce902dbecaa</webElementGuid>
+      <webElementGuid>98fd4cd8-45e3-4e06-98d2-74ecb6187364</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='aceptarValidacionApellido']/small</value>
-      <webElementGuid>d3e4f0f7-270e-4257-99cb-afa2935b4f74</webElementGuid>
+      <webElementGuid>45025bf5-3de3-40df-8eee-76f5bf7cfc2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::small[1]</value>
-      <webElementGuid>8121ba55-7e95-4594-9262-f370ade3c079</webElementGuid>
+      <webElementGuid>f4692f27-fc2b-4819-bae8-1ab39001159d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='APELLIDO PATERNO'])[1]/following::small[2]</value>
-      <webElementGuid>4566d451-34c8-47a1-aa8e-eff8a85bc7bb</webElementGuid>
+      <webElementGuid>3943076d-b8e9-4d8f-bb8a-c3ee46aa17a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aceptar']/parent::*</value>
-      <webElementGuid>1385d1cf-05bf-4024-ad31-5f56fd9de2fb</webElementGuid>
+      <webElementGuid>7f958e65-2774-4a74-a127-662af39f7735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-validacion-apellido-modal/div/div/div[3]/div[2]/small</value>
-      <webElementGuid>f01826fb-5915-4470-adaf-e8eb26f3f2d5</webElementGuid>
+      <webElementGuid>48d37bb6-7d59-4b16-8783-01325248c7e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +103,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//small[(text() = 'Aceptar' or . = 'Aceptar')]</value>
-      <webElementGuid>6f9e6ed1-7255-438e-8c30-379e655ad07b</webElementGuid>
+      <webElementGuid>9ff44bb7-fb15-4c25-b277-789d100537a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//small[@id='aceptarCargoAdjunto']</value>
-      <webElementGuid>6ef4a929-8a9d-4d37-8386-fe859abfadb5</webElementGuid>
+      <webElementGuid>0cb02f85-ecb8-4242-956f-a03e836d464f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +119,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div[2]/small[2]</value>
-      <webElementGuid>a5477f5c-4e87-4653-865e-5ab48d7bdbc2</webElementGuid>
+      <webElementGuid>6f107acd-1554-437f-be0c-e694791afdd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::small[2]</value>
-      <webElementGuid>a396d665-ff7d-4465-8ced-d761707d0d77</webElementGuid>
+      <webElementGuid>adf29078-3846-4e58-939d-be76cdb2008b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'aceptarCargoAdjunto', '&quot;', ')')])[1]/preceding::small[1]</value>
-      <webElementGuid>145e5b0d-aed3-46fe-ab0e-f9e34e0fcb03</webElementGuid>
+      <webElementGuid>38729bcf-cb5a-42de-8a68-5c00f5c5c2b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/small[2]</value>
-      <webElementGuid>bb3795bb-242a-45a8-b143-46b6079be485</webElementGuid>
+      <webElementGuid>195e46ae-397c-4ca6-9c72-1d311287ea68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +151,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//small[@id = 'aceptarCargoAdjunto' and (text() = 'Aceptar' or . = 'Aceptar')]</value>
-      <webElementGuid>a59e69c4-26da-4282-b226-92437ef8d63a</webElementGuid>
+      <webElementGuid>8da3075e-fe6a-48c3-b70c-66ce64077d15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +159,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REFERENCIA'])[1]/following::small[2]</value>
-      <webElementGuid>6d4e2eb8-a4d7-4588-99fb-39a9db1496ca</webElementGuid>
+      <webElementGuid>899c919d-47ff-49ff-ab1f-194740c12bdb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

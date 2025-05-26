@@ -51,7 +51,7 @@ WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Ing
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA - LIMA - SAN ISIDRO'))
 
-WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/span_Realizan el pago al recoger el envo, e_879eb4'))
+WebUI.click(findTestObject('positivas/TipoEnvio/span_mercancia peligrosa_slider round'))
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/button_CONTINUAR_1'))
 

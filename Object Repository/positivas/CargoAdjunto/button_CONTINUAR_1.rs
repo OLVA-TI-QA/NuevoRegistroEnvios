@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='avanzarQueEnvias']</value>
+         <value>//*[@id=&quot;avanzarListarEnvios&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>34f5db0e-f63e-4ee5-8226-6e53509b7fb4</webElementGuid>
+      <webElementGuid>c42c84bc-7536-424d-ba8f-36202d934c27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>avanzarQueEnvias</value>
-      <webElementGuid>a20eb39b-7702-46b6-bbb8-7dd813ef8584</webElementGuid>
+      <webElementGuid>fd897494-0bf4-48b4-9ca2-f13dc54f5ec2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-3 custom-btn boton</value>
-      <webElementGuid>2e977223-38ad-4420-94ef-7f8f3eef3ac4</webElementGuid>
+      <webElementGuid>87f87831-504d-4f0a-bf84-19fda71626fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cfb2b9f9-d3ba-4189-b344-956e37bd9c9e</webElementGuid>
+      <webElementGuid>ed98d290-b024-4c0e-b373-616a255ae2bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONTINUAR</value>
-      <webElementGuid>947fcea9-f159-4390-8e42-46261c2f7b30</webElementGuid>
+      <webElementGuid>f0858058-0aa3-48f4-be52-fc15a76444ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;avanzarQueEnvias&quot;)</value>
-      <webElementGuid>c962cb8d-63bd-4d24-9726-ab7677c9644b</webElementGuid>
+      <webElementGuid>0195a259-b80d-4d06-819c-d60e920d2f1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='avanzarQueEnvias']</value>
-      <webElementGuid>5fbfd898-8323-4991-b2e3-c68362a3f4e6</webElementGuid>
+      <webElementGuid>d10ad4b9-c4b5-4bad-b87b-4b361e366977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[8]/button[2]</value>
-      <webElementGuid>1b95ff31-60c0-410e-aa59-251e4053d407</webElementGuid>
+      <webElementGuid>a6aa60cf-2aac-4420-b177-27ddbaf42735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/following::button[1]</value>
-      <webElementGuid>b46b9dbd-712a-4398-9f5c-fd6319c286a0</webElementGuid>
+      <webElementGuid>bd2c1f70-a1e8-4ef4-80ea-0aad71140074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='términos de uso y politica de privacidad'])[1]/following::button[2]</value>
-      <webElementGuid>2689ab79-d05d-4232-ad75-9614c4b58ad2</webElementGuid>
+      <webElementGuid>ffbf422a-a8e6-4813-b6f4-99f31c041928</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'avanzarQueEnvias', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>54146332-456f-4342-ab01-e612555f7880</webElementGuid>
+      <webElementGuid>40cba786-6bc6-4ea5-bfc4-8ffe50967e9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[8]/button[2]</value>
-      <webElementGuid>2e0dc1c9-f7c3-4f4e-93cf-4164d13cedbf</webElementGuid>
+      <webElementGuid>ba6f128a-4bd7-48db-9276-cd2fbd41ce42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'avanzarQueEnvias' and (text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
-      <webElementGuid>100983a9-1cd3-4b98-8f81-c72eb62b30bf</webElementGuid>
+      <webElementGuid>ca2876c9-cc76-4f6f-850e-5357bb1b7d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='avanzarListarEnvios']</value>
-      <webElementGuid>c0deeb3f-38ac-47aa-b578-ae137c665a70</webElementGuid>
+      <webElementGuid>0a886921-bc2e-49c6-a268-d5ae4425a96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[4]/button[2]</value>
-      <webElementGuid>3f33db9f-611e-4dae-b4f6-2f0a65cc0b1b</webElementGuid>
+      <webElementGuid>0765fb96-85dc-409a-b207-ad8dcc9f7959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lunes - Viernes 08:00 - 18:00'])[2]/following::button[2]</value>
-      <webElementGuid>72df443a-97b3-4dbd-b909-b77d7ab87359</webElementGuid>
+      <webElementGuid>a390fb03-5330-4f65-b86d-3e23327ecdef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'avanzarListarEnvios', '&quot;', ')')])[1]/preceding::button[1]</value>
-      <webElementGuid>07d84a9e-3132-4b85-bda3-5fb2e38c62c8</webElementGuid>
+      <webElementGuid>db83cf22-5dcf-4701-85ba-b7a9112b0a5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]</value>
-      <webElementGuid>4867dca4-7252-42c2-8d44-7eec038ad3cc</webElementGuid>
+      <webElementGuid>357b06d3-9a32-425a-9215-9b33389a0060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'avanzarListarEnvios' and (text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
-      <webElementGuid>b75b9b9c-6667-4ed1-be39-03675499fb8c</webElementGuid>
+      <webElementGuid>0632eac9-965f-47c0-8072-bfd8dd937a8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

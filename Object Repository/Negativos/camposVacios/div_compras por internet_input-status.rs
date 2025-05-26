@@ -6,12 +6,12 @@
    <elementGuidId>55f58883-7f8c-441f-bedc-8538c22cc139</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.col.col-6-1.sep.landscape-col.landscape-col-6-1.expiration > section > label.input > div.input-status</value>
+         <key>XPATH</key>
+         <value>(//div[@id=''])[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='default']/div[5]/div/section/label/div</value>
+         <key>CSS</key>
+         <value>div.ui-layout-resizer.ui-layout-resizer-south.ui-layout-resizer-open.ui-layout-resizer-south-open.ui-layout-resizer-hover.ui-layout-resizer-south-hover.ui-layout-resizer-open-hover.ui-layout-resizer-south-open-hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bd314a39-1589-4053-a949-c077995f14da</webElementGuid>
+      <webElementGuid>f4aa08e2-c128-4f69-83fa-5bf5cb0ac1fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-status</value>
-      <webElementGuid>eb6202ad-caa9-4dc2-b7fd-30c3c2cc3f96</webElementGuid>
+      <value>ui-layout-resizer ui-layout-resizer-south ui-layout-resizer-open ui-layout-resizer-south-open ui-layout-resizer-hover ui-layout-resizer-south-hover ui-layout-resizer-open-hover ui-layout-resizer-south-open-hover</value>
+      <webElementGuid>5bb47a59-871f-4706-9347-793d79e23eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;default&quot;)/div[@class=&quot;form-group row landscape-row&quot;]/div[@class=&quot;col col-6-1 sep landscape-col landscape-col-6-1 expiration&quot;]/section[1]/label[@class=&quot;input&quot;]/div[@class=&quot;input-status&quot;]</value>
-      <webElementGuid>76d6f745-71b7-4b1c-bf95-55b0fbfae9e5</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ui-layout-container&quot;]/div[@class=&quot;ui-layout-resizer ui-layout-resizer-south ui-layout-resizer-open ui-layout-resizer-south-open ui-layout-resizer-hover ui-layout-resizer-south-hover ui-layout-resizer-open-hover ui-layout-resizer-south-open-hover&quot;]</value>
+      <webElementGuid>60d3aa78-704e-4427-8c9c-4e77a3324281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +50,78 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id=''])[2]</value>
+      <webElementGuid>cb38a98a-e3a0-48a6-a89d-27ecb89d611a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]</value>
+      <webElementGuid>df27c747-3705-41a1-85d8-e853cc5c739e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/app-modal-loading/div</value>
+      <webElementGuid>d9c22217-9bc2-4535-af0e-85eeb0e4358b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/following::div[1]</value>
+      <webElementGuid>5bc3eb79-063c-4b19-8e5c-b1ce0c0051d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::div[1]</value>
+      <webElementGuid>67b3fb5c-360d-4b63-9d3f-b8e168b4215c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::div[1]</value>
+      <webElementGuid>1ab7f3d5-0d23-4769-9b6b-3904f5007e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[3]/preceding::div[1]</value>
+      <webElementGuid>03a5c001-e5a7-444e-9a00-43518fdd9afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-modal-loading/div</value>
+      <webElementGuid>a256c3f9-cbc8-41d0-91ab-527295f4e88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div</value>
+      <webElementGuid>35fca404-acb6-460b-9e15-d7ff2e17a55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

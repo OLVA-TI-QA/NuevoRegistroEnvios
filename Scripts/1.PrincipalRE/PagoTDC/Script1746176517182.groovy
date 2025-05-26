@@ -23,7 +23,7 @@ WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_Tarjeta
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/button_IR A PAGAR'))
 
-WebUI.delay(8)
+WebUI.delay(10)
 
 WebUI.scrollToElement(findTestObject('Object Repository/positivas/CargoAdjunto/i'), 0)
 
