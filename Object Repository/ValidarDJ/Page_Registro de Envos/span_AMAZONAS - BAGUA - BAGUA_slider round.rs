@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AMAZONAS - BAGUA - BAGUA_slider round</name>
+   <tag></tag>
+   <elementGuidId>9bd794f6-7e51-4119-9f02-7bd5bddbea20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slider.round</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[4]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f16cc9e-2563-4bee-9845-d061ce7efff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider round</value>
+      <webElementGuid>25cccbe6-8baa-4c5c-b0da-88e34f43c497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-4&quot;]/div[@class=&quot;d-flex align-items-center input-container&quot;]/div[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/label[@class=&quot;switch-listar&quot;]/span[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>3a53e93a-87ba-4829-a1f9-5905ebc388e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[4]/div/div/label/span</value>
+      <webElementGuid>e2fc3f87-5f6d-49ac-802c-3b56275be543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>7003d73e-77c8-40c9-9709-798f4b89067a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

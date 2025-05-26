@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ENTREGA  A DOMICILIORecibe tus envios e_e266cc</name>
+   <tag></tag>
+   <elementGuidId>c8dfe0be-e3f5-4ba8-b8d6-357e97082135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarDomicilio']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionarDomicilio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ENTREGA A DOMICILIORecibe tus envios en la puertade tu casa/oficina&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2940187b-824e-4db5-9527-0c4795d8af13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionarDomicilio</value>
+      <webElementGuid>a94889f8-69d6-4345-a1de-8fbf45508d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center align-items-center div-tipo-entrega</value>
+      <webElementGuid>1f0f41ab-4b0a-4f28-8c48-c2df0f5d7134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficina</value>
+      <webElementGuid>e437e481-d5ec-49ef-80f6-bcecf2d4d776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarDomicilio&quot;)</value>
+      <webElementGuid>df9f600f-be07-4556-a487-46de2706a0fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarDomicilio']</value>
+      <webElementGuid>673a22c9-a00a-480c-9955-dc903ae85924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>f9d1efbc-1a29-4610-8a33-992b010864cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Entrega'])[1]/following::div[3]</value>
+      <webElementGuid>456ffe74-7b2f-4a77-a185-fb42d9044e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/following::div[7]</value>
+      <webElementGuid>2987785e-0167-4496-9a91-af0ade9b026c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>7f265773-7940-4d4f-8641-47fe487de4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionarDomicilio' and (text() = 'ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficina' or . = 'ENTREGA  A DOMICILIORecibe tus envios en la puertade tu casa/oficina')]</value>
+      <webElementGuid>7e8896d6-902b-4930-afd9-d4e8ebb80f6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CUSCO - CUSCO - CUSCO</name>
+   <tag></tag>
+   <elementGuidId>c856a52a-dae9-4eab-b068-fcb5903b80f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;CUSCO - CUSCO - CUSCO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ebd6e19-6ad5-4fcd-9e0f-5e4906e4e368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>37c68dce-2cab-4819-92a0-2e7ea70b4468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino ng-star-inserted hover</value>
+      <webElementGuid>c35a01e6-e214-455d-9b23-b7be2cd918e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CUSCO - CUSCO - CUSCO </value>
+      <webElementGuid>25793329-cf10-424d-93de-a5af08c5074b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>cce65342-10bc-48f4-bf70-4e13c362a309</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      <webElementGuid>949c38fe-cb03-4b1f-aafc-baa8d10d56f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[2]</value>
+      <webElementGuid>406c08d3-f294-4ce8-8d8c-5c735b4d8bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSCO - CUSCO - CCORCA'])[1]/following::div[1]</value>
+      <webElementGuid>97dc2dae-4f4d-45c9-a888-92a9e993e7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa el destino de tu envío'])[1]/following::div[5]</value>
+      <webElementGuid>849728e2-ab82-4ff3-a0f5-97f770fe1508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSCO - CUSCO - POROY'])[1]/preceding::div[1]</value>
+      <webElementGuid>890ded02-4023-4304-ba44-be68d227cae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSCO - CUSCO - SAN JERONIMO'])[1]/preceding::div[2]</value>
+      <webElementGuid>fc425711-ca4f-4f53-bd66-c6b4eccfc028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CUSCO - CUSCO - CUSCO']/parent::*</value>
+      <webElementGuid>10f93be4-420c-496d-93a1-2031823b6107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>57fafe8d-5de8-4e54-8b67-63d3a057cb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' CUSCO - CUSCO - CUSCO ' or . = ' CUSCO - CUSCO - CUSCO ')]</value>
+      <webElementGuid>2945db6a-4787-4590-87de-c79414d144f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

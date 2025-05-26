@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TACNA - TACNA - TACNADESTINO</name>
+   <tag></tag>
+   <elementGuidId>07e4f252-1d58-46e3-b6bc-4177dfffb500</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino > div.border-origen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TACNA - TACNA - TACNADESTINO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4398f121-e6a0-40e1-bc58-e2c1b7c9fb73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>617442a3-25f2-4b63-9246-4e025c8acc6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-origen</value>
+      <webElementGuid>a0442565-932a-4e12-84fb-9c0d2c5e30b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TACNA - TACNA - TACNADESTINO</value>
+      <webElementGuid>801bd31f-8088-4c75-bb2b-258b4a679867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]</value>
+      <webElementGuid>4575bf44-191c-45f9-ac5f-c355c78285f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div</value>
+      <webElementGuid>1a9f72ef-7160-4f0f-ae4c-085f882af860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::div[1]</value>
+      <webElementGuid>442107ee-0d0c-4c9e-926b-aeecb7a971f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::div[2]</value>
+      <webElementGuid>a67dfe83-1934-4103-a8d0-5eb92c57c12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>bb8dd165-3cee-49d8-acf0-8cf6e850fd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TACNA - TACNA - TACNADESTINO' or . = 'TACNA - TACNA - TACNADESTINO')]</value>
+      <webElementGuid>d28529b6-da10-4cc8-8b06-067f5fa7acaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

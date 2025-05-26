@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Realizan el pago al recoger el envo, e_879eb4</name>
+   <tag></tag>
+   <elementGuidId>2a890612-02ff-40a5-980b-7a6fa303c676</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slider.round</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a66952ed-f374-41a6-97f4-74791e2cb646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider round</value>
+      <webElementGuid>d8ef9fa2-e1be-4e33-8cb7-25a9d17bf485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;col-md-12 mt-4 input-container&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[1]/label[@class=&quot;switch&quot;]/span[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>9b8a4960-ff58-4ac0-80ed-0c03d4c22c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div/label/span</value>
+      <webElementGuid>2e51e881-f1da-483d-bbc4-c5050c7b953b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>244cff8c-a88b-4c60-965a-7b26d087521f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AREQUIPA - AREQUIPA - AREQUIPA</name>
+   <tag></tag>
+   <elementGuidId>05a9e11f-5d1e-42e9-8a97-9fd05cdba7b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AREQUIPA - AREQUIPA - AREQUIPA&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d890630-8240-4da0-8769-6a596510c97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>96454e65-5dca-47d7-b48c-5e157074f0b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino ng-star-inserted hover</value>
+      <webElementGuid>58b2773c-7cb1-4765-9203-a577c170a36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AREQUIPA - AREQUIPA - AREQUIPA </value>
+      <webElementGuid>cf65c59f-8bc6-4a4f-86b9-4dba5a01f461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>c733ae7e-a21d-40a8-a2ca-8472a89e5f7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      <webElementGuid>c7b0c330-6866-41b4-920e-6c832eb8694d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[2]</value>
+      <webElementGuid>33435b2c-9cf2-4490-87cc-3bb19ce829fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - AREQUIPA - ALTO SELVA ALEGRE'])[1]/following::div[1]</value>
+      <webElementGuid>6869c77c-72ef-46ba-a409-cfc666732988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa el destino de tu envío'])[1]/following::div[5]</value>
+      <webElementGuid>4d97e620-182c-40fe-bb27-6920b4038d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - AREQUIPA - CAYMA'])[1]/preceding::div[1]</value>
+      <webElementGuid>94f72d47-cf16-43fd-952a-314147822ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - AREQUIPA - CERRO COLORADO'])[1]/preceding::div[2]</value>
+      <webElementGuid>8013d40e-affb-4f25-93a3-920a18d38b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AREQUIPA - AREQUIPA - AREQUIPA']/parent::*</value>
+      <webElementGuid>038a20ad-de80-4986-927e-f664b128a2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>41252127-1dd6-425b-a401-21cf0a48accc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' AREQUIPA - AREQUIPA - AREQUIPA ' or . = ' AREQUIPA - AREQUIPA - AREQUIPA ')]</value>
+      <webElementGuid>d3fdbaaa-4b5b-45bc-b88c-a3bece2a9b56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

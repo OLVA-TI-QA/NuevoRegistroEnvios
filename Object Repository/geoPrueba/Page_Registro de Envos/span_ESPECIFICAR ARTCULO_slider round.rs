@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ESPECIFICAR ARTCULO_slider round</name>
+   <tag></tag>
+   <elementGuidId>97ebbc1e-533c-4ef1-b35e-4d7c1c6bdc4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[7]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slider.round</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b71e60a2-e7ac-43d8-aced-96f11f7eb1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider round</value>
+      <webElementGuid>695eed0c-659d-430f-b11d-aa1d4cbd91c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12 mt-3 relative-position-show&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[1]/label[@class=&quot;switch ng-star-inserted&quot;]/span[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>a28d5fdd-5259-4e7a-829a-be4eb186eb02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[7]/div/div/label/span</value>
+      <webElementGuid>7dab965f-eee2-49a6-a341-fcc257df5c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>dfbccbec-7dd3-4b86-81aa-0cd0de968d42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

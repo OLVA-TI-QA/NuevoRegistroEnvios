@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA_cdk-overlay-backdrop cdk-overlay-d_db73cd</name>
+   <tag></tag>
+   <elementGuidId>eab759ed-8261-4555-b606-24b22de6de66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cdk-overlay-backdrop</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d5d0435-a67e-45fd-82ca-ac1ad441b3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>7009c337-2f69-492e-b0f0-80e7fd4252c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;cdk-global-scrollblock&quot;]/body[@class=&quot;mat-typography&quot;]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>3dbbb2c6-e2f8-4ae9-bc94-34c3e32303ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div</value>
+      <webElementGuid>688a6246-f509-4fa2-aecb-d4dd328a4666</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ejem</name>
+   <tag></tag>
+   <elementGuidId>37885908-ce19-4aae-bc19-7b84ab81bdf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.justify-content-center.d-flex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoUnKilo']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#pesoUnKilo div >> internal:has-text=/^Ejem$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0af2d69-66d3-49cd-a4ab-9a84ac559411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center d-flex</value>
+      <webElementGuid>c620579f-2c12-459a-9574-1f123ab3ce7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ejem</value>
+      <webElementGuid>0e5f3b6a-b5e1-44f9-af2d-9be206428b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoUnKilo&quot;)/div[@class=&quot;extra-info ng-star-inserted&quot;]/div[1]/div[@class=&quot;justify-content-center d-flex&quot;]</value>
+      <webElementGuid>daf3406f-94a8-4546-bddf-f93f6c9dff3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pesoUnKilo']/div[2]/div/div</value>
+      <webElementGuid>0621fcb1-6d8b-4e8d-9183-4c3284a2324e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kg'])[1]/following::div[3]</value>
+      <webElementGuid>f811d4f5-727e-4ac6-a398-ef7c0a02f9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ropa, bisutería, reloj,'])[1]/preceding::div[1]</value>
+      <webElementGuid>1464f419-e82f-436c-b1fd-96aaf7c7b2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>4a86c16a-d8e8-42bc-bd88-da7f8d1cdc5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ejem' or . = 'Ejem')]</value>
+      <webElementGuid>52c444c1-af42-40a9-b203-bae2fdeba382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

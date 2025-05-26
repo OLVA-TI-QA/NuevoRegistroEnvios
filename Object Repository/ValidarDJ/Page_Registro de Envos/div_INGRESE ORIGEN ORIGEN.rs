@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_INGRESE ORIGEN ORIGEN</name>
+   <tag></tag>
+   <elementGuidId>f40a930d-b995-4d13-8092-549409dfbb85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.border-origen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaOrigen']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;INGRESE ORIGEN ORIGEN&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>107f8c72-e964-40c9-b972-ae4861dc7d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>73190019-3b57-425a-b7a3-7b25706e7664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-origen</value>
+      <webElementGuid>47293170-6601-4bb4-b14d-1a77cdd9a98f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> INGRESE ORIGEN ORIGEN</value>
+      <webElementGuid>f8fa8258-bd2b-4e93-addc-086ec6bc7855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaOrigen&quot;)/div[@class=&quot;border-origen&quot;]</value>
+      <webElementGuid>47fbf9c5-9d1d-43fa-91a8-f43d237a8fcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaOrigen']/div</value>
+      <webElementGuid>47bc044e-0c16-448e-a195-c9146286fc8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desde:'])[1]/following::div[1]</value>
+      <webElementGuid>8dfef784-0caa-4cd4-a22a-0d99af07ba5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona origen y destino'])[1]/following::div[4]</value>
+      <webElementGuid>06d91944-e17f-43eb-b0f6-f343e8d51c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>0d014aa8-8982-4fb1-97f3-9cf2336ab7ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' INGRESE ORIGEN ORIGEN' or . = ' INGRESE ORIGEN ORIGEN')]</value>
+      <webElementGuid>ae39f598-a289-4ef0-baf0-fc6d339838b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

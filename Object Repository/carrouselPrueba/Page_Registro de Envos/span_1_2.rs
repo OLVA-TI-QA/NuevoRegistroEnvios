@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_2</name>
+   <tag></tag>
+   <elementGuidId>2db8816b-de0d-4633-a200-9926683c8f80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/app-principal-modal/div[2]/owl-carousel-o/div/div[3]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>owl-carousel-o span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dcb2e62c-b18f-4d4b-971d-b3bea0e3dbbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-0&quot;)/div[@class=&quot;mat-mdc-dialog-inner-container mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/app-principal-modal[@class=&quot;mat-mdc-dialog-component-host&quot;]/div[@class=&quot;mat-mdc-dialog-content mdc-dialog__content&quot;]/owl-carousel-o[1]/div[@class=&quot;owl-carousel owl-theme owl-loaded owl-responsive owl-drag&quot;]/div[@class=&quot;owl-dots&quot;]/div[@class=&quot;owl-dot&quot;]/span[1]</value>
+      <webElementGuid>e39f8e39-aad7-4689-b0e0-9e2ee7c36637</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-0']/div/div/app-principal-modal/div[2]/owl-carousel-o/div/div[3]/div[3]/span</value>
+      <webElementGuid>0c2776a2-5023-4b69-87cd-f80eb56900b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>7056e5db-ad65-4473-b60b-2aa45632fd79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_INGRESE DESTINODESTINO</name>
+   <tag></tag>
+   <elementGuidId>2f472bfe-84c2-44a8-8b9e-d5b2cd357f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino > div.border-origen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;INGRESE DESTINODESTINO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69feef08-59b6-417c-99b8-9613e39f5f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>688b26ea-4c3f-477f-a27f-4d31b3c63084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-origen</value>
+      <webElementGuid>f4ea6f60-499d-49bc-bcfa-6ba6123c5e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INGRESE DESTINODESTINO</value>
+      <webElementGuid>e81a4691-5a11-44d2-91e1-f675cf25a482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]</value>
+      <webElementGuid>6780165a-9194-433e-8a7d-174392b9eeda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div</value>
+      <webElementGuid>51e1515a-be03-40d8-8180-4236fc4c6b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::div[1]</value>
+      <webElementGuid>01f08ab7-5bfd-4c7d-b7c0-d6a511dcb797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::div[2]</value>
+      <webElementGuid>1c3e0a2d-b318-4a3b-8f6a-be39ede1c01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>f0d36160-439d-4f0f-a934-5c8f6fcdf3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'INGRESE DESTINODESTINO' or . = 'INGRESE DESTINODESTINO')]</value>
+      <webElementGuid>482eccc3-40bf-424a-9d10-4773a2aaad75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

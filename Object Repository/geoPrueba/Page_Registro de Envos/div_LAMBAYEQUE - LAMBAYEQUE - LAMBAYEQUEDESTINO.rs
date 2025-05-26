@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUEDESTINO</name>
+   <tag></tag>
+   <elementGuidId>af84b269-ebff-4fac-a96d-44fcae2040c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino > div.border-origen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUEDESTINO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f642d432-260b-4183-bffe-dcdf407c2174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>728957a5-f953-4bb5-aa5a-4ce9f34ed3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-origen</value>
+      <webElementGuid>3a615dd7-2eb2-4fea-9508-a01f5fc6fd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUEDESTINO</value>
+      <webElementGuid>817a4e86-8520-42bc-9f02-41494c33394a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]</value>
+      <webElementGuid>437ff1c8-227e-4ba3-b236-675fb07e2935</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div</value>
+      <webElementGuid>e2b6e5d2-77cd-466f-9915-d72a0a939ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::div[1]</value>
+      <webElementGuid>998d2e93-3b45-4d89-b412-244722e2b155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::div[2]</value>
+      <webElementGuid>bcf9510d-8ed3-47b9-9ddc-9ae86b644aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>2b334685-e3d0-422c-8ecd-bd1dd8a4987b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUEDESTINO' or . = 'LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUEDESTINO')]</value>
+      <webElementGuid>45b7ae2c-9fac-472a-89c4-8b28f3acc05c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

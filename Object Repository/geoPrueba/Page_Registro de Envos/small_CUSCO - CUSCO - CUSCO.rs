@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_CUSCO - CUSCO - CUSCO</name>
+   <tag></tag>
+   <elementGuidId>21bfba4b-fd1f-4c97-b620-9f1c58514a14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.font-13-destino</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;CUSCO - CUSCO - CUSCO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>3176a507-1a6b-4c95-858f-228a07b942c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>c9891ca9-e0c7-4808-9c30-7f7640032563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-13-destino</value>
+      <webElementGuid>866fc5cd-9871-4055-8ba8-533cf031eb27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CUSCO - CUSCO - CUSCO</value>
+      <webElementGuid>f9517da1-83fb-4505-a6e9-f8a1039aad5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]/small[@class=&quot;font-13-destino&quot;]</value>
+      <webElementGuid>8bc72285-afd8-4ee2-9dc7-a0a79968081e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div/small</value>
+      <webElementGuid>60cfcb4f-e09d-4276-bf86-25faa028ecbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::small[1]</value>
+      <webElementGuid>c0c46602-78ac-4c1a-9e56-234b69be455b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::small[2]</value>
+      <webElementGuid>e9169f57-ce38-41bf-ba54-3361e370819f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESTINO'])[1]/preceding::small[1]</value>
+      <webElementGuid>39133ec5-eeb8-47ec-9521-693dc779934f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forma de pago'])[1]/preceding::small[2]</value>
+      <webElementGuid>32b5a892-1353-4267-acbd-7be98ac53f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CUSCO - CUSCO - CUSCO']/parent::*</value>
+      <webElementGuid>a553106b-c868-4e56-88de-65c5828b2101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/small</value>
+      <webElementGuid>612662f2-ec81-43cc-b50a-2c14c2fc383c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'CUSCO - CUSCO - CUSCO' or . = 'CUSCO - CUSCO - CUSCO')]</value>
+      <webElementGuid>a3757f53-0804-4753-b1f4-db31500c202e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

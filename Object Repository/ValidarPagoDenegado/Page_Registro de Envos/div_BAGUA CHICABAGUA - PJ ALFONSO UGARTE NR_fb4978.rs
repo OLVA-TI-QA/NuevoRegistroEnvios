@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BAGUA CHICABAGUA - PJ ALFONSO UGARTE NR_fb4978</name>
+   <tag></tag>
+   <elementGuidId>b614f34b-5433-4c0e-a94f-1dcf3f26c6b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.ng-star-inserted.hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BAGUA CHICABAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA AbiertoLunes - Viernes &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>966deb0e-6f07-4427-8ea1-d124b73a1144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 ng-star-inserted hover</value>
+      <webElementGuid>9d086106-8194-407e-b0d3-c3df3b851afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BAGUA CHICABAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>1bea5e82-3dbb-4dc0-ac10-04104fc856ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row justify-content-center ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row mt-2 ng-star-inserted&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 ng-star-inserted hover&quot;]</value>
+      <webElementGuid>b404a4bf-cb26-49a7-9ee3-2e23713ae1ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      <webElementGuid>0a7c7f93-f40d-43b2-9a32-c5277b991ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>3884e535-5f30-4f39-b7e0-f268c5ae774a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>dbd68343-bc1b-40bf-ac59-5586f9d11717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BAGUA CHICABAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA AbiertoLunes - Viernes 08:00 - 18:00' or . = 'BAGUA CHICABAGUA - PJ ALFONSO UGARTE NRO 171 BAGUA CHICA AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>9dea018e-4e92-4c5c-9b19-df282d7bd6a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

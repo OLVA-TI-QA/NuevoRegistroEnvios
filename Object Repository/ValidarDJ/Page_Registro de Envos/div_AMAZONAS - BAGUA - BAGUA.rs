@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AMAZONAS - BAGUA - BAGUA</name>
+   <tag></tag>
+   <elementGuidId>d9200632-c66c-4d23-8b1a-f1220bec53ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AMAZONAS - BAGUA - BAGUA&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67184c1b-f4a4-41e2-b2e5-2090313e6a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>2fd5f229-8540-4812-8a89-4f4a4584e0c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino ng-star-inserted hover</value>
+      <webElementGuid>b45ada2e-95e8-4266-b2c6-3fb2feb8b61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> AMAZONAS - BAGUA - BAGUA </value>
+      <webElementGuid>5bd84411-7890-45a6-ba5c-b0a7283a12c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>c19511cc-5181-4cce-bf31-db062f27f2ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[2]</value>
+      <webElementGuid>d5f1ed00-e381-44c6-8b80-f424a50a3c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[2]</value>
+      <webElementGuid>40d6a070-1355-4098-a464-45f7302d6bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - ARAMANGO'])[1]/following::div[1]</value>
+      <webElementGuid>a1a864c9-148b-40d4-b652-49fcb4a4c703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa el destino de tu envío'])[1]/following::div[5]</value>
+      <webElementGuid>083bec78-e354-405b-a53b-7f1743c2a54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - CHIRIACO'])[1]/preceding::div[1]</value>
+      <webElementGuid>e92e4a4c-688a-4a86-b17e-d32a07c4861f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - COPALLIN'])[1]/preceding::div[2]</value>
+      <webElementGuid>a0830463-12a3-4e8c-9715-1ed09deac519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AMAZONAS - BAGUA - BAGUA']/parent::*</value>
+      <webElementGuid>76a6fb1f-e7ef-49a1-b71f-ee6c1aa17f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>db519836-9fb7-41b5-9174-cbc6916eed70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' AMAZONAS - BAGUA - BAGUA ' or . = ' AMAZONAS - BAGUA - BAGUA ')]</value>
+      <webElementGuid>3f969447-5bd1-4947-8db3-2fcd5a59b2be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

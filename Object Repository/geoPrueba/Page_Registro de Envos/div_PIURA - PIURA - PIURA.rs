@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PIURA - PIURA - PIURA</name>
+   <tag></tag>
+   <elementGuidId>2c1b1e59-8824-4521-b5b6-64574a1a0eff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PIURA - PIURA - PIURA&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6db9520f-9363-495d-bc3e-cf6c66741929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>25d8d629-83d7-4ea1-9ea5-865eea5c2ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino ng-star-inserted hover</value>
+      <webElementGuid>2411bfe4-5dff-47ff-803a-a1f54677edae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PIURA - PIURA - PIURA </value>
+      <webElementGuid>c73909c9-9646-482e-95d0-a6eea432a48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>f3cde8e7-8cb1-4332-973e-2af99d32d98b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[8]</value>
+      <webElementGuid>d53bc801-7e0f-4cfd-bc20-8440ccf5907c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[8]</value>
+      <webElementGuid>02840f3e-636d-4ed7-9ef5-7d269beb0467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIURA - PIURA - LAS LOMAS'])[1]/following::div[1]</value>
+      <webElementGuid>1bc4378c-e7ea-4dfa-a0b9-652114adcacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIURA - PIURA - LA UNION'])[1]/following::div[2]</value>
+      <webElementGuid>605778ba-d905-4d10-87e3-9d9819c6f970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIURA - PIURA - TAMBO GRANDE'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e2a7cd3-9cb0-4ead-9774-287c3501bed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIURA - PIURA - VEINTISEIS DE OCTUBRE'])[1]/preceding::div[2]</value>
+      <webElementGuid>765a41b5-d2f8-44f3-9063-9d0ba6dd255b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PIURA - PIURA - PIURA']/parent::*</value>
+      <webElementGuid>731b8f0c-ec5d-403a-b98f-9ef9f0338994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[8]</value>
+      <webElementGuid>a4e5983c-f85f-4430-b79a-2ae1d1eef212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' PIURA - PIURA - PIURA ' or . = ' PIURA - PIURA - PIURA ')]</value>
+      <webElementGuid>0ec0be8f-fd0c-4102-81b9-960b3b3a8f32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

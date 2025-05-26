@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hasta 1 KgEjemRopa, bisutera, reloj,len_7246c3</name>
+   <tag></tag>
+   <elementGuidId>d9877248-a889-45fd-8392-a020132d5740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pesoUnKilo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoUnKilo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b85b0ca-4b1b-4868-a6ec-43a113a5c9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pesoUnKilo</value>
+      <webElementGuid>56a439b3-6da7-4f36-9c80-e39f2414a341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-responsive align-items-center div-peso-paquete div-width-responsive</value>
+      <webElementGuid>5b356ba0-835b-455d-a1e6-cff966804803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>232b9e08-a828-4570-aa49-c0a6822f02f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.</value>
+      <webElementGuid>3f3e7aa1-473e-4f76-a1d5-531162338673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoUnKilo&quot;)</value>
+      <webElementGuid>0883d7e9-131a-46ab-81b5-5f92e6514d26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pesoUnKilo']</value>
+      <webElementGuid>faba887a-f6b8-4ef9-95ae-d058089bbcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>1bc29635-fc10-41c4-a1d5-5838521cb531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona el peso que mejor se ajuste a tu envío.'])[1]/following::div[2]</value>
+      <webElementGuid>74abb06b-b10a-4c20-be1c-4a822481a0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño del envío'])[1]/following::div[3]</value>
+      <webElementGuid>48371d88-287c-43eb-98fb-b19f16afc9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>578fbd5f-40fc-4bdd-b34f-da9bd2f2a034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pesoUnKilo' and (text() = 'Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.' or . = 'Hasta 1 KgEjemRopa, bisutería, reloj,lentes, etc.')]</value>
+      <webElementGuid>099f834f-fb33-472e-a056-318c4f0480db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

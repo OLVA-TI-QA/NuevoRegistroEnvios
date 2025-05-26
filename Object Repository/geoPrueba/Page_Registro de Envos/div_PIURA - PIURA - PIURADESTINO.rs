@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PIURA - PIURA - PIURADESTINO</name>
+   <tag></tag>
+   <elementGuidId>65b235b0-3fdd-4bd7-97a5-e5a56943c785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionaDestino']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionaDestino > div.border-origen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PIURA - PIURA - PIURADESTINO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13e54da7-44c1-4ae7-bf9b-f169f6b94329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>700d7c02-d4ff-4107-9c1a-5886a7e5e31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-origen</value>
+      <webElementGuid>210367d1-f550-4cc9-9ea9-c9a4e2683c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIURA - PIURA - PIURADESTINO</value>
+      <webElementGuid>9f42231e-ca62-4983-8574-a6d7b2464be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionaDestino&quot;)/div[@class=&quot;border-origen&quot;]</value>
+      <webElementGuid>0d6aa361-9603-4638-8525-a7cb9378ad34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionaDestino']/div</value>
+      <webElementGuid>156b8763-9da7-4e74-b646-501fdecd4577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacia:'])[1]/following::div[1]</value>
+      <webElementGuid>446af9a3-c03a-42c3-938f-dab78c37fdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ORIGEN'])[2]/following::div[2]</value>
+      <webElementGuid>744af6c7-d954-4ca3-8f5a-040c13cb494b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>6dc3c06f-8d94-4ec5-942d-749aa3e08633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PIURA - PIURA - PIURADESTINO' or . = 'PIURA - PIURA - PIURADESTINO')]</value>
+      <webElementGuid>478e4a9c-5a8d-4c67-b73b-2228373c231a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

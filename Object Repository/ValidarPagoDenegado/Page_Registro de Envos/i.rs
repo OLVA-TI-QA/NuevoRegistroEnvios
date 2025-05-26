@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i</name>
+   <tag></tag>
+   <elementGuidId>27c21f25-571a-453b-9de2-1f3edb687ad5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.radio.state-success > i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Tarjeta de crédito y débito Realiza tu pago en cuotas o directo&quot;i >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>da2cf53e-fd69-486b-ba5c-82c3d71fa842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethods&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col col-11&quot;]/section[1]/label[@class=&quot;radio state-success&quot;]/i[1]</value>
+      <webElementGuid>bcf9c706-7302-488c-ae69-7871d5bcf994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/ValidarPagoDenegado/Page_Registro de Envos/iframe_concat(id(, , visaNetJS, , ))_visaNetJS</value>
+      <webElementGuid>f13b6c3e-a0e4-4ef8-babe-33f4da0ea386</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
+      <webElementGuid>57e24268-df8f-42a1-8377-ff16118103e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/section/label/i</value>
+      <webElementGuid>3bbe3403-a180-453d-a697-2742cae7efa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

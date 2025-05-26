@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_la declaracin jurada y declaro bajo j_b2ed59</name>
+   <tag></tag>
+   <elementGuidId>762d5ff3-6e5e-4177-825b-f612ee648de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkRegulacionTerminos > small.font-11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//small[@id='linkRegulacionTerminos']/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;la declaración jurada y declaro bajo juramento&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>0fa09498-72d1-4cd3-90f1-1363a3311629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-11</value>
+      <webElementGuid>5b86720e-ee21-4916-85f1-d3b75473ce37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> la declaración jurada y declaro bajo juramento </value>
+      <webElementGuid>5e87d424-082d-4147-ad44-589985afc9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkRegulacionTerminos&quot;)/small[@class=&quot;font-11&quot;]</value>
+      <webElementGuid>2c3e902f-a8d0-4ed1-94ae-0b2234e07e36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//small[@id='linkRegulacionTerminos']/small</value>
+      <webElementGuid>2ec864ec-5377-470f-8d5f-e3bfe5fac279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - BAGUA'])[1]/following::small[2]</value>
+      <webElementGuid>3e730f3a-b38e-4a4c-b299-38e3fbd7f8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clave de seguridad'])[1]/preceding::small[1]</value>
+      <webElementGuid>8ebb661e-9641-4360-b606-266402787af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear una clave de 4 dígitos para recojo en tienda'])[1]/preceding::small[1]</value>
+      <webElementGuid>a3708697-968d-490c-9be3-b40ee39d5305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='la declaración jurada y declaro bajo juramento']/parent::*</value>
+      <webElementGuid>57f18ad4-dcb9-44a4-a8a4-80c4723d0799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/small</value>
+      <webElementGuid>b1f13410-7597-4b5b-b172-29bbe4b70a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' la declaración jurada y declaro bajo juramento ' or . = ' la declaración jurada y declaro bajo juramento ')]</value>
+      <webElementGuid>0e4f1d82-c2bf-4954-aee4-8b9a23781baf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RECOJO EN  TIENDAAGENTE289 tiendas a ni_de1bb7</name>
+   <tag></tag>
+   <elementGuidId>a15706f9-c2a1-4d3f-9f8f-59dd4f05908e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#seleccionarTienda</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='seleccionarTienda']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;RECOJO EN TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30cdf38d-2963-4f86-8c76-d57242cc9450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seleccionarTienda</value>
+      <webElementGuid>03e64321-a1d3-43f0-8864-063db9e09b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-center align-items-center div-tipo-entrega margin-top-responsive</value>
+      <webElementGuid>a9c473ad-8a0f-4ce0-b984-763adc933290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>e80f35b3-4249-4a4a-a746-5c46c4c616d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentes</value>
+      <webElementGuid>e432a95f-4fb9-44b0-a847-3dbb1fe3ca1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleccionarTienda&quot;)</value>
+      <webElementGuid>f4f90ab5-d9f0-4320-9898-b53829f199c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='seleccionarTienda']</value>
+      <webElementGuid>348511be-51f8-4d88-9287-19b68e0c2976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>a254dc0b-3c9b-4863-b309-0b2da65dd8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de tu casa/oficina'])[1]/following::div[1]</value>
+      <webElementGuid>f6887959-7395-4295-aabb-aff9882a1f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recibe tus envios en la puerta'])[1]/following::div[1]</value>
+      <webElementGuid>41e7e3a6-d8a4-49dd-bd82-27cdb0cef5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::div[3]</value>
+      <webElementGuid>ac8c8e39-d8c1-49e9-b147-ee9db4edaae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]</value>
+      <webElementGuid>b53aa90c-603c-4db2-8e5a-5da6f0828244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'seleccionarTienda' and (text() = 'RECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentes' or . = 'RECOJO EN  TIENDA/AGENTE+289 tiendas a nivel nacional+40 agentes')]</value>
+      <webElementGuid>45fb835c-5d13-46fd-bea9-ae458c38e1b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Realizan el pago al recoger el envo, _e98386</name>
+   <tag></tag>
+   <elementGuidId>bc4c77b0-82fc-4ddd-8738-1db45f381b48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.switch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.switch</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>76abeb9d-2866-459c-a71f-d9d5a3912a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch</value>
+      <webElementGuid>69a392ba-d23e-44ac-a17f-1cfe31d683b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;col-md-12 mt-4 input-container&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[1]/label[@class=&quot;switch&quot;]</value>
+      <webElementGuid>07fb851a-eb86-4399-a35e-beb47c688c19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div/label</value>
+      <webElementGuid>6cb9933b-0d9d-4120-9a26-fde546ca3e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUY PRONTO'])[2]/following::label[1]</value>
+      <webElementGuid>49dace01-5193-44a8-a811-ffa1ca2fd5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='términos de uso y politica de privacidad'])[1]/preceding::label[1]</value>
+      <webElementGuid>e66903eb-9ec3-4ac9-b1f5-e2709c5cbc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/label</value>
+      <webElementGuid>7c49765b-d6e8-4603-b208-37bc4ffe2aac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

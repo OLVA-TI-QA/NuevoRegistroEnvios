@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE</name>
+   <tag></tag>
+   <elementGuidId>36306da0-8518-4938-a3f7-6cd69fb8ba59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='opcion.codUbigeo'])[28]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8e0f741-069e-4b17-8f72-85170d5fdc16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcion.codUbigeo</value>
+      <webElementGuid>742d53b5-da07-417d-945a-0bfa4c17b30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-origen-destino ng-star-inserted hover</value>
+      <webElementGuid>4212fc1d-edc6-4367-9920-eabae6345026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE </value>
+      <webElementGuid>5f69d65e-7e10-44b1-be4a-def67ecec693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocompleteOrigen&quot;)/div[@id=&quot;opcion.codUbigeo&quot;]</value>
+      <webElementGuid>53090c7c-cfac-4393-bf23-63b10b0c07af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='opcion.codUbigeo'])[28]</value>
+      <webElementGuid>aed7910c-064d-4899-bf4a-4b4c004ddf86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autocompleteOrigen']/div[28]</value>
+      <webElementGuid>0050fb32-365f-4d54-9b4d-d2c92b0d8fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAMBAYEQUE - LAMBAYEQUE - JAYANCA'])[1]/following::div[1]</value>
+      <webElementGuid>15c34a4d-d2c8-42d0-bf6d-141ee23f48f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAMBAYEQUE - LAMBAYEQUE - ILLIMO'])[1]/following::div[2]</value>
+      <webElementGuid>e74a75af-1340-40ae-9074-9767cc062d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAMBAYEQUE - LAMBAYEQUE - MOCHUMI'])[1]/preceding::div[1]</value>
+      <webElementGuid>23d4816f-430c-4700-b94a-d7cf675027f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAMBAYEQUE - LAMBAYEQUE - MORROPE'])[1]/preceding::div[2]</value>
+      <webElementGuid>f7ff09e6-cafd-4775-ad8d-e5334115e09b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE']/parent::*</value>
+      <webElementGuid>7f848bdb-5578-4517-99c0-05ea2e4e8152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]</value>
+      <webElementGuid>a06de5fc-b586-40b2-aebb-81bc32c7cd33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'opcion.codUbigeo' and (text() = ' LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE ' or . = ' LAMBAYEQUE - LAMBAYEQUE - LAMBAYEQUE ')]</value>
+      <webElementGuid>5dab77c0-4da9-4e0d-822c-77b31b851f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

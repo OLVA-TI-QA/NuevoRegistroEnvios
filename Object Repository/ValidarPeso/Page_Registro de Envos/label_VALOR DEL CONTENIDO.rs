@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_VALOR DEL CONTENIDO</name>
+   <tag></tag>
+   <elementGuidId>7cd5ec62-a739-4449-b7d2-1cc13a2b5b70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-input.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;VALOR DEL CONTENIDO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>eb1bc4d3-22e8-4b09-b31c-fa2e628a11c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputValorContenido</value>
+      <webElementGuid>0560d488-57f2-4ece-9e96-3403eb689e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-input ng-star-inserted</value>
+      <webElementGuid>393b66cd-cc0f-45f2-a860-5c24753cd914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VALOR DEL CONTENIDO</value>
+      <webElementGuid>b0dddfe1-5233-4b75-9eef-88903c5890e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12 row relative-position-show&quot;]/div[@class=&quot;col-md-6 col-sm-12 mt-personalized-2&quot;]/div[@class=&quot;input-container col-md-12&quot;]/label[@class=&quot;label-input ng-star-inserted&quot;]</value>
+      <webElementGuid>7e43e237-a0bc-4ec7-83a8-5e77e146b7a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[5]/div[2]/div/label</value>
+      <webElementGuid>c059d9d3-19af-4ab2-b614-8a2319a5e3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione un tipo de artículo'])[1]/following::label[1]</value>
+      <webElementGuid>cb70f3e6-a34b-4356-b5ed-1cbcad569670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBRE'])[1]/following::label[1]</value>
+      <webElementGuid>65737b2f-e2cc-421a-9b8a-5b5f23142a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/preceding::label[1]</value>
+      <webElementGuid>7ae1fd3c-2786-4493-a995-b8c43728a9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VALOR DEL CONTENIDO']/parent::*</value>
+      <webElementGuid>05615bdf-6df1-4d37-9694-d4da38e664ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>c0a0ff4e-56de-4911-a172-d4c4839d2067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'VALOR DEL CONTENIDO' or . = 'VALOR DEL CONTENIDO')]</value>
+      <webElementGuid>7dfdb763-6876-4697-8595-15da57d95c30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

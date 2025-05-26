@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_mercancias peligrosas</name>
+   <tag></tag>
+   <elementGuidId>a5afb5d4-4bef-4eb2-bef9-102daf63b8d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#linkMercanciaPeligrosa > small.font-11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;mercancias peligrosas&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>d443971c-1ffc-4cae-affb-dd16628b535b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-11</value>
+      <webElementGuid>d7250f93-cf46-42a7-a5e1-09adc15d42ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> mercancias peligrosas </value>
+      <webElementGuid>6e5f9170-cedc-4909-b419-b3f3205eea63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linkMercanciaPeligrosa&quot;)/small[@class=&quot;font-11&quot;]</value>
+      <webElementGuid>f162fd53-f72a-4e0f-be96-acba06c36abe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//small[@id='linkMercanciaPeligrosa']/small</value>
+      <webElementGuid>b6825dd3-6c43-48d4-bfbc-68ebe3c3ac5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/following::small[2]</value>
+      <webElementGuid>1b8924ed-1694-4e16-b9b7-50797091a334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='la declaración jurada y declaro bajo juramento'])[1]/preceding::small[1]</value>
+      <webElementGuid>2cd45c8b-4eca-449c-84c7-5256ce0a215e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mercancias peligrosas']/parent::*</value>
+      <webElementGuid>4d8cf81f-1c93-427d-9e07-fb67df3e0482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/small</value>
+      <webElementGuid>f95d11c0-bb3a-467c-8390-cd64e26ec445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' mercancias peligrosas ' or . = ' mercancias peligrosas ')]</value>
+      <webElementGuid>38fa0773-93bf-4abc-9eb4-7cd7bbafe2d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

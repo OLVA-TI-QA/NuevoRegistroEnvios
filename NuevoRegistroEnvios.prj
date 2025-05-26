@@ -4,8 +4,12 @@
    <name>NuevoRegistroEnvios</name>
    <tag></tag>
    <UUID>9135a59f-1c43-4968-bc6d-02b1f6eb65fe</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.5</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Gabo\git\NuevoRegistroEnviosv9\NuevoRegistroEnvios.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
