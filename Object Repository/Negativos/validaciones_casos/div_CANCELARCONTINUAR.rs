@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CANCELARCONTINUAR</name>
+   <tag></tag>
+   <elementGuidId>1440c22e-7687-437f-8897-d48fa5935e5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/app-modal-clave-seguridad/div/div/div/div/div[2]/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.d-flex.justify-content-center.row.mt-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>758d629b-ecfe-4811-93fd-0b5df2aab403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12 d-flex justify-content-center row mt-1</value>
+      <webElementGuid>867c1a07-8ee1-423b-ad0d-4759185935c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CANCELARCONTINUAR</value>
+      <webElementGuid>dacdba07-c910-41ad-9614-871acb67dc06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/app-modal-clave-seguridad[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8 row d-flex justify-content-center&quot;]/div[@class=&quot;col-md-12 d-flex justify-content-center row mt-1&quot;]</value>
+      <webElementGuid>7e13a941-59ef-4b90-a16f-8a314baa574c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/app-modal-clave-seguridad/div/div/div/div/div[2]/div[5]</value>
+      <webElementGuid>5127bcb0-06fb-43d0-8aa4-dabe3446f90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese una clave de 4 dígitos'])[1]/following::div[1]</value>
+      <webElementGuid>696661ed-2552-4f7f-b1b9-5f94097bb138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Genera una clave y compártela con la persona que recogerá tu envío en tienda o agente.'])[1]/following::div[7]</value>
+      <webElementGuid>905bae8e-fcb7-4563-8ef2-3fc4625f11a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div[5]</value>
+      <webElementGuid>f1c30f4f-f826-4c82-9949-45c082811e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CANCELARCONTINUAR' or . = 'CANCELARCONTINUAR')]</value>
+      <webElementGuid>add3bebd-e03d-490c-b406-949adb7c5c19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

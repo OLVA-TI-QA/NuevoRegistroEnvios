@@ -40,9 +40,15 @@ WebUI.sendKeys(findTestObject('Object Repository/positivas/CargoAdjunto/input_In
 WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Ingresa el destino de tu envo_inputBu_d7b93a'), 
     'miraf')
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA - LIMA - MIRAFLORES'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/span_Realizan el pago al recoger el envo, e_879eb4'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('positivas/TipoEnvio/CONTINUAR_queenvias'))
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CONTINUAR_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>c788cedd-64fc-4334-9e0b-65b695317a03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.continuar-modal-clave.activo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/app-modal-clave-seguridad/div/div/div/div/div[2]/div[5]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9f0467e-97ce-43b1-8ca1-2de07970048e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>continuar-modal-clave activo</value>
+      <webElementGuid>c65bf459-264d-429e-b7b7-d277f6108d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>441495df-fbfc-434c-8537-b25113174ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUAR</value>
+      <webElementGuid>f689179c-0b42-4979-9cb1-13e77be33968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/app-modal-clave-seguridad[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8 row d-flex justify-content-center&quot;]/div[@class=&quot;col-md-12 d-flex justify-content-center row mt-1&quot;]/button[@class=&quot;continuar-modal-clave activo&quot;]</value>
+      <webElementGuid>7ca1b1bd-bb17-49a2-8659-2e21422ce1d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/app-modal-clave-seguridad/div/div/div/div/div[2]/div[5]/button[2]</value>
+      <webElementGuid>69edc873-8051-4bc0-ac8d-4b1cdb7b6cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCELAR'])[1]/following::button[1]</value>
+      <webElementGuid>0c20d843-ffa2-4509-82f0-6342e0ea57b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese una clave de 4 dígitos'])[1]/following::button[2]</value>
+      <webElementGuid>1a5b90ab-0739-46a8-a02c-f73808846443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button[2]</value>
+      <webElementGuid>8062160f-1e23-4591-9537-0cd9f67d9b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
+      <webElementGuid>c03eefa1-66d1-4817-bf65-ffe1f6b86a26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

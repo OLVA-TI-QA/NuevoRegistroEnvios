@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qu estas enviandoSelecciona el tipo de _bc6239</name>
+   <tag></tag>
+   <elementGuidId>e0dc7f27-e84e-4dcf-a7ce-f148bf1f1bd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-touched.ng-dirty.ng-valid.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a481eb4-0d86-49fc-a167-6eaa665b31d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row ng-touched ng-dirty ng-valid ng-star-inserted</value>
+      <webElementGuid>af5d6266-988b-438a-b564-21fcbd02f87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>41bf6314-f56f-4027-8e1c-c23a8d2e2154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  DOCUMENTOS VALOR DEL CONTENIDOESPECIFICAR ARTÍCULOMi envío no contiene  mercancias peligrosas He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíosVOLVERCONTINUAR</value>
+      <webElementGuid>304f890e-a2fc-4c32-a677-08f867eec690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-touched ng-dirty ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>5bf8f2ae-b939-4a05-86c1-f8caa3657c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div</value>
+      <webElementGuid>34245310-baed-4f01-ba27-c216ddd5aa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRO EXITOSO'])[1]/following::div[4]</value>
+      <webElementGuid>4b67f4ad-17f1-41f7-a150-362c226d9f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAGO'])[1]/following::div[7]</value>
+      <webElementGuid>2d98d1b2-39f1-447c-8104-0828890adcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>be69be5d-f261-4ee3-b1e2-8dbb50d34dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  DOCUMENTOS VALOR DEL CONTENIDOESPECIFICAR ARTÍCULOMi envío no contiene  mercancias peligrosas He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíosVOLVERCONTINUAR' or . = '¿Qué estas enviando?Selecciona el tipo de envío que deseas realizar.PAQUETESOBRE Seleccione un tipo de artículo  TIPO DE ARTÍCULO  DOCUMENTOS VALOR DEL CONTENIDOESPECIFICAR ARTÍCULOMi envío no contiene  mercancias peligrosas He leído la declaración jurada y declaro bajo juramento  los productos escritos en el registro de envíosVOLVERCONTINUAR')]</value>
+      <webElementGuid>d4c24ead-3ae8-4e77-9055-722ae87c148f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

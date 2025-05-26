@@ -35,11 +35,19 @@ WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/button_CONT
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/small_ORIGEN'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_AMAZONAS - BAGUA - BAGUA'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/span_Realizan el pago al recoger el envo, e_879eb4'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/button_CONTINUAR_1'))
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;content&quot;]/main/app-formulario-envio/div[2]/div[1]/div/div/div[8]/div/div</value>
+         <value>//small[@id='linkMercanciaPeligrosa']/small</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>794f4805-76c2-47b1-af07-c98f0be324b1</webElementGuid>
+      <webElementGuid>49a3752c-118e-403d-8139-37bb4dd5b545</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-11</value>
-      <webElementGuid>c7ab193f-37c9-4037-a5f6-3a19b2992712</webElementGuid>
+      <webElementGuid>d97f529b-8e9d-442a-8d39-a691555f3f49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> mercancias peligrosas </value>
-      <webElementGuid>e3c5eb1d-f46f-46cf-8915-b78258e12de5</webElementGuid>
+      <webElementGuid>d945cd80-f06a-414b-930a-63352ad30321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;linkMercanciaPeligrosa&quot;)/small[@class=&quot;font-11&quot;]</value>
-      <webElementGuid>9dae1548-38ca-493d-a633-e98e67b1d869</webElementGuid>
+      <webElementGuid>b0d65387-ac56-4bc2-84ae-32f78c2a7285</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//small[@id='linkMercanciaPeligrosa']/small</value>
-      <webElementGuid>3d31a1e5-60ef-4166-af06-f5e497ddcaaf</webElementGuid>
+      <webElementGuid>970bbf9e-85f1-4677-a1fd-139778d98bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ESPECIFICAR ARTÍCULO'])[1]/following::small[2]</value>
-      <webElementGuid>f223bc7a-9771-4c4a-9cb9-c7223933785a</webElementGuid>
+      <webElementGuid>a8f2fd94-9478-46ba-b10f-99fec44d0fdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='la declaración jurada y declaro bajo juramento'])[1]/preceding::small[1]</value>
-      <webElementGuid>43552e58-50a4-43dd-b099-e096f45e03ae</webElementGuid>
+      <webElementGuid>8e17afb7-dead-447c-8e73-7c802903f9ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='mercancias peligrosas']/parent::*</value>
-      <webElementGuid>fd2215fd-1f22-40a7-b79f-f79de58d62e6</webElementGuid>
+      <webElementGuid>d49a26a0-5ba1-4d5f-af8b-d280d7141914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//small/small</value>
-      <webElementGuid>d7b6653f-11df-4202-bb7f-d99ec2080c13</webElementGuid>
+      <webElementGuid>4f7336c3-d1a8-40cf-91bd-41c4813adb1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//small[(text() = ' mercancias peligrosas ' or . = ' mercancias peligrosas ')]</value>
-      <webElementGuid>f78e5455-2115-4300-8468-6bd102280603</webElementGuid>
+      <webElementGuid>9d0b483b-5a22-473b-b3bd-b8422a24a6b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

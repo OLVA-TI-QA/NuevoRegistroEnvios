@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='avanzarTipoArticulo']</value>
+         <value>//*[@id=&quot;avanzarSeccionDestino&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4a13fff5-04ff-466c-8452-3b648871224b</webElementGuid>
+      <webElementGuid>602ee2fe-d27a-4363-a51a-00248e6176e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>avanzarTipoArticulo</value>
-      <webElementGuid>23b4c56b-664a-4cdc-a980-d79530ad7ec2</webElementGuid>
+      <webElementGuid>c41c497a-ff01-44c8-b7f6-9e55b72fcceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-3 custom-btn boton</value>
-      <webElementGuid>d067c791-a248-4fec-8844-e23285cea9df</webElementGuid>
+      <webElementGuid>677a3dde-7027-4dba-bc63-61f55033dd12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>12ab41bd-4a8f-4b36-a2a7-993b6c973370</webElementGuid>
+      <webElementGuid>8cc3b0da-15a9-4781-98b0-22eec6a33a6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CONTINUAR</value>
-      <webElementGuid>37ecde09-fff6-47ba-81ed-80266161cc9e</webElementGuid>
+      <webElementGuid>cc4c80f7-b41c-40b1-b3e2-8370c19ee8b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;avanzarTipoArticulo&quot;)</value>
-      <webElementGuid>9b07e873-41b2-4492-90b4-57c94522f96a</webElementGuid>
+      <webElementGuid>7c22329b-7f48-4e91-b477-8c7ab84422e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='avanzarTipoArticulo']</value>
-      <webElementGuid>28243704-f7a9-4f59-aed0-9537db57246e</webElementGuid>
+      <webElementGuid>7b161850-2183-476f-9f3b-bdcb2274679e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[9]/button[2]</value>
-      <webElementGuid>7e2e16ed-37d0-445c-b671-b64d472cea80</webElementGuid>
+      <webElementGuid>d117d2ee-e304-4f7c-95ad-da3b48ef662f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[1]/following::button[1]</value>
-      <webElementGuid>e02d68d0-73e2-4ac9-8215-ecdce766f27b</webElementGuid>
+      <webElementGuid>63fc2c0b-f2ca-4c7b-8938-75d63e95a938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='la declaración jurada y declaro bajo juramento'])[1]/following::button[2]</value>
-      <webElementGuid>79cb070d-f0d2-4c4b-a7c8-d01ec305e4ab</webElementGuid>
+      <webElementGuid>47c79a11-f570-4e81-9fda-097b6370e7d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Entrega'])[1]/preceding::button[1]</value>
-      <webElementGuid>759a99d7-6a83-4442-8451-ca59161b7634</webElementGuid>
+      <webElementGuid>e884abc6-57aa-4462-a9f3-78a3890945a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/button[2]</value>
-      <webElementGuid>9a4cd0d7-0fe5-4f49-a2aa-ea0fec47d1d8</webElementGuid>
+      <webElementGuid>06ad31e1-ba95-43d8-8baa-e5961ea1dbd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'avanzarTipoArticulo' and (text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
-      <webElementGuid>f606eb04-0acd-4c9b-a718-2ac832a52278</webElementGuid>
+      <webElementGuid>ff40f897-7097-415d-a9a1-f9b06b8d5737</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='avanzarSeccionDestino']</value>
-      <webElementGuid>d37a8c20-1d78-42b0-a44c-51e170857b8a</webElementGuid>
+      <webElementGuid>1b095ba7-f414-4e53-b33e-1ba27e8b1ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[6]/button[2]</value>
-      <webElementGuid>3ef6529e-6b7e-4242-b430-b2ff19387569</webElementGuid>
+      <webElementGuid>f7322015-17a6-486d-adec-949818f325a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CELULAR'])[1]/following::button[2]</value>
-      <webElementGuid>470dbddc-ec0c-42d3-ac53-d7e92242a13c</webElementGuid>
+      <webElementGuid>a7dccb0c-6449-4e1f-8013-c78471dae101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamaño del envío'])[1]/preceding::button[1]</value>
-      <webElementGuid>60250feb-885c-4443-8a70-357b783c4ffc</webElementGuid>
+      <webElementGuid>d0cb2e80-01cf-41a3-bfba-b16ff547620e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>9ccf993a-9cc8-47a2-9726-69b672fca699</webElementGuid>
+      <webElementGuid>6a82e96f-1678-4d31-bb39-0adac014d701</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'avanzarSeccionDestino' and (text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
-      <webElementGuid>499d060b-d7d1-43cc-9bf4-a55d8dffd020</webElementGuid>
+      <webElementGuid>6d7a48b2-8d46-4058-9013-4f5eb65c5a95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

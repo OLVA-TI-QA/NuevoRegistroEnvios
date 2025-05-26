@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA'))
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_AMAZONAS - BAGUA - BAGUA'))
 
-WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/span_Realizan el pago al recoger el envo, e_879eb4'))
+WebUI.click(findTestObject('positivas/TipoEnvio/span_mercancia peligrosa_slider round'))
 
 WebUI.click(findTestObject('positivas/TipoEnvio/CONTINUAR_queenvias'))
 
@@ -84,16 +84,17 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/positivas/CargoAdjun
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_ENTREGA  A DOMICILIOEjemImpresoras, lap_415985'))
 
 WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Impresoras, laptops, consolas, etc_se_1be03f'), 
-    'san miguel')
+    'pachacamac')
 
-WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA - LIMA - SAN MIGUEL'))
+WebUI.click(findTestObject('positivas/CargoAdjunto/div_LIMA - LIMA - PACHACAMAC'))
 
-WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_SELECCIONE EL DESTINO DE SU ENVO_inpu_b5b43f'), 
-    'san miguel')
+WebUI.setText(findTestObject('positivas/CargoAdjunto/input_SELECCIONE EL DESTINO DE SU ENVO_inpu_b5b43f'), 'pachacamac')
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('positivas/TipoEnvio/input_SELECCIONE EL DESTINO DE SU ENVO_inpu_b5b43f'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_DIRECCIN EXACTA_inputReferenciaDestino'), 'cfghj')
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/small_Aceptar'))
 

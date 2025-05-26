@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hasta 5 KgEjemImpresoras, laptops,conso_6d2664</name>
+   <tag></tag>
+   <elementGuidId>492c012f-5369-4037-bb99-17b7930c1239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pesoCincoKilos']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pesoCincoKilos</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d3cd719-210a-49ec-b843-db4e2017e596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pesoCincoKilos</value>
+      <webElementGuid>f0ded556-e4b4-4a24-b49e-fa91bc46ccd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-responsive align-items-center div-width-responsive margin-top-responsive div-peso-paquete</value>
+      <webElementGuid>8f7ba34a-4170-4b95-933a-a460153a3fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>f17a5e03-73dd-4342-8346-9cb30ad1bb50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta 5 KgEjemImpresoras, laptops,consolas, etc</value>
+      <webElementGuid>5f24b3bc-0186-4c58-a945-4ad3cb898acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pesoCincoKilos&quot;)</value>
+      <webElementGuid>73add6ab-2654-4c08-b412-cada1bb55dec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pesoCincoKilos']</value>
+      <webElementGuid>1545acbe-5697-49c9-8c44-67c4d53ef756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[5]</value>
+      <webElementGuid>c322b9e8-9aae-4556-87e9-0681a5865bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lámparas, etc'])[1]/following::div[1]</value>
+      <webElementGuid>ac56ca27-7cdb-4b8d-a6a8-00c08b436531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peluches, almohadas,'])[1]/following::div[1]</value>
+      <webElementGuid>f397fa54-b98f-409a-8307-17daa44244bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]</value>
+      <webElementGuid>488b4744-fd13-4f11-adf5-6b097e8507d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pesoCincoKilos' and (text() = 'Hasta 5 KgEjemImpresoras, laptops,consolas, etc' or . = 'Hasta 5 KgEjemImpresoras, laptops,consolas, etc')]</value>
+      <webElementGuid>283fb52b-9f6a-4d5b-abb0-70398146c1fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

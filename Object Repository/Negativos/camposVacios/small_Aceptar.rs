@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>small.span-accept</value>
+         <value>#aceptarCargoAdjunto</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='aceptarValidacionApellido']/small</value>
+         <value>//small[@id='aceptarCargoAdjunto']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>3481602c-de45-4a8a-91d1-81a2778c8ba9</webElementGuid>
+      <webElementGuid>8b5e43b1-c48d-42b2-a87d-b79cedf1048c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>span-accept</value>
-      <webElementGuid>014a3a0d-607b-49fc-bd19-66701dd7f324</webElementGuid>
+      <value>span-accept aceptar-button</value>
+      <webElementGuid>8b77ea05-4e21-4ed5-88d5-bf7d874826ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Aceptar</value>
-      <webElementGuid>7311e248-d239-445c-ac99-c796c0568e04</webElementGuid>
+      <webElementGuid>2c6621c2-0c11-46ea-998c-572299f32be8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;aceptarValidacionApellido&quot;)/small[@class=&quot;span-accept&quot;]</value>
-      <webElementGuid>d0de12f2-9672-42fd-877f-625210bff33d</webElementGuid>
+      <value>id(&quot;aceptarCargoAdjunto&quot;)</value>
+      <webElementGuid>378de91a-4518-4ea8-9229-cd54167d9133</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,10 +54,82 @@
       <name>id</name>
       <type>Main</type>
       <value>aceptarCargoAdjunto</value>
-      <webElementGuid>bba54948-4c7a-4b7f-82b5-39706b81c92d</webElementGuid>
+      <webElementGuid>4022380e-3956-4aa8-8aed-27d7e0b82a23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//small[@id='aceptarCargoAdjunto']</value>
+      <webElementGuid>884d9b27-5525-4f1d-973e-bd023df17b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/app-cargo-adjunto/div/div/div[5]/div[2]/small[2]</value>
+      <webElementGuid>ccf859ed-a551-4383-a402-785612818ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::small[1]</value>
+      <webElementGuid>a91db60b-2e81-4a77-874d-06d4a4c03663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::small[2]</value>
+      <webElementGuid>ddc67ea2-b893-4fbf-a5af-edd1bdd4cee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::small[1]</value>
+      <webElementGuid>9ef7a325-06f6-470c-b46f-3c4569318509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[3]/preceding::small[1]</value>
+      <webElementGuid>0d649f86-66f2-4146-a717-0ff4042c47ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aceptar']/parent::*</value>
+      <webElementGuid>2f1d2d12-dd66-43f4-a6fa-daadfa7c9df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/small[2]</value>
+      <webElementGuid>2e3c4c85-9111-45ea-8b9e-fc91b2a412f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[@id = 'aceptarCargoAdjunto' and (text() = 'Aceptar' or . = 'Aceptar')]</value>
+      <webElementGuid>b5ea56a0-bfef-45d3-95cf-686f386bd833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -69,24 +141,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::small[1]</value>
-      <webElementGuid>6282be85-f176-4865-a6af-b0e3727e7981</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='APELLIDO PATERNO'])[1]/following::small[2]</value>
       <webElementGuid>16e509ef-af68-4dc0-a83a-b8f718d9ed62</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Aceptar']/parent::*</value>
-      <webElementGuid>adf5dd46-0057-4814-a8fe-bc3013a87b6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,14 +163,6 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//small[@id='aceptarCargoAdjunto']</value>
-      <webElementGuid>115598e9-a180-4f66-8cb5-b62c496ec0b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div[2]/small[2]</value>
@@ -125,32 +173,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='INGRESE EL DESTINO DEL CARGO'])[1]/following::small[2]</value>
-      <webElementGuid>949ff71a-a97c-43fe-bb7d-640557260898</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'aceptarCargoAdjunto', '&quot;', ')')])[1]/preceding::small[1]</value>
       <webElementGuid>2e5a4c19-d43a-43c8-a2c0-02201b245f6d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/div[2]/small[2]</value>
-      <webElementGuid>2a79ae17-1d29-4700-bd92-81a6e0544ffe</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//small[@id = 'aceptarCargoAdjunto' and (text() = 'Aceptar' or . = 'Aceptar')]</value>
-      <webElementGuid>2c623c76-0602-4f6e-923a-0099b8687169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

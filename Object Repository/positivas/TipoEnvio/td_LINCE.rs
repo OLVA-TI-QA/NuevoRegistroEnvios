@@ -7,7 +7,9 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[5]</value>
+         <value>//*[@id=&quot;content&quot;]/main/app-listar-envios/div[2]/div[1]/div/div/div[3]/div/table/tbody/tr/td[5]
+
+</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>054ad999-7f9d-453c-96b2-a8faba4ea00f</webElementGuid>
+      <webElementGuid>fa39c7ab-bb43-4289-a5ed-c58a75cdef8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +32,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LINCE</value>
-      <webElementGuid>3aa15b35-c173-4d68-811b-d5c7a265d76c</webElementGuid>
+      <webElementGuid>6b0c85ae-2749-4213-b23a-825387681c0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +40,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/main[1]/app-listar-envios[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2 padding-right-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div m-listar-contenedor-responsive&quot;]/div[@class=&quot;row&quot;]/div[3]/div[1]/table[@class=&quot;shipments-table mt-1&quot;]/tbody[1]/tr[1]/td[5]</value>
-      <webElementGuid>3aaba035-9efc-467a-9688-814b856608cb</webElementGuid>
+      <webElementGuid>f837e691-3f42-42c7-b423-4225e3852867</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +48,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-listar-envios/div[2]/div/div/div/div[3]/div/table/tbody/tr/td[5]</value>
-      <webElementGuid>481571fa-4336-46bf-b533-2c12479dc5cc</webElementGuid>
+      <webElementGuid>664f7acd-3687-45ae-ba25-ac20799646fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +56,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en Tienda'])[1]/following::td[1]</value>
-      <webElementGuid>86c8b5c7-2311-42c5-a45f-894fd5fb7f1b</webElementGuid>
+      <webElementGuid>aab11184-b10d-445c-92cf-4b7f2b63d65f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clave de seguridad'])[1]/preceding::td[2]</value>
-      <webElementGuid>286b6c32-5f05-4c5f-a1d9-1d1b2c988c15</webElementGuid>
+      <webElementGuid>b551e274-faae-4441-96ab-6af170ed7b86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear una clave de 4 dígitos para recojo en tienda'])[1]/preceding::td[2]</value>
-      <webElementGuid>416ed850-c70f-450c-9e40-484761bf00cc</webElementGuid>
+      <webElementGuid>29aae5a8-f323-4404-8b43-582335517691</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='LINCE']/parent::*</value>
-      <webElementGuid>6987f6ad-6fef-4636-9302-32b856407085</webElementGuid>
+      <webElementGuid>627ae0ba-e63d-48f0-a4a7-10138714f3cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +88,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]</value>
-      <webElementGuid>4b575423-21bc-4270-9f7b-f542db1b0609</webElementGuid>
+      <webElementGuid>0ce18d98-ce85-460e-a030-55f800e4eb1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +96,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'LINCE' or . = 'LINCE')]</value>
-      <webElementGuid>f933bbb2-7b2a-4eb5-bc79-6fe29bfe35cf</webElementGuid>
+      <webElementGuid>a80655b4-e53a-495e-a9af-774a914ef076</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

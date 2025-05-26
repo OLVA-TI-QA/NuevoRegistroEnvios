@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AGENTE OLVA BARRANCO ESPACIO CONCEPTO M_6b8b7b</name>
+   <tag></tag>
+   <elementGuidId>49bc2308-cd42-4b7d-916e-a6150a4aa0b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.ng-star-inserted.hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d58537fc-c293-4e5e-97e7-6ef623475e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 ng-star-inserted hover</value>
+      <webElementGuid>11109b97-1dd1-46fa-a63e-9cb9df4f80e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGENTE OLVA BARRANCO &quot;ESPACIO CONCEPTO MODA EIRL&quot;BARRANCO - Jirón Junín 358, Barranco, Perú(Esquina con el Jr. Colina)AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>294d5c36-01ca-4b2f-91ee-c47c1754fb64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive ng-star-inserted&quot;]/div[@class=&quot;col-md-12 p-2 ng-star-inserted&quot;]/app-tipo-entrega[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-1 ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row mt-2 ng-star-inserted&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 ng-star-inserted hover&quot;]</value>
+      <webElementGuid>4af1e6e1-f8a6-4221-acca-a0be7dd25d95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>b7922075-b1a7-409b-9f10-0134a6d6d091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>4a8f524a-e786-43a2-b1a1-24fc64e62caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>15113e9c-7c5a-4de7-adc7-780794d5ee3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AGENTE OLVA BARRANCO &quot;ESPACIO CONCEPTO MODA EIRL&quot;BARRANCO - Jirón Junín 358, Barranco, Perú(Esquina con el Jr. Colina)AbiertoLunes - Viernes 08:00 - 18:00' or . = 'AGENTE OLVA BARRANCO &quot;ESPACIO CONCEPTO MODA EIRL&quot;BARRANCO - Jirón Junín 358, Barranco, Perú(Esquina con el Jr. Colina)AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>00008d97-aa18-4741-834d-10c9cb86ac4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

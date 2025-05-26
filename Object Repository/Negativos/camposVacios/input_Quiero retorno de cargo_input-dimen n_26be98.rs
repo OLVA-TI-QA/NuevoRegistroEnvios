@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.input-dimen.ng-untouched.ng-pristine</value>
+         <value>div.ng-star-inserted > input.ng-untouched.ng-pristine</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[6]</value>
+         <value>(//input[@type='text'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1c873e7d-1d45-48f4-be72-711da4f5f1da</webElementGuid>
+      <webElementGuid>1f2368b7-213d-4c40-9b3b-f19cb57f062e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9bfa9cef-8cf2-4a6a-8569-95632a5a62e8</webElementGuid>
+      <webElementGuid>b944aa67-e433-4f8b-96c5-62700e898735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-dimen ng-untouched ng-pristine</value>
-      <webElementGuid>28a16e1f-0a98-4eb2-aa3c-22306b1a96f5</webElementGuid>
+      <value>ng-untouched ng-pristine</value>
+      <webElementGuid>6aa2a387-9439-4f9e-93f0-a1f18f9c3317</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-reflect-is-disabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bca9bb0e-5e99-4e8c-b14b-f10ea38c1507</webElementGuid>
+      <webElementGuid>d084fbd4-b4eb-4831-8bb2-164226008992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,31 +54,55 @@
       <name>ng-reflect-model</name>
       <type>Main</type>
       <value>1 FOLIO - RECOJO EN TIENDA</value>
-      <webElementGuid>56c434b5-1393-41e5-b212-07c170402557</webElementGuid>
+      <webElementGuid>b31b7a41-1842-4918-a4e6-1e2f280bf0d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row center-horizontal-responsive&quot;]/div[@class=&quot;display-cargo-adjunto div-position-responsive-sobre&quot;]/div[2]/input[@class=&quot;input-dimen ng-untouched ng-pristine&quot;]</value>
-      <webElementGuid>bad6cf80-762e-4efa-8b31-363f01b74aaa</webElementGuid>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive ng-star-inserted&quot;]/div[@class=&quot;col-md-12 p-2 ng-star-inserted&quot;]/app-que-envias[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row employ&quot;]/div[@class=&quot;ng-star-inserted top-sobre&quot;]/div[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;ng-untouched ng-pristine&quot;]</value>
+      <webElementGuid>cd32ef84-50d0-4957-91c9-cdd7a6f526c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>7ae995ca-c915-4b56-b912-f97f10c408c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>23d519dc-9525-44d9-b034-f44dfe5ed26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-options</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>bdecc3dd-56bf-4308-8016-5e3ef72db4ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[6]</value>
-      <webElementGuid>7b3e61b7-744c-4e1b-991e-4930ccff01db</webElementGuid>
+      <value>(//input[@type='text'])[7]</value>
+      <webElementGuid>b8506b62-fabb-4b19-ba59-409c37791850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[5]/div[2]/input</value>
-      <webElementGuid>4b480518-7a6d-4c66-a304-765051fd7a02</webElementGuid>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[5]/div[2]/div[2]/input</value>
+      <webElementGuid>1a57ad1f-fc43-4289-a16b-5070998959ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>22e136bd-306d-4fd3-86a0-cfd401c225e1</webElementGuid>
+      <webElementGuid>1678d3c0-ca90-4fff-825e-12bfb7cbe01c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +118,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>c9b534f6-c9a3-4adc-8427-1dc08152b17d</webElementGuid>
+      <webElementGuid>278415c8-eb2d-4e1c-9c51-861fb1f4c8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[6]</value>
+      <webElementGuid>0582b2d0-ad3f-47d5-8b8e-005c0a6f5aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[5]/div[2]/input</value>
+      <webElementGuid>4c935f69-7d01-4ccb-9f8a-463087da1c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[4]/div[3]/div[2]/input</value>
+      <webElementGuid>a217ec50-d152-4b42-84f8-508f3880a9b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

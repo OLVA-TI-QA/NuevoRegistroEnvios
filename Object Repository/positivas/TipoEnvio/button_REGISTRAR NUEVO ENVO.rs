@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[7]/button</value>
+         <value>//*[@id=&quot;content&quot;]/main/app-pago-exitoso-pe/div[2]/div[7]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bc9aa715-1ca0-4401-909b-acbd9e7b097f</webElementGuid>
+      <webElementGuid>6483d7dd-75fa-4b8f-b34e-e3eb6396fbfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>REGISTRAR NUEVO ENVÍO</value>
-      <webElementGuid>b6461d7f-7f3b-4ad7-a9e4-f9a630b55f26</webElementGuid>
+      <webElementGuid>409212f8-b64d-4c29-8581-8a4483ae759f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/main[1]/app-pago-respuesta[1]/div[@class=&quot;shadow border-card contenedor-div border-respuesta-responsive&quot;]/div[@class=&quot;mt-5&quot;]/button[1]</value>
-      <webElementGuid>3e1853c8-8b74-4c66-93cb-b1745da8f743</webElementGuid>
+      <webElementGuid>a6394469-ccfa-49a4-9e00-4fc91c8bfc85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-pago-respuesta/div[2]/div[7]/button</value>
-      <webElementGuid>3b49f095-7335-427c-b41f-8c5bc1d752d7</webElementGuid>
+      <webElementGuid>48fc3194-87f1-4e7c-9769-9a2f098c5e8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuerda rotular correctamente tus envíos'])[1]/following::button[1]</value>
-      <webElementGuid>377e67dc-7da6-4a11-be75-cccbf864959c</webElementGuid>
+      <webElementGuid>dd7230a1-1c83-4363-8260-20f68001d809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver tiendas/agentes'])[1]/following::button[1]</value>
-      <webElementGuid>cb95d7b1-c645-445e-ba05-8c2c7c01353a</webElementGuid>
+      <webElementGuid>a13d3ea7-79a4-4da4-a973-daa41f7e1daf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='REGISTRAR NUEVO ENVÍO']/parent::*</value>
-      <webElementGuid>d429a9ea-328b-4f7a-9a5c-ddfbbcee33bf</webElementGuid>
+      <webElementGuid>70f6ed81-8cf9-4d2f-8587-137a9cefd9e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/button</value>
-      <webElementGuid>7711c17f-6208-41ce-a34d-f6d5608340c0</webElementGuid>
+      <webElementGuid>e80289d1-1388-40ff-adfd-c10a7f288b38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'REGISTRAR NUEVO ENVÍO' or . = 'REGISTRAR NUEVO ENVÍO')]</value>
-      <webElementGuid>4b58a85a-1263-40d9-a7cf-3de57dcd8bb3</webElementGuid>
+      <webElementGuid>b4a59189-37b4-41f6-a4f6-67c1bc6206f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-pago-exitoso-pe/div[2]/div[7]/button</value>
-      <webElementGuid>f5c74fd3-938f-4a3e-8658-8417d0b45ac9</webElementGuid>
+      <webElementGuid>8f8b1c06-1a45-4a12-9381-80d8a52e789e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

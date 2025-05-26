@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REALIZAR UN ENVO</name>
+   <tag></tag>
+   <elementGuidId>e06b81ca-6d60-40a5-ae54-5f0ea52f72b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonEnvio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonEnvio']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e179f52c-887f-4f3f-b467-89780b4c2042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buttonEnvio</value>
+      <webElementGuid>8e070704-79fb-46dc-b79a-1c44e3056bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option-card px-4 pb-3 ptc-4 text-center border rounded-10 shadow-sm back-color-orange</value>
+      <webElementGuid>007ba62f-006c-4156-8570-67d97feecbed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REALIZAR UN ENVÍO</value>
+      <webElementGuid>b283e2e6-408a-4d56-ad87-0aa5ed6890c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonEnvio&quot;)</value>
+      <webElementGuid>94d787c7-8f51-46c7-946a-903fbb60d7b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='buttonEnvio']</value>
+      <webElementGuid>30986e21-18e9-4865-ad9d-7c271023da37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-principal/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>07b1a8ab-0ec4-47a9-9504-89283e73eefc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué deseas realizar hoy?'])[1]/following::div[3]</value>
+      <webElementGuid>a6d9c239-1ded-4441-aed6-0d36f1854dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresa a la versión anterior'])[1]/following::div[6]</value>
+      <webElementGuid>2d4f90c4-bd2a-48ae-ab87-54ec44484d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>c9f9e154-4d35-49ae-81e6-9c27b8bffd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'buttonEnvio' and (text() = 'REALIZAR UN ENVÍO' or . = 'REALIZAR UN ENVÍO')]</value>
+      <webElementGuid>de47bda8-dd2a-4568-b8dc-693e47556d02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
