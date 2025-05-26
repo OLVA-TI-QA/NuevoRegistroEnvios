@@ -6,12 +6,12 @@
    <elementGuidId>3fde4546-588e-472d-9608-713d1781efb4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#buttonEnvio</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='buttonEnvio']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buttonEnvio</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4a844ad4-e92c-43bb-b751-672318562e43</webElementGuid>
+      <webElementGuid>b0f27cf2-33a5-4d74-be6e-f06eb8afd7f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>buttonEnvio</value>
-      <webElementGuid>f5e5c446-1e71-4787-8ac2-70052d8d1b1e</webElementGuid>
+      <webElementGuid>c230f881-ba3b-47ce-a2ee-86ecd4718eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>option-card px-4 pb-3 ptc-4 text-center border rounded-10 shadow-sm back-color-orange</value>
-      <webElementGuid>ce0ecacd-ac1e-43c3-9a07-e4ca4c9cf84c</webElementGuid>
+      <webElementGuid>477fe5f1-eb00-4301-b5f0-5e6567f6b046</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>REALIZAR UN ENVÍO</value>
-      <webElementGuid>b677d124-c47e-4976-b166-062818dfa6cb</webElementGuid>
+      <webElementGuid>7c9a2f97-1f80-40a6-88c2-7a6633350d56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;buttonEnvio&quot;)</value>
-      <webElementGuid>41b12cbf-673c-4a38-a293-0581bfba23da</webElementGuid>
+      <webElementGuid>9c013153-6493-49ab-93e3-ec4cc60015e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='buttonEnvio']</value>
-      <webElementGuid>3e2cf3c6-6e2a-40c2-97b7-bb774623f02f</webElementGuid>
+      <webElementGuid>ebc55a6c-3ee3-46b0-9ec8-c2cd7d7b2504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-principal/div/div[2]/div/div/div</value>
-      <webElementGuid>901b2e57-893a-4cf8-bd92-fd2bdcca16bb</webElementGuid>
+      <webElementGuid>6373a508-392a-44a4-8f0d-24ac94dde2dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué deseas realizar hoy?'])[1]/following::div[3]</value>
-      <webElementGuid>eae764b1-d17d-4e75-989e-8e3f0ecd59d4</webElementGuid>
+      <webElementGuid>e165bd71-bdcb-478d-a708-31c9bcf13874</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div</value>
-      <webElementGuid>2a31c35c-9e3f-4142-92a2-b2bb38b29d44</webElementGuid>
+      <webElementGuid>e801d8d1-e97b-4ed1-9cae-4de77d844467</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'buttonEnvio' and (text() = 'REALIZAR UN ENVÍO' or . = 'REALIZAR UN ENVÍO')]</value>
-      <webElementGuid>f367119f-6751-4e7c-96de-1c4614f988eb</webElementGuid>
+      <webElementGuid>c0c6877c-91be-42f8-b80e-4d194ec169ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

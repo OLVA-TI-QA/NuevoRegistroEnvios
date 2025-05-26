@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[7]/div/div/label/span</value>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[5]/div[2]/div/div/label/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f7c6cbfb-ea4e-4595-a8d6-a57440d54ee0</webElementGuid>
+      <webElementGuid>c8236aee-4797-47a0-af31-084249c5bf15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,87 @@
       <name>class</name>
       <type>Main</type>
       <value>slider round</value>
-      <webElementGuid>52d2a8e6-bd51-4285-9049-8e54684ddc2d</webElementGuid>
+      <webElementGuid>ea22590e-b352-4e3a-93af-9fa16e2f214f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[1]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-2&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12 mt-3 relative-position-show&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[1]/label[@class=&quot;switch&quot;]/span[@class=&quot;slider round&quot;]</value>
-      <webElementGuid>1cc0a533-ea80-484c-9fff-d835c4378502</webElementGuid>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive ng-star-inserted&quot;]/div[@class=&quot;col-md-12 p-2 ng-star-inserted&quot;]/app-que-envias[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row employ&quot;]/div[@class=&quot;ng-star-inserted top-sobre&quot;]/div[@class=&quot;d-flex justify-content-center employ&quot;]/div[1]/label[@class=&quot;switch&quot;]/span[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>746df3bd-8c07-48e5-9eab-f4fc97becd9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[5]/div[2]/div/div/label/span</value>
+      <webElementGuid>ee024de9-e8ab-4f8d-b1ac-810b092ca84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>02fcdacf-246c-404c-a69b-b5f46cc41b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dlgConsultaEnvio']/div/a/span</value>
+      <webElementGuid>b8f0e075-27bb-4764-91fe-e12e04f66dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a/span</value>
+      <webElementGuid>b251ac97-5e69-4d7b-bc3e-8f6ee57716d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmPrincipal:j_idt63']/span</value>
+      <webElementGuid>e5318326-8f45-46c0-b84a-44f2b8434bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button/span</value>
+      <webElementGuid>772e3e70-b453-49af-b5f6-27e5ae217378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[8]/div/div/label/span</value>
+      <webElementGuid>f7711705-12fe-4a12-a36a-73daa6df9546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/label/span</value>
+      <webElementGuid>b128dc6a-80c8-496e-8e4e-7a0f025b689e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[7]/div/div/label/span</value>
-      <webElementGuid>077b579e-3868-44bb-983e-b5bcfc2eda3c</webElementGuid>
+      <webElementGuid>f4e903e1-f46d-4223-bc36-f8719c85050e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +118,23 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>86197b8f-42f3-48b6-93ca-d3511103c637</webElementGuid>
+      <webElementGuid>7999f49b-2ab4-4dde-981c-87b871ccf6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[5]/div/div/label/span</value>
+      <webElementGuid>a8bf76e9-2339-4438-ac2f-11d6a0ac18b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[4]/div[3]/div/div/label/span</value>
+      <webElementGuid>804d917d-3828-44b6-bd35-dba9f52d53ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,37 +143,5 @@
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[7]/div/div/label/span</value>
       <webElementGuid>c1126e4e-dc0b-4c83-bd05-d659307f70a3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//label/span</value>
-      <webElementGuid>6ac184c6-72e8-4f60-be7b-6d233b454fc0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div/div/div/div[8]/div/div/label/span</value>
-      <webElementGuid>1497a0aa-86a4-4447-b93e-a995e5dfaea2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[8]/div/div/label/span</value>
-      <webElementGuid>4af24919-8c95-4278-b7b3-6962029ca377</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[5]/div/div/label/span</value>
-      <webElementGuid>52d08e2f-64e0-4993-84bd-d5cd9d17e40f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AGENTE OLVA SAN LUIS - MECADO LA LIBERT_8d5648</name>
+   <tag></tag>
+   <elementGuidId>3a4244d5-745a-4bf6-aab6-0fba73ba1055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.hover.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ddc90da-658d-4dae-a8ef-55317897e36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 hover ng-star-inserted</value>
+      <webElementGuid>c836aa98-fd08-4334-bf05-46b56299ca9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGENTE OLVA SAN LUIS - MECADO LA LIBERTAD &quot; BELA TAGO&quot;SAN LUIS - CA POMACANCHI S/N URBANIZACION URB TUPAC AMARU (MERCADO LA LIBERTAD - VIDENA -  INTERIOR 23)AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>501a88d1-0419-41ab-b0b3-7b6f8d6381e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div row m-listar-contenedor-responsive ng-star-inserted&quot;]/div[@class=&quot;col-md-12 p-2 ng-star-inserted&quot;]/app-tipo-entrega[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-1 ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row mt-2 ng-star-inserted&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 hover ng-star-inserted&quot;]</value>
+      <webElementGuid>c7f22b7f-4597-455d-8700-ca7541f7e2ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-tipo-entrega/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>42b8f98e-13bc-47ee-9317-e447f43064e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>e2116f23-b796-4651-aec3-c7cede208ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>f9f6406b-fcd2-41dd-8d58-0a41be94b99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AGENTE OLVA SAN LUIS - MECADO LA LIBERTAD &quot; BELA TAGO&quot;SAN LUIS - CA POMACANCHI S/N URBANIZACION URB TUPAC AMARU (MERCADO LA LIBERTAD - VIDENA -  INTERIOR 23)AbiertoLunes - Viernes 08:00 - 18:00' or . = 'AGENTE OLVA SAN LUIS - MECADO LA LIBERTAD &quot; BELA TAGO&quot;SAN LUIS - CA POMACANCHI S/N URBANIZACION URB TUPAC AMARU (MERCADO LA LIBERTAD - VIDENA -  INTERIOR 23)AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>98f0da56-fcbd-4448-9e65-f522043fd070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

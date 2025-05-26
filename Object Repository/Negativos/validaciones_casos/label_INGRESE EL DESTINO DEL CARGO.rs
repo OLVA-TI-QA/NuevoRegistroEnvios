@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_INGRESE EL DESTINO DEL CARGO</name>
+   <tag></tag>
+   <elementGuidId>b00c3f25-9e96-4cf6-9e44-5785e65d6a07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-cargo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a3d97011-baa9-42cd-9f2b-54decfd47cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>selectDestinoTienda</value>
+      <webElementGuid>99179f29-7063-45bd-93ca-c8f0d6ed1ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-cargo</value>
+      <webElementGuid>d9f0ef14-d41c-4d54-8db2-7bd6e9bebfae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INGRESE EL DESTINO DEL CARGO</value>
+      <webElementGuid>8d1f8074-8572-4a25-9f90-8271a4fe8682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/app-cargo-adjunto[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-container p-3&quot;]/div[@class=&quot;col-md-12 row justify-content-center mt-1&quot;]/div[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;input-container col-md-12 mt-3&quot;]/label[@class=&quot;label-cargo&quot;]</value>
+      <webElementGuid>4f77ffd9-75e1-4c90-9673-3a0368cda82d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/app-cargo-adjunto/div/div/div[5]/div/div/label</value>
+      <webElementGuid>3e77b3ed-2740-4321-9e81-cfe726ec3121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresoras, laptops, consolas, etc'])[2]/following::label[1]</value>
+      <webElementGuid>d5c2721f-45b8-4ed1-b8d7-25e8a7979b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ejem'])[7]/following::label[1]</value>
+      <webElementGuid>1f9985c2-98e1-49b5-810b-9e1573ed7f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::label[1]</value>
+      <webElementGuid>dbf3c44b-82f0-4c25-a617-3ce2cd1b364f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::label[1]</value>
+      <webElementGuid>94e8de7e-63be-4979-8ee0-3b74c003e5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='INGRESE EL DESTINO DEL CARGO']/parent::*</value>
+      <webElementGuid>c9134e71-a6c5-4371-8830-86db98f4fd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-cargo-adjunto/div/div/div[5]/div/div/label</value>
+      <webElementGuid>34247564-8914-4e75-86eb-097ba2405473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'INGRESE EL DESTINO DEL CARGO' or . = 'INGRESE EL DESTINO DEL CARGO')]</value>
+      <webElementGuid>46ed45d6-0c9f-4455-8917-85bf624a43a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

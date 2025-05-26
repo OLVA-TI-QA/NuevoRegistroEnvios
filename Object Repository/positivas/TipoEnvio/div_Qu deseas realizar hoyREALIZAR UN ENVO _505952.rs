@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qu deseas realizar hoyREALIZAR UN ENVO _505952</name>
+   <tag></tag>
+   <elementGuidId>b90ebd3a-e915-4778-b151-a59e55150f0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-principal/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.justify-content-center.vh-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>135a7911-20fc-4653-9d3f-8f9531356fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center justify-content-center vh-100</value>
+      <webElementGuid>d40af12a-8855-4633-8a21-cfdef0465675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¿Qué deseas realizar hoy?REALIZAR UN ENVÍO COMPRAR EMPAQUESSI LLEGA A TUS MANOS ES, OLVA</value>
+      <webElementGuid>151c45a9-8a18-4ed1-9f82-bc9ad502ad06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-principal[1]/div[@class=&quot;d-flex align-items-center justify-content-center vh-100&quot;]</value>
+      <webElementGuid>567ded49-187e-4e56-ab63-514f6c92aca8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-principal/div</value>
+      <webElementGuid>7dfc7371-dc77-4828-9579-390bf9da6dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-principal/div</value>
+      <webElementGuid>e9fd79b4-e68b-4cba-a1ef-37190824521b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¿Qué deseas realizar hoy?REALIZAR UN ENVÍO COMPRAR EMPAQUESSI LLEGA A TUS MANOS ES, OLVA' or . = '¿Qué deseas realizar hoy?REALIZAR UN ENVÍO COMPRAR EMPAQUESSI LLEGA A TUS MANOS ES, OLVA')]</value>
+      <webElementGuid>c4684f51-3e07-44ae-80a0-61da9f9221bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

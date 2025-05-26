@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA_cdk-overlay-backdrop cdk-overlay-d_db73cd</name>
+   <tag></tag>
+   <elementGuidId>cfbb9c2d-4fa0-405f-b59a-517d4ef68f63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78c873d3-0887-4df8-a59d-9546cd9d38c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing</value>
+      <webElementGuid>1ba4f4dd-afeb-4c8d-8066-4182e0f05af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;cdk-global-scrollblock&quot;]/body[@class=&quot;mat-typography&quot;]/div[@class=&quot;cdk-overlay-container&quot;]/div[@class=&quot;cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing&quot;]</value>
+      <webElementGuid>f61eef41-aa3f-49c4-81b3-260105b6d758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div</value>
+      <webElementGuid>3c72a316-ec76-4c02-b139-c7c1b9c887eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

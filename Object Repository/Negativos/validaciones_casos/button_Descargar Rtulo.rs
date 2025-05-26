@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Descargar Rtulo</name>
+   <tag></tag>
+   <elementGuidId>2b4efa28-41d3-4933-9baa-a108fa901b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='opcionBoleta']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#opcionBoleta</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67f670c0-0ad4-415f-9f86-996a55cb0e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>opcionBoleta</value>
+      <webElementGuid>d9a12c5a-054e-4ef5-b7d6-305bbca1e068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttonComprobante m-button-left</value>
+      <webElementGuid>4099640e-719d-4ecb-8fdf-a10bc0b958ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Descargar Rótulo </value>
+      <webElementGuid>04c96cb9-e4f5-4a4d-a2a2-47c03a1890ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opcionBoleta&quot;)</value>
+      <webElementGuid>df0e51ad-9d7a-4664-b37c-b638acd70c57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='opcionBoleta']</value>
+      <webElementGuid>d4d9e700-543f-40f6-ba2e-086b9636f307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-pago-exitoso-pe/div[2]/div[5]/div/button</value>
+      <webElementGuid>842f6beb-1310-420e-8762-6680430ee6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te esperamos en nuestras tiendas/agentes para recepcionar tus envíos.'])[1]/following::button[1]</value>
+      <webElementGuid>9dd6916d-c827-4cd3-9520-5ca8a1650e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver tiendas/agentes'])[1]/preceding::button[1]</value>
+      <webElementGuid>7f5ed953-3e84-4497-9cc4-285c35fbf9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recuerda rotular correctamente tus envíos'])[1]/preceding::button[2]</value>
+      <webElementGuid>91eec912-7abd-4c10-a97e-ebdf2d21c296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Descargar Rótulo']/parent::*</value>
+      <webElementGuid>bed37035-0968-4ef5-8eb1-55c3fbba98e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>88854ab9-9d40-45ca-b8d0-9f7a28de4b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'opcionBoleta' and (text() = 'Descargar Rótulo ' or . = 'Descargar Rótulo ')]</value>
+      <webElementGuid>83db99d5-d248-4ece-a3e4-5ac11ad905c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

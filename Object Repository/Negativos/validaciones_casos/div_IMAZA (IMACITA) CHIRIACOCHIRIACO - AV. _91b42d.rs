@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IMAZA (IMACITA) CHIRIACOCHIRIACO - AV. _91b42d</name>
+   <tag></tag>
+   <elementGuidId>2ff82a5e-928e-4067-bdc9-8a6a56a6aa15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.ng-star-inserted.hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>943daf4c-ea4d-4a28-b988-004e9a66706d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 ng-star-inserted hover</value>
+      <webElementGuid>e713896f-a688-472c-83e5-a1137938df3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IMAZA (IMACITA) CHIRIACOCHIRIACO - AV. PRINCIPAL  S/N CHIRIACO ( COSTADO DE TERMINAL DE AUTOS.)AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>8ddec195-fd08-457a-9e3d-e599250965c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row justify-content-center ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row mt-2 ng-star-inserted&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 ng-star-inserted hover&quot;]</value>
+      <webElementGuid>40fb80ca-e942-4259-95a4-478f17b0533f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      <webElementGuid>64bdcd56-4982-4d18-84a5-7ebd342f65a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>1e5f63a9-9f67-4d01-a0f8-df801b9139ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>200c7e13-b0e0-49ac-80eb-e0fdca259666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IMAZA (IMACITA) CHIRIACOCHIRIACO - AV. PRINCIPAL  S/N CHIRIACO ( COSTADO DE TERMINAL DE AUTOS.)AbiertoLunes - Viernes 08:00 - 18:00' or . = 'IMAZA (IMACITA) CHIRIACOCHIRIACO - AV. PRINCIPAL  S/N CHIRIACO ( COSTADO DE TERMINAL DE AUTOS.)AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>31546183-9414-455e-a5f6-fe1ac0f666f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

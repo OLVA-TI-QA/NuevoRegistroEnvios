@@ -95,11 +95,6 @@ WebUI.click(findTestObject('positivas/TipoEnvio/CONTINUAR_TipoArt'))
 
 WebUI.click(findTestObject('Object Repository/positivas/TipoEnvio/div_ENTREGA  A DOMICILIORecibe tus envios e_e266cc'))
 
-WebUI.setText(findTestObject('Object Repository/positivas/TipoEnvio/input_Impresoras, laptops, consolas, etc_se_1be03f'), 
-    'lima - lima - lima')
-
-WebUI.click(findTestObject('Object Repository/positivas/TipoEnvio/div_LIMA - LIMA - LIMA'))
-
 WebUI.setText(findTestObject('positivas/TipoEnvio/EscribirDestino'), 'lince arenales')
 
 WebUI.delay(5)
@@ -142,7 +137,7 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('positivas/TipoEnvio/CONTINUAR_qnRecibe'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/positivas/TipoEnvio/td_LINCE'), 'LINCE')
+WebUI.click(findTestObject('positivas/Sobres/button_IR A PAGAR'))
 
 WebUI.delay(5)
 

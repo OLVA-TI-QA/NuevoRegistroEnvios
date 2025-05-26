@@ -6,12 +6,12 @@
    <elementGuidId>55d40f22-a917-4931-a043-dcc19ebf25e3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.btn-icon</value>
+         <key>XPATH</key>
+         <value>(//button[@id='avanzarMediosDePago']/img)[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='avanzarToSelectOrigen']/img</value>
+         <key>CSS</key>
+         <value>div.contenedor.pt-1.px-0.pb-3 > #avanzarMediosDePago > img.btn-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>3d79efb7-680b-47af-bf7e-9eebe64fc963</webElementGuid>
+      <webElementGuid>eac30ded-3049-4b47-bcbb-850258c1dd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>assets/images/icon_arrow_right.png</value>
-      <webElementGuid>639c4c15-8176-4c00-b573-75af0457c1d8</webElementGuid>
+      <webElementGuid>af27b7be-aeed-4050-afbe-4927ff2a16a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>3095edb0-1e92-402f-b876-780233770628</webElementGuid>
+      <webElementGuid>2d49b942-cbc5-4458-87f8-5d3b8a21264a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>b7332042-c442-4d40-ae45-558c1b50caf8</webElementGuid>
+      <webElementGuid>e6f4130c-c07d-4148-abf2-6622aa3dee1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-icon</value>
-      <webElementGuid>8b5fc0b5-88c6-4df3-8d74-e9e06393d1ae</webElementGuid>
+      <webElementGuid>567b8af5-4219-4b54-9a4b-04352f2569a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;avanzarToSelectOrigen&quot;)/img[@class=&quot;btn-icon&quot;]</value>
-      <webElementGuid>954e9bff-b7b9-4e63-926c-446a4d66fac6</webElementGuid>
+      <value>id(&quot;content&quot;)/main[1]/app-listar-envios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive padding-left-listar-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div px-3 m-listar-contenedor-responsive mb-listar-responsive ng-star-inserted&quot;]/div[@class=&quot;contenedor pt-1 px-0 pb-3&quot;]/button[@id=&quot;avanzarMediosDePago&quot;]/img[@class=&quot;btn-icon&quot;]</value>
+      <webElementGuid>2c1d8670-a1b8-4a15-878a-541a43958810</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='avanzarToSelectOrigen']/img</value>
-      <webElementGuid>64e0f27f-188f-4aa7-9c18-2d04c7669bff</webElementGuid>
+      <value>(//button[@id='avanzarMediosDePago']/img)[2]</value>
+      <webElementGuid>7ddc68df-1631-438c-ab53-f9514ca4fed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/img</value>
-      <webElementGuid>ae7d6756-e662-4672-a8b9-a857fcb1d7e3</webElementGuid>
+      <webElementGuid>000eb68d-278e-451a-9694-3aadad424fb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,15 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'assets/images/icon_arrow_right.png']</value>
-      <webElementGuid>9ee0be3a-9037-4d8d-a621-6e39a4197f1f</webElementGuid>
+      <webElementGuid>909d8ccd-4608-4a35-be0e-bd89adc7b681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='avanzarToSelectOrigen']/img</value>
+      <webElementGuid>64e0f27f-188f-4aa7-9c18-2d04c7669bff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

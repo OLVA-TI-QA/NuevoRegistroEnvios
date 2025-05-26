@@ -6,12 +6,12 @@
    <elementGuidId>63466488-cf98-4391-a554-4bca19d1381b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#volverToSeccionOrigen</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='volverToSeccionOrigen']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#volverToSeccionOrigen</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4eaf7466-fb85-4901-ae85-669dc9bc34ac</webElementGuid>
+      <webElementGuid>f254c100-9241-4182-8fcb-e79676b6c465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>volverToSeccionOrigen</value>
-      <webElementGuid>cb9e6522-afbb-433b-b63e-8c616328e0c1</webElementGuid>
+      <webElementGuid>ec7ada3c-1d19-4852-86aa-b0c5fa0395db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>secondary-boton px-3 me-2</value>
-      <webElementGuid>1c9493af-a20e-4dea-bf19-b2e4b0d83cf9</webElementGuid>
+      <webElementGuid>fa7cc514-a183-45de-8f4f-419d63c06a1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>VOLVER</value>
-      <webElementGuid>95778fac-f42d-4bcc-96cd-68d2307ffdd4</webElementGuid>
+      <webElementGuid>3fd65032-60bf-446f-bea9-ca7969067556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;volverToSeccionOrigen&quot;)</value>
-      <webElementGuid>ee2df502-208d-45de-a227-300958840745</webElementGuid>
+      <webElementGuid>884ad0ad-495c-4bc3-9db7-ca0728f3b6c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,63 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='volverToSeccionOrigen']</value>
-      <webElementGuid>56d37581-0a6f-4aaa-82e9-6140e66217fe</webElementGuid>
+      <webElementGuid>5928ecae-8fba-46af-8045-faed657e58ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-listar-envios/div[2]/div[2]/div/div[2]/app-que-envias/div/div[6]/button</value>
+      <webElementGuid>80e285eb-7a2a-425d-8a24-d1788f19f2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagar en línea.'])[1]/following::button[1]</value>
+      <webElementGuid>7545b830-f473-4f72-84a6-e5f44339652e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::button[1]</value>
+      <webElementGuid>71313d3c-5083-4a64-8acb-ad1be2675988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::button[2]</value>
+      <webElementGuid>5426e242-ddb5-491a-a4e3-36e85ca8a123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VOLVER']/parent::*</value>
+      <webElementGuid>604bf54e-ccf5-4685-a38e-09ac037589fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>beb51e1e-955d-4e01-b9a6-3eb36160c343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'volverToSeccionOrigen' and (text() = 'VOLVER' or . = 'VOLVER')]</value>
+      <webElementGuid>707eae83-ecff-4cda-a5e2-fe3f4523306e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,26 +163,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='VOLVER']/parent::*</value>
-      <webElementGuid>423ee9f9-912f-41f6-a2bc-2f70162ddc2d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/button</value>
       <webElementGuid>a85a0abe-d726-45bd-b796-7e7cbf8926ca</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'volverToSeccionOrigen' and (text() = 'VOLVER' or . = 'VOLVER')]</value>
-      <webElementGuid>7ceccfd2-4261-475d-b845-76b348605b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,22 +191,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MUY PRONTO'])[1]/following::button[1]</value>
       <webElementGuid>57cfeb4a-58b9-41f2-b6ea-d8c78f9c64e5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[2]/preceding::button[1]</value>
-      <webElementGuid>d5d1208c-d6d9-4494-a960-75edfb9e4505</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='VOLVER'])[2]/preceding::button[2]</value>
-      <webElementGuid>e84d2a4a-e88c-4815-b21b-311da1b595fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

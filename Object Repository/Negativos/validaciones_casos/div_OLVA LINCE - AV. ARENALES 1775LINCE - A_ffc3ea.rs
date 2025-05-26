@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OLVA LINCE - AV. ARENALES 1775LINCE - A_ffc3ea</name>
+   <tag></tag>
+   <elementGuidId>8c2c576d-9383-4456-a7b2-52c3cda80198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.font-13.ng-star-inserted.hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8bdf69cc-d110-4c47-8ada-8bf72653630a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item font-13 ng-star-inserted hover</value>
+      <webElementGuid>439ac417-db12-4cc0-a856-c8590443e400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00</value>
+      <webElementGuid>09b2dc78-76a3-4259-ba4f-7ded431e4964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/main[1]/app-formulario-envio[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row px-4 pxc&quot;]/div[@class=&quot;col-personalized-3 margin-top-responsive&quot;]/div[@class=&quot;shadow border-card contenedor-div&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row justify-content-center ng-star-inserted&quot;]/div[@class=&quot;col-md-12 row mt-2 ng-star-inserted&quot;]/div[@class=&quot;col-md-6 scroll-content&quot;]/div[@class=&quot;item font-13 ng-star-inserted hover&quot;]</value>
+      <webElementGuid>6164e2d1-cdb0-4b25-86c5-e7e74748bd0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[4]/div[2]/div</value>
+      <webElementGuid>047d2a7e-2ca2-4195-93d3-8fff3d061f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/following::div[2]</value>
+      <webElementGuid>5cd6b273-3434-4328-bfb6-bf4ffe0e225c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>1d2b741f-05c1-4052-8efe-55724422c10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00' or . = 'OLVA LINCE - AV. ARENALES 1775LINCE - AV GENERAL ALVAREZ DE ARENALES NRO 1775 AbiertoLunes - Viernes 08:00 - 18:00')]</value>
+      <webElementGuid>e6c6c106-adeb-4aaa-947b-63f93413a04b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

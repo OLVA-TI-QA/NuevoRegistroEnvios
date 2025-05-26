@@ -42,7 +42,7 @@ WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Ing
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_LIMA - LIMA - MIRAFLORES'))
 
-WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/span_Realizan el pago al recoger el envo, e_879eb4'))
+WebUI.click(findTestObject('positivas/TipoEnvio/span_mercancia peligrosa_slider round'))
 
 WebUI.click(findTestObject('positivas/TipoEnvio/CONTINUAR_queenvias'))
 
@@ -76,6 +76,8 @@ WebUI.click(findTestObject('positivas/TipoEnvio/input_SELECCIONE EL DESTINO DE S
 
 WebUI.delay(8)
 
+WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_DIRECCIN EXACTA_inputReferenciaDestino'), 'fghj')
+
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/button_CONTINUAR_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/positivas/CargoAdjunto/select_TIPO DE DOCUMENTO  DNI  RUC  C.E'), 
@@ -85,6 +87,8 @@ WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/label_NMERO
 
 WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Completa los datos de la persona que _27237c'), 
     '123456789')
+
+WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/input_APELLIDO MATERNO_inputCelularConsignado'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_APELLIDO MATERNO_inputCelularConsignado'), 
     '987654321')
@@ -101,7 +105,9 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/positivas/CargoAdjun
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/div_RECOJO EN  TIENDAAGENTEEjemImpresoras, _f96a59'))
 
 WebUI.setText(findTestObject('Object Repository/positivas/CargoAdjunto/input_Impresoras, laptops, consolas, etc_se_20c89d'), 
-    'callao')
+    'lima')
+
+WebUI.delay(4)
 
 WebUI.click(findTestObject('Object Repository/positivas/CargoAdjunto/input_Impresoras, laptops, consolas, etc_se_20c89d'))
 

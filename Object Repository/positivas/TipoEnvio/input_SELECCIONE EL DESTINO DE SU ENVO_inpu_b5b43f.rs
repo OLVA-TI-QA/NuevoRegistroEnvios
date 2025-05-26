@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//ul[@id='country-list_1']/li)[1]</value>
+         <value>//input[@id='inputDireccionDestino']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e876c79-4a16-4a53-abbe-53e1f0e10bb0</webElementGuid>
+      <webElementGuid>d3e9cf6a-86d8-4381-bab1-2aa614e50b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>837a6ee9-23ba-4dd7-b4b8-d463bd3dd954</webElementGuid>
+      <webElementGuid>615944ac-a3f5-4d6a-a7ef-60da5aec2f2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>55af2ae6-cbe5-49c5-b3d9-8abcc542e968</webElementGuid>
+      <webElementGuid>5411964b-55cf-4192-a6be-11e7b3f61439</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inputDireccionDestino</value>
-      <webElementGuid>36e025e2-04cd-4a5a-8e32-0328d2c8159b</webElementGuid>
+      <webElementGuid>74642b1d-3747-49e5-9733-e983bf47b111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>inputDireccionDestino</value>
-      <webElementGuid>bb66d9c6-c307-4252-83f4-8414980077aa</webElementGuid>
+      <webElementGuid>73be072e-258a-4b29-8ec2-b31a7caf5ab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>36ee0629-670f-4cbc-b18e-4f3ef0fc58ed</webElementGuid>
+      <webElementGuid>8f188bf9-4292-4d36-9ada-9991957308c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>e7a6d879-81ef-420a-a2c4-e7a6ecddc870</webElementGuid>
+      <webElementGuid>b27d1f48-dd07-4916-bd84-dae0d480bd6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>ng-reflect-maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>7fe2a487-d551-4b4f-b3e8-06e41ee93fcb</webElementGuid>
+      <webElementGuid>64548c63-15eb-48ce-99a0-03390abcc6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>ng-reflect-name</name>
       <type>Main</type>
       <value>inputDireccionDestino</value>
-      <webElementGuid>0eba44a9-7384-4a96-9011-23178eee21b8</webElementGuid>
+      <webElementGuid>16d91584-4a64-4e46-ba76-b6986c6a2e2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputDireccionDestino&quot;)</value>
-      <webElementGuid>b685b183-cde1-4739-a086-f57378f4c7cb</webElementGuid>
+      <webElementGuid>3e329b97-2cdc-4885-805a-989f25dc7f97</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputDireccionDestino']</value>
-      <webElementGuid>9ac38845-3906-4ae4-89b5-0a1174fce22f</webElementGuid>
+      <webElementGuid>3635fd80-2dd8-41e2-a664-ac2573cee66d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/main/app-formulario-envio/div[2]/div[2]/div/div/div[3]/div[3]/div/div[2]/input</value>
-      <webElementGuid>ad7533a3-3b7e-451f-a58f-6343d7f737ae</webElementGuid>
+      <webElementGuid>ccc0692d-8f9a-4dde-afd3-9f8641df0adf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>169b9450-7d31-4ff6-ab52-0a28facb8e3a</webElementGuid>
+      <webElementGuid>bb82fde6-c4c6-4478-9931-bbd0b100a65b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'inputDireccionDestino']</value>
-      <webElementGuid>2a392e7f-85da-457b-a84c-05ed57e6a7dd</webElementGuid>
+      <webElementGuid>d33d3dc3-a5aa-4eca-a9f7-dfa8e194951a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
